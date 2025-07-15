@@ -1,53 +1,38 @@
-from fastapi import FastAPI
-from fastapi.responses import JSONResponse
-import requests
-from bs4 import BeautifulSoup
+from flask import Flask, jsonify
+import os
+import json
+import random
 
-app = FastAPI()
+app = Flask(__name__)
 
-def scrape_fakexy(country_code: str):
-    url = f"https://www.fakexy.com/fake-address-generator-{country_code.lower()}"
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
+DATA_DIR = "data"
+
+@app.route('/api/address/<country_code>', methods=['GET'])
+def get_random_address(country_code):
+    file_path = os.path.join(DATA_DIR, f"{country_code.upper()}.json")
+    
+    if not os.path.exists(file_path):
+        return jsonify({"error": "Country code not found"}), 404
 
     try:
-        res = requests.get(url, headers=headers)
-        if res.status_code != 200:
-            return {"error": f"Invalid country code or site unavailable: {country_code}"}
+        with open(file_path, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-        soup = BeautifulSoup(res.text, 'html.parser')
+        # ফাইলে একটা মাত্র টপ-লেভেল key থাকবে – দেশের নাম
+        country_keys = list(data.keys())
+        if not country_keys:
+            return jsonify({"error": "No country data found"}), 404
+        
+        addresses = data[country_keys[0]]
+        
+        if not isinstance(addresses, list) or len(addresses) == 0:
+            return jsonify({"error": "No addresses found"}), 404
 
-        tables = soup.find_all("table", class_="table")
-        if len(tables) < 3:
-            return {"error": "Not enough data tables found in page"}
-
-        # 1st table: Address
-        address_rows = tables[0].find_all("tr")
-        data = {}
-        for row in address_rows:
-            cols = row.find_all("td")
-            if len(cols) == 2:
-                data[cols[0].text.strip()] = cols[1].text.strip()
-
-        # 2nd table: Matched Person
-        for row in tables[1].find_all("tr"):
-            cols = row.find_all("td")
-            if len(cols) == 2:
-                data[cols[0].text.strip()] = cols[1].text.strip()
-
-        # 3rd table: Credit Card Info
-        for row in tables[2].find_all("tr"):
-            cols = row.find_all("td")
-            if len(cols) == 2:
-                data[cols[0].text.strip()] = cols[1].text.strip()
-
-        return data
+        random_address = random.choice(addresses)
+        return jsonify(random_address)
 
     except Exception as e:
-        return {"error": str(e)}
+        return jsonify({"error": f"Failed to load data: {str(e)}"}), 500
 
-@app.get("/scrape/{country_code}")
-def get_fake_data(country_code: str):
-    data = scrape_fakexy(country_code)
-    return JSONResponse(content=data)
+if __name__ == '__main__':
+    app.run(debug=True)
