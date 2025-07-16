@@ -1,5 +1,4 @@
-{
-  "Sri Lanka": [
+[
     {
       "street_address": "123 Galle Road",
       "street_name": "Galle Road",
@@ -56,4 +55,3 @@
       "currency": "LKR"
     }
   ]
-}
