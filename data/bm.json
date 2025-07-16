@@ -1,0 +1,59 @@
+{
+  "Bermuda": [
+    {
+      "street_address": "12 Front Street",
+      "street_name": "Front Street",
+      "building_number": "12",
+      "city": "Hamilton",
+      "state": "Pembroke Parish",
+      "postal_code": "HM11",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "currency": "BMD"
+    },
+    {
+      "street_address": "45 Reid Street",
+      "street_name": "Reid Street",
+      "building_number": "45",
+      "city": "Hamilton",
+      "state": "Pembroke Parish",
+      "postal_code": "HM12",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "currency": "BMD"
+    },
+    {
+      "street_address": "78 Church Street",
+      "street_name": "Church Street",
+      "building_number": "78",
+      "city": "Hamilton",
+      "state": "Pembroke Parish",
+      "postal_code": "HM13",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "currency": "BMD"
+    },
+    {
+      "street_address": "101 Middle Road",
+      "street_name": "Middle Road",
+      "building_number": "101",
+      "city": "Southampton",
+      "state": "Southampton Parish",
+      "postal_code": "SN04",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "currency": "BMD"
+    },
+    {
+      "street_address": "34 Somerset Road",
+      "street_name": "Somerset Road",
+      "building_number": "34",
+      "city": "Sandys",
+      "state": "Sandys Parish",
+      "postal_code": "MA06",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "currency": "BMD"
+    }
+  ]
+}
