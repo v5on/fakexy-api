@@ -1,5 +1,4 @@
-{
-  "Palestine": [
+[
     {
       "street_address": "123 Al-Irsal Street",
       "street_name": "Al-Irsal Street",
@@ -56,4 +55,3 @@
       "currency": "ILS"
     }
   ]
-}
