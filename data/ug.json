@@ -1,0 +1,59 @@
+{
+  "Uganda": [
+    {
+      "street_address": "123 Kampala Road",
+      "street_name": "Kampala Road",
+      "building_number": "123",
+      "city": "Kampala",
+      "state": "Central Region",
+      "postal_code": "256",
+      "country": "Uganda",
+      "country_code": "UG",
+      "currency": "UGX"
+    },
+    {
+      "street_address": "45 Gulu Main Street",
+      "street_name": "Gulu Main Street",
+      "building_number": "45",
+      "city": "Gulu",
+      "state": "Northern Region",
+      "postal_code": "256",
+      "country": "Uganda",
+      "country_code": "UG",
+      "currency": "UGX"
+    },
+    {
+      "street_address": "78 Kabale Street",
+      "street_name": "Kabale Street",
+      "building_number": "78",
+      "city": "Kabale",
+      "state": "Western Region",
+      "postal_code": "256",
+      "country": "Uganda",
+      "country_code": "UG",
+      "currency": "UGX"
+    },
+    {
+      "street_address": "101 Jinja Road",
+      "street_name": "Jinja Road",
+      "building_number": "101",
+      "city": "Jinja",
+      "state": "Eastern Region",
+      "postal_code": "256",
+      "country": "Uganda",
+      "country_code": "UG",
+      "currency": "UGX"
+    },
+    {
+      "street_address": "34 Entebbe Street",
+      "street_name": "Entebbe Street",
+      "building_number": "34",
+      "city": "Entebbe",
+      "state": "Central Region",
+      "postal_code": "256",
+      "country": "Uganda",
+      "country_code": "UG",
+      "currency": "UGX"
+    }
+  ]
+}
