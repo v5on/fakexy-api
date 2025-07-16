@@ -1,0 +1,59 @@
+{
+  "Oman": [
+    {
+      "street_address": "123 Sultan Qaboos Street",
+      "street_name": "Sultan Qaboos Street",
+      "building_number": "123",
+      "city": "Muscat",
+      "state": "Muscat Governorate",
+      "postal_code": "133",
+      "country": "Oman",
+      "country_code": "OM",
+      "currency": "OMR"
+    },
+    {
+      "street_address": "45 Al Khuwair Street",
+      "street_name": "Al Khuwair Street",
+      "building_number": "45",
+      "city": "Muscat",
+      "state": "Muscat Governorate",
+      "postal_code": "115",
+      "country": "Oman",
+      "country_code": "OM",
+      "currency": "OMR"
+    },
+    {
+      "street_address": "78 Sohar Industrial Road",
+      "street_name": "Sohar Industrial Road",
+      "building_number": "78",
+      "city": "Sohar",
+      "state": "Al Batinah North",
+      "postal_code": "321",
+      "country": "Oman",
+      "country_code": "OM",
+      "currency": "OMR"
+    },
+    {
+      "street_address": "101 Al Wadi Al Kabir",
+      "street_name": "Al Wadi Al Kabir",
+      "building_number": "101",
+      "city": "Muttrah",
+      "state": "Muscat Governorate",
+      "postal_code": "114",
+      "country": "Oman",
+      "country_code": "OM",
+      "currency": "OMR"
+    },
+    {
+      "street_address": "34 Salalah Central Road",
+      "street_name": "Salalah Central Road",
+      "building_number": "34",
+      "city": "Salalah",
+      "state": "Dhofar",
+      "postal_code": "211",
+      "country": "Oman",
+      "country_code": "OM",
+      "currency": "OMR"
+    }
+  ]
+}
