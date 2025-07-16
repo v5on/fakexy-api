@@ -1,0 +1,59 @@
+{
+  "Maldives": [
+    {
+      "street_address": "123 Majeedhee Magu",
+      "street_name": "Majeedhee Magu",
+      "building_number": "123",
+      "city": "Malé",
+      "state": "Kaafu Atoll",
+      "postal_code": "20217",
+      "country": "Maldives",
+      "country_code": "MV",
+      "currency": "MVR"
+    },
+    {
+      "street_address": "45 Orchid Magu",
+      "street_name": "Orchid Magu",
+      "building_number": "45",
+      "city": "Malé",
+      "state": "Kaafu Atoll",
+      "postal_code": "20188",
+      "country": "Maldives",
+      "country_code": "MV",
+      "currency": "MVR"
+    },
+    {
+      "street_address": "78 Fareedhee Magu",
+      "street_name": "Fareedhee Magu",
+      "building_number": "78",
+      "city": "Malé",
+      "state": "Kaafu Atoll",
+      "postal_code": "20202",
+      "country": "Maldives",
+      "country_code": "MV",
+      "currency": "MVR"
+    },
+    {
+      "street_address": "101 Boduthakurufaanu Magu",
+      "street_name": "Boduthakurufaanu Magu",
+      "building_number": "101",
+      "city": "Hulhumalé",
+      "state": "Kaafu Atoll",
+      "postal_code": "23000",
+      "country": "Maldives",
+      "country_code": "MV",
+      "currency": "MVR"
+    },
+    {
+      "street_address": "34 Hiyfaseyha Goalhi",
+      "street_name": "Hiyfaseyha Goalhi",
+      "building_number": "34",
+      "city": "Malé",
+      "state": "Kaafu Atoll",
+      "postal_code": "20196",
+      "country": "Maldives",
+      "country_code": "MV",
+      "currency": "MVR"
+    }
+  ]
+}
