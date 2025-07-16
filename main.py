@@ -1,135 +1,73 @@
-from flask import Flask, jsonify, request, render_template
+from fastapi import FastAPI, Request, Query, HTTPException
+from fastapi.responses import JSONResponse, HTMLResponse
+from fastapi.staticfiles import StaticFiles
+from fastapi.templating import Jinja2Templates
 from collections import OrderedDict
-import json
-import random
-import os
+import os, json, random
 
-app = Flask(__name__)
+app = FastAPI()
 
-# Constants
 API_OWNER = "Mahir Labib"
 API_UPDATES = "https://t.me/bro_bin_lagbe"
 
-@app.route('/', methods=['GET'])
-def index():
-    return render_template('index.html')
+# Mount static files
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
-@app.route('/api/address', methods=['GET'])
-def get_address():
-    country_code = request.args.get('code', '').upper()
+# Set templates folder
+templates = Jinja2Templates(directory="templates")
 
-    if not country_code:
-        return jsonify({
-            "error": "Country code is required",
-            "api_owner": API_OWNER,
-            "api_updates": API_UPDATES
-        }), 400
 
-    file_path = os.path.join('data', f"{country_code.lower()}.json")
+@app.get("/", response_class=HTMLResponse)
+async def render_index(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
 
-    try:
-        with open(file_path, 'r') as file:
-            addresses = json.load(file, object_pairs_hook=OrderedDict)  # 👈 এখানেই ম্যাজিক
 
-        if not addresses:
-            return jsonify({
-                "error": "No addresses found for this country code",
-                "api_owner": API_OWNER,
-                "api_updates": API_UPDATES
-            }), 404
+@app.get("/api/address")
+def get_address(code: str = Query(...)):
+    file_path = os.path.join("data", f"{code.lower()}.json")
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="Country code not found")
 
-        raw = random.choice(addresses)
+    with open(file_path, "r", encoding="utf-8") as f:
+        addresses = json.load(f, object_pairs_hook=OrderedDict)
 
-        # Add owner info at the top
-        response_data = OrderedDict()
-        response_data["api_owner"] = API_OWNER
-        response_data["api_updates"] = API_UPDATES
+    if not addresses:
+        raise HTTPException(status_code=404, detail="No addresses found for this country")
 
-        for key, value in raw.items():
-            response_data[key] = value  # 😎 Preserve exact order
+    raw = random.choice(addresses)
 
-        return jsonify(response_data)
+    result = OrderedDict()
+    result["api_owner"] = API_OWNER
+    result["api_updates"] = API_UPDATES
+    for key, val in raw.items():
+        result[key] = val
 
-    except FileNotFoundError:
-        return jsonify({
-            "error": "Country code not found",
-            "api_owner": API_OWNER,
-            "api_updates": API_UPDATES
-        }), 404
+    return JSONResponse(content=result)
 
-    except Exception as e:
-        return jsonify({
-            "error": str(e),
-            "api_owner": API_OWNER,
-            "api_updates": API_UPDATES
-        }), 500
 
-@app.route('/api/countries', methods=['GET'])
+@app.get("/api/countries")
 def get_country_list():
-    data_dir = 'data'
+    data_dir = "data"
     country_list = []
 
     try:
         for filename in os.listdir(data_dir):
-            if filename.endswith('.json'):
-                country_code = filename.replace('.json', '').upper()
-                with open(os.path.join(data_dir, filename), 'r') as f:
+            if filename.endswith(".json"):
+                code = filename.replace(".json", "").upper()
+                with open(os.path.join(data_dir, filename), "r", encoding="utf-8") as f:
                     data = json.load(f)
-                    if isinstance(data, list) and len(data) > 0 and "country" in data[0]:
-                        country_name = data[0]["country"]
-                    else:
-                        country_name = country_code  # fallback
+                    country_name = data[0]["country"] if data and "country" in data[0] else code
                     country_list.append({
                         "country": country_name,
-                        "country_code": country_code
+                        "country_code": code
                     })
 
-        return jsonify({
+        return {
             "total": len(country_list),
             "countries": country_list,
             "api_owner": API_OWNER,
             "api_updates": API_UPDATES
-        })
+        }
 
     except Exception as e:
-        return jsonify({
-            "error": str(e),
-            "api_owner": API_OWNER,
-            "api_updates": API_UPDATES
-        }), 500
-
-@app.errorhandler(404)
-def page_not_found(e):
-    return '''
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Error</title>
-        <style>
-            body {
-                background-color: #ffffff;
-                font-family: Arial, sans-serif;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                height: 100vh;
-                margin: 0;
-                color: #333;
-            }
-            .error-message {
-                text-align: center;
-                font-size: 24px;
-                font-weight: bold;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="error-message">Error: Wrong Endpoint</div>
-    </body>
-    </html>
-    ''', 404
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+        raise HTTPException(status_code=500, detail=str(e))
