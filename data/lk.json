@@ -1,0 +1,59 @@
+{
+  "Sri Lanka": [
+    {
+      "street_address": "123 Galle Road",
+      "street_name": "Galle Road",
+      "building_number": "123",
+      "city": "Colombo",
+      "state": "Western Province",
+      "postal_code": "00300",
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "currency": "LKR"
+    },
+    {
+      "street_address": "45 Kandy Road",
+      "street_name": "Kandy Road",
+      "building_number": "45",
+      "city": "Kandy",
+      "state": "Central Province",
+      "postal_code": "20000",
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "currency": "LKR"
+    },
+    {
+      "street_address": "78 Matara Road",
+      "street_name": "Matara Road",
+      "building_number": "78",
+      "city": "Galle",
+      "state": "Southern Province",
+      "postal_code": "80000",
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "currency": "LKR"
+    },
+    {
+      "street_address": "101 Main Street",
+      "street_name": "Main Street",
+      "building_number": "101",
+      "city": "Jaffna",
+      "state": "Northern Province",
+      "postal_code": "40000",
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "currency": "LKR"
+    },
+    {
+      "street_address": "34 Hospital Street",
+      "street_name": "Hospital Street",
+      "building_number": "34",
+      "city": "Negombo",
+      "state": "Western Province",
+      "postal_code": "11500",
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "currency": "LKR"
+    }
+  ]
+}
