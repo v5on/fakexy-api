@@ -1,14 +1,15 @@
 {
-  "functions": {
-    "api/address.py": {
-      "runtime": "python3.9"
-    },
-    "api/countries.py": {
-      "runtime": "python3.9"
+  "version": 2,
+  "builds": [
+    {
+      "src": "main.py",
+      "use": "@vercel/python"
     }
-  },
+  ],
   "routes": [
-    { "src": "/api/address", "dest": "api/address.py" },
-    { "src": "/api/countries", "dest": "api/countries.py" }
+    {
+      "src": "/(.*)",
+      "dest": "main.py"
+    }
   ]
 }
