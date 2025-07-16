@@ -1,57 +1,57 @@
 [
-    {
-      "street_address": "123 Václavské náměstí",
-      "street_name": "Václavské náměstí",
-      "building_number": "123",
-      "city": "Prague",
-      "state": "Prague",
-      "postal_code": "110 00",
-      "country": "Czechia",
-      "country_code": "CZ",
-      "currency": "CZK"
-    },
-    {
-      "street_address": "45 Česká ulice",
-      "street_name": "Česká ulice",
-      "building_number": "45",
-      "city": "Brno",
-      "state": "South Moravian Region",
-      "postal_code": "602 00",
-      "country": "Czechia",
-      "country_code": "CZ",
-      "currency": "CZK"
-    },
-    {
-      "street_address": "78 Hlavní třída",
-      "street_name": "Hlavní třída",
-      "building_number": "78",
-      "city": "Ostrava",
-      "state": "Moravian-Silesian Region",
-      "postal_code": "702 00",
-      "country": "Czechia",
-      "country_code": "CZ",
-      "currency": "CZK"
-    },
-    {
-      "street_address": "101 Masarykovo náměstí",
-      "street_name": "Masarykovo náměstí",
-      "building_number": "101",
-      "city": "Olomouc",
-      "state": "Olomouc Region",
-      "postal_code": "779 00",
-      "country": "Czechia",
-      "country_code": "CZ",
-      "currency": "CZK"
-    },
-    {
-      "street_address": "34 Plzeňská",
-      "street_name": "Plzeňská",
-      "building_number": "34",
-      "city": "Plzeň",
-      "state": "Plzeň Region",
-      "postal_code": "301 00",
-      "country": "Czechia",
-      "country_code": "CZ",
-      "currency": "CZK"
-    }
-  ]
+  {
+    "street_address": "123 Rustaveli Avenue",
+    "street_name": "Rustaveli Avenue",
+    "building_number": "123",
+    "city": "Tbilisi",
+    "state": "Tbilisi",
+    "postal_code": "0108",
+    "country": "Georgia",
+    "country_code": "GE",
+    "currency": "GEL"
+  },
+  {
+    "street_address": "456 Agmashenebeli Avenue",
+    "street_name": "Agmashenebeli Avenue",
+    "building_number": "456",
+    "city": "Tbilisi",
+    "state": "Tbilisi",
+    "postal_code": "0112",
+    "country": "Georgia",
+    "country_code": "GE",
+    "currency": "GEL"
+  },
+  {
+    "street_address": "789 Gamsakhurdia Street",
+    "street_name": "Gamsakhurdia Street",
+    "building_number": "789",
+    "city": "Batumi",
+    "state": "Adjara",
+    "postal_code": "6000",
+    "country": "Georgia",
+    "country_code": "GE",
+    "currency": "GEL"
+  },
+  {
+    "street_address": "101 Kutaisi Street",
+    "street_name": "Kutaisi Street",
+    "building_number": "101",
+    "city": "Kutaisi",
+    "state": "Imereti",
+    "postal_code": "4600",
+    "country": "Georgia",
+    "country_code": "GE",
+    "currency": "GEL"
+  },
+  {
+    "street_address": "34 Zugdidi Avenue",
+    "street_name": "Zugdidi Avenue",
+    "building_number": "34",
+    "city": "Zugdidi",
+    "state": "Samegrelo",
+    "postal_code": "2100",
+    "country": "Georgia",
+    "country_code": "GE",
+    "currency": "GEL"
+  }
+]
