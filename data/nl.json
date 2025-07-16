@@ -1,5 +1,4 @@
-{
-  "Netherlands": [
+[
     {
       "street_address": "123 Damrak",
       "street_name": "Damrak",
@@ -56,4 +55,3 @@
       "currency": "EUR"
     }
   ]
-}
