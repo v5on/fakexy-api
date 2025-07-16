@@ -1,0 +1,59 @@
+{
+  "Yemen": [
+    {
+      "street_address": "123 Al-Zubairi Street",
+      "street_name": "Al-Zubairi Street",
+      "building_number": "123",
+      "city": "Sana'a",
+      "state": "Sana'a Governorate",
+      "postal_code": "10001",
+      "country": "Yemen",
+      "country_code": "YE",
+      "currency": "YER"
+    },
+    {
+      "street_address": "45 Al-Mina Street",
+      "street_name": "Al-Mina Street",
+      "building_number": "45",
+      "city": "Aden",
+      "state": "Aden Governorate",
+      "postal_code": "20001",
+      "country": "Yemen",
+      "country_code": "YE",
+      "currency": "YER"
+    },
+    {
+      "street_address": "78 Al-Qahira Street",
+      "street_name": "Al-Qahira Street",
+      "building_number": "78",
+      "city": "Taiz",
+      "state": "Taiz Governorate",
+      "postal_code": "30001",
+      "country": "Yemen",
+      "country_code": "YE",
+      "currency": "YER"
+    },
+    {
+      "street_address": "101 Al-Kuwait Street",
+      "street_name": "Al-Kuwait Street",
+      "building_number": "101",
+      "city": "Ibb",
+      "state": "Ibb Governorate",
+      "postal_code": "40001",
+      "country": "Yemen",
+      "country_code": "YE",
+      "currency": "YER"
+    },
+    {
+      "street_address": "34 Al-Mahwit Street",
+      "street_name": "Al-Mahwit Street",
+      "building_number": "34",
+      "city": "Al Hudaydah",
+      "state": "Al Hudaydah Governorate",
+      "postal_code": "50001",
+      "country": "Yemen",
+      "country_code": "YE",
+      "currency": "YER"
+    }
+  ]
+}
