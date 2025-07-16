@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SmartDev Address API</title>
+  <title>bBINl Fake Address Generator API</title>
+  <link rel="icon" href="favicon.png" type="image/png">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     body {
@@ -21,7 +22,7 @@
   <div class="max-w-6xl mx-auto p-6">
     
     <!-- Title -->
-    <h1 class="text-4xl font-bold text-center gradient-text mb-8">SmartDev Fake Address Generator API</h1>
+    <h1 class="text-4xl font-bold text-center gradient-text mb-8">bBINl Fake Address Generator API</h1>
 
     <!-- API Health Section -->
     <div class="text-center mb-8">
@@ -45,7 +46,10 @@
 
     <!-- Available Countries -->
     <div class="mb-12">
-      <h2 class="text-2xl font-semibold text-center mb-4">Available Countries</h2>
+      <div class="flex justify-center items-center gap-4 mb-4">
+        <h2 class="text-2xl font-semibold text-center">Available Countries</h2>
+        <span id="country-count" class="bg-blue-100 text-blue-800 text-sm font-medium px-2.5 py-0.5 rounded">Loading...</span>
+      </div>
       <div id="country-list" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 text-center">
         <!-- Country tags will be inserted here -->
       </div>
@@ -54,13 +58,39 @@
     <!-- API Documentation -->
     <div class="mb-12">
       <h2 class="text-2xl font-semibold text-center mb-4">API Documentation</h2>
-      <div class="bg-gray-100 p-4 rounded">
-        <h3 class="text-xl font-semibold mb-2">GET /api/address</h3>
-        <p><strong>Query Parameter:</strong> <code>?code=XX</code> — country code (e.g. <code>US</code>, <code>BD</code>)</p>
-        <p class="mt-2"><strong>Example:</strong></p>
-        <pre class="bg-white p-2 rounded text-sm">GET /api/address?code=AR</pre>
-        <p class="mt-4"><strong>Sample Success Response:</strong></p>
-        <pre class="bg-white p-2 rounded text-sm">
+      <div class="bg-gray-100 p-4 rounded space-y-6">
+        <div>
+          <h3 class="text-xl font-semibold mb-2">GET /api/countries</h3>
+          <p><strong>Description:</strong> Returns list of all available countries with their codes</p>
+          <p class="mt-2"><strong>Example:</strong></p>
+          <pre class="bg-white p-2 rounded text-sm">GET /api/countries</pre>
+          <p class="mt-4"><strong>Sample Success Response:</strong></p>
+          <pre class="bg-white p-2 rounded text-sm">
+{
+  "countries": [
+    {
+      "country": "Argentina",
+      "country_code": "AR"
+    },
+    {
+      "country": "United States",
+      "country_code": "US"
+    }
+  ],
+  "total_countries": 91,
+  "api_owner": "@ISmartCoder",
+  "api_updates": "t.me/TheSmartDev"
+}
+          </pre>
+        </div>
+
+        <div>
+          <h3 class="text-xl font-semibold mb-2">GET /api/address</h3>
+          <p><strong>Query Parameter:</strong> <code>?code=XX</code> — country code (e.g. <code>US</code>, <code>BD</code>)</p>
+          <p class="mt-2"><strong>Example:</strong></p>
+          <pre class="bg-white p-2 rounded text-sm">GET /api/address?code=AR</pre>
+          <p class="mt-4"><strong>Sample Success Response:</strong></p>
+          <pre class="bg-white p-2 rounded text-sm">
 {
   "building_number": "456",
   "city": "Los Angeles",
@@ -74,18 +104,21 @@
   "api_owner": "@ISmartCoder",
   "api_updates": "t.me/TheSmartDev"
 }
-        </pre>
-        <p class="mt-4"><strong>Error Response:</strong></p>
-        <pre class="bg-white p-2 rounded text-sm">
+          </pre>
+          <p class="mt-4"><strong>Error Response:</strong></p>
+          <pre class="bg-white p-2 rounded text-sm">
 {
   "error": "Invalid country code"
 }
-        </pre>
+          </pre>
+        </div>
       </div>
     </div>
   </div>
 
   <script>
+    let countriesData = [];
+
     async function checkAPIHealth() {
       try {
         const res = await fetch('/api/address?code=bd');
@@ -107,53 +140,98 @@
       try {
         const res = await fetch('/api/countries');
         const data = await res.json();
-
+        
         if (!data || !data.countries) return;
-
+        
+        countriesData = data.countries;
         const select = document.getElementById('country-select');
         const list = document.getElementById('country-list');
-
-        data.countries.forEach(c => {
+        const countElement = document.getElementById('country-count');
+        
+        // Update country count
+        countElement.textContent = `${data.total_countries || countriesData.length} Available Countries`;
+        
+        // Clear existing options/tags
+        select.innerHTML = '<option value="" disabled selected>Select Country</option>';
+        list.innerHTML = '';
+        
+        // Sort countries alphabetically
+        countriesData.sort((a, b) => a.country.localeCompare(b.country));
+        
+        countriesData.forEach(c => {
+          // Add to select dropdown
           const option = document.createElement('option');
           option.value = c.country_code;
           option.textContent = `${c.country} (${c.country_code})`;
           select.appendChild(option);
 
+          // Add to country list
           const tag = document.createElement('div');
-          tag.className = "bg-white border rounded px-3 py-1 text-sm hover:bg-blue-50";
+          tag.className = "bg-white border rounded px-3 py-1 text-sm hover:bg-blue-50 cursor-pointer";
           tag.textContent = `${c.country} (${c.country_code})`;
+          tag.addEventListener('click', () => {
+            document.getElementById('country-select').value = c.country_code;
+            generateAddress();
+          });
           list.appendChild(tag);
         });
       } catch (err) {
         console.error("Failed to load countries:", err);
+        document.getElementById('country-count').textContent = "Error loading countries";
+        document.getElementById('country-count').classList.add('text-red-600');
       }
     }
 
     async function generateAddress() {
       const code = document.getElementById('country-select').value;
       const output = document.getElementById('output');
+      
       if (!code) {
         output.textContent = "Please select a country first.";
         output.classList.add('text-red-600');
         return;
       }
 
+      output.textContent = "Generating address...";
+      output.classList.remove('text-red-600');
+      output.classList.add('text-gray-700');
+
       try {
         const res = await fetch(`/api/address?code=${code}`);
         const data = await res.json();
-        output.textContent = JSON.stringify(data, null, 2);
-        output.classList.remove('text-red-600');
-        output.classList.add('text-gray-700');
+        
+        if (data.error) {
+          throw new Error(data.error);
+        }
+        
+        // Format the output with labels
+        const formattedOutput = Object.entries(data)
+          .filter(([key]) => key !== 'api_owner' && key !== 'api_updates')
+          .map(([key, value]) => `${key.replace(/_/g, ' ').toUpperCase()}: ${value}`)
+          .join('\n\n') + 
+          `\n\nAPI Owner: ${data.api_owner || '@ISmartCoder'}\n` +
+          `API Updates: ${data.api_updates || 't.me/TheSmartDev'}`;
+          
+        output.textContent = formattedOutput;
       } catch (err) {
-        output.textContent = "Error fetching address.";
+        output.textContent = `Error: ${err.message || "Failed to fetch address"}`;
         output.classList.add('text-red-600');
       }
     }
 
     document.getElementById('generate-btn').addEventListener('click', generateAddress);
+    
+    // Initialize on load
     window.onload = () => {
       checkAPIHealth();
       loadCountries();
+      
+      // Add event listener for Enter key on select element
+      document.getElementById('country-select').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+          generateAddress();
+        }
+      });
     };
   </script>
 </body>
