@@ -1,0 +1,59 @@
+{
+  "Tanzania": [
+    {
+      "street_address": "123 Samora Avenue",
+      "street_name": "Samora Avenue",
+      "building_number": "123",
+      "city": "Dar es Salaam",
+      "state": "Dar es Salaam Region",
+      "postal_code": "14100",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "currency": "TZS"
+    },
+    {
+      "street_address": "45 Nyerere Road",
+      "street_name": "Nyerere Road",
+      "building_number": "45",
+      "city": "Dodoma",
+      "state": "Dodoma Region",
+      "postal_code": "41100",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "currency": "TZS"
+    },
+    {
+      "street_address": "78 Livingstone Street",
+      "street_name": "Livingstone Street",
+      "building_number": "78",
+      "city": "Arusha",
+      "state": "Arusha Region",
+      "postal_code": "23100",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "currency": "TZS"
+    },
+    {
+      "street_address": "101 Malawi Road",
+      "street_name": "Malawi Road",
+      "building_number": "101",
+      "city": "Mbeya",
+      "state": "Mbeya Region",
+      "postal_code": "53100",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "currency": "TZS"
+    },
+    {
+      "street_address": "34 Kiponda Street",
+      "street_name": "Kiponda Street",
+      "building_number": "34",
+      "city": "Zanzibar",
+      "state": "Zanzibar Urban/West Region",
+      "postal_code": "71100",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "currency": "TZS"
+    }
+  ]
+}
