@@ -1,5 +1,4 @@
-{
-  "Yemen": [
+[
     {
       "street_address": "123 Al-Zubairi Street",
       "street_name": "Al-Zubairi Street",
@@ -56,4 +55,3 @@
       "currency": "YER"
     }
   ]
-}
