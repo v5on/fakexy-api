@@ -1,74 +1,57 @@
 [
-    {
-      "city": "Buenos Aires",
-      "state": "CABA",
-      "street": "Av. Rivadavia 1234",
-      "country": "Argentina",
-      "postal_code": "C1033AAX"
-    },
-    {
-      "city": "Buenos Aires",
-      "state": "CABA",
-      "street": "Calle Florida 456",
-      "country": "Argentina",
-      "postal_code": "C1005AAX"
-    },
-    {
-      "city": "Buenos Aires",
-      "state": "CABA",
-      "street": "Av. Corrientes 789",
-      "country": "Argentina",
-      "postal_code": "C1043AAX"
-    },
-    {
-      "city": "Buenos Aires",
-      "state": "CABA",
-      "street": "Calle Lavalle 101",
-      "country": "Argentina",
-      "postal_code": "C1047AAX"
-    },
-    {
-      "city": "Buenos Aires",
-      "state": "CABA",
-      "street": "Av. Santa Fe 2345",
-      "country": "Argentina",
-      "postal_code": "C1123AAX"
-    }
-  ],
-  "Australia": [
-    {
-      "city": "Sydney",
-      "state": "NSW",
-      "street": "123 George Street",
-      "country": "Australia",
-      "postal_code": "2000"
-    },
-    {
-      "city": "Melbourne",
-      "state": "VIC",
-      "street": "456 Collins Street",
-      "country": "Australia",
-      "postal_code": "3000"
-    },
-    {
-      "city": "Brisbane",
-      "state": "QLD",
-      "street": "789 Queen Street",
-      "country": "Australia",
-      "postal_code": "4000"
-    },
-    {
-      "city": "Perth",
-      "state": "WA",
-      "street": "101 St Georges Terrace",
-      "country": "Australia",
-      "postal_code": "6000"
-    },
-    {
-      "city": "Canberra",
-      "state": "ACT",
-      "street": "34 Northbourne Avenue",
-      "country": "Australia",
-      "postal_code": "2601"
-    }
-  ]
+  {
+    "street_address": "12 Mall Road",
+    "street_name": "Mall Road",
+    "building_number": "12",
+    "city": "Lahore",
+    "state": "Punjab",
+    "postal_code": "54000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "45 Shahrah-e-Faisal",
+    "street_name": "Shahrah-e-Faisal",
+    "building_number": "45",
+    "city": "Karachi",
+    "state": "Sindh",
+    "postal_code": "75350",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "789 Jinnah Avenue",
+    "street_name": "Jinnah Avenue",
+    "building_number": "789",
+    "city": "Islamabad",
+    "state": "ICT",
+    "postal_code": "44000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "34 The Mall",
+    "street_name": "The Mall",
+    "building_number": "34",
+    "city": "Rawalpindi",
+    "state": "Punjab",
+    "postal_code": "46000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  },
+  {
+    "street_address": "12 University Road",
+    "street_name": "University Road",
+    "building_number": "12",
+    "city": "Peshawar",
+    "state": "Khyber Pakhtunkhwa",
+    "postal_code": "25000",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "currency": "PKR"
+  }
+]
