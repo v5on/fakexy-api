@@ -1,5 +1,4 @@
-{
-  "Iraq": [
+[
     {
       "street_address": "123 Karrada Street",
       "street_name": "Karrada Street",
@@ -56,4 +55,3 @@
       "currency": "IQD"
     }
   ]
-}
