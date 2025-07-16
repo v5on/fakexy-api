@@ -1,5 +1,4 @@
-{
-  "South Korea": [
+[
     {
       "street_address": "123 Teheran-ro",
       "street_name": "Teheran-ro",
@@ -56,4 +55,3 @@
       "currency": "KRW"
     }
   ]
-}
