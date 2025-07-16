@@ -1,5 +1,4 @@
-{
-  "Bolivia": [
+[
     {
       "street_address": "123 Avenida Mariscal Santa Cruz",
       "street_name": "Avenida Mariscal Santa Cruz",
@@ -56,4 +55,3 @@
       "currency": "BOB"
     }
   ]
-}
