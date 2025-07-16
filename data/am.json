@@ -1,0 +1,59 @@
+{
+  "Armenia": [
+    {
+      "street_address": "12 Northern Avenue",
+      "street_name": "Northern Avenue",
+      "building_number": "12",
+      "city": "Yerevan",
+      "state": "Yerevan",
+      "postal_code": "0001",
+      "country": "Armenia",
+      "country_code": "AM",
+      "currency": "AMD"
+    },
+    {
+      "street_address": "45 Tigran Mets Avenue",
+      "street_name": "Tigran Mets Avenue",
+      "building_number": "45",
+      "city": "Yerevan",
+      "state": "Yerevan",
+      "postal_code": "0018",
+      "country": "Armenia",
+      "country_code": "AM",
+      "currency": "AMD"
+    },
+    {
+      "street_address": "78 Abovyan Street",
+      "street_name": "Abovyan Street",
+      "building_number": "78",
+      "city": "Gyumri",
+      "state": "Shirak",
+      "postal_code": "3101",
+      "country": "Armenia",
+      "country_code": "AM",
+      "currency": "AMD"
+    },
+    {
+      "street_address": "101 Aram Khachaturian Street",
+      "street_name": "Aram Khachaturian Street",
+      "building_number": "101",
+      "city": "Vanadzor",
+      "state": "Lori",
+      "postal_code": "2002",
+      "country": "Armenia",
+      "country_code": "AM",
+      "currency": "AMD"
+    },
+    {
+      "street_address": "34 Mesrop Mashtots Avenue",
+      "street_name": "Mesrop Mashtots Avenue",
+      "building_number": "34",
+      "city": "Yerevan",
+      "state": "Yerevan",
+      "postal_code": "0009",
+      "country": "Armenia",
+      "country_code": "AM",
+      "currency": "AMD"
+    }
+  ]
+}
