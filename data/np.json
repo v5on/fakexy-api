@@ -1,0 +1,59 @@
+{
+  "Nepal": [
+    {
+      "street_address": "123 Durbar Marg",
+      "street_name": "Durbar Marg",
+      "building_number": "123",
+      "city": "Kathmandu",
+      "state": "Bagmati Province",
+      "postal_code": "44600",
+      "country": "Nepal",
+      "country_code": "NP",
+      "currency": "NPR"
+    },
+    {
+      "street_address": "45 Lakeside Road",
+      "street_name": "Lakeside Road",
+      "building_number": "45",
+      "city": "Pokhara",
+      "state": "Gandaki Province",
+      "postal_code": "33700",
+      "country": "Nepal",
+      "country_code": "NP",
+      "currency": "NPR"
+    },
+    {
+      "street_address": "78 Mahendra Highway",
+      "street_name": "Mahendra Highway",
+      "building_number": "78",
+      "city": "Biratnagar",
+      "state": "Province No. 1",
+      "postal_code": "56613",
+      "country": "Nepal",
+      "country_code": "NP",
+      "currency": "NPR"
+    },
+    {
+      "street_address": "101 Saptagandaki Road",
+      "street_name": "Saptagandaki Road",
+      "building_number": "101",
+      "city": "Chitwan",
+      "state": "Bagmati Province",
+      "postal_code": "44200",
+      "country": "Nepal",
+      "country_code": "NP",
+      "currency": "NPR"
+    },
+    {
+      "street_address": "34 Bhanu Path",
+      "street_name": "Bhanu Path",
+      "building_number": "34",
+      "city": "Dharan",
+      "state": "Koshi Province",
+      "postal_code": "56700",
+      "country": "Nepal",
+      "country_code": "NP",
+      "currency": "NPR"
+    }
+  ]
+}
