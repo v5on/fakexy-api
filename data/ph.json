@@ -1,0 +1,59 @@
+{
+  "Philippines": [
+    {
+      "street_address": "123 Ayala Avenue",
+      "street_name": "Ayala Avenue",
+      "building_number": "123",
+      "city": "Makati",
+      "state": "Metro Manila",
+      "postal_code": "1226",
+      "country": "Philippines",
+      "country_code": "PH",
+      "currency": "PHP"
+    },
+    {
+      "street_address": "45 Roxas Boulevard",
+      "street_name": "Roxas Boulevard",
+      "building_number": "45",
+      "city": "Manila",
+      "state": "Metro Manila",
+      "postal_code": "1000",
+      "country": "Philippines",
+      "country_code": "PH",
+      "currency": "PHP"
+    },
+    {
+      "street_address": "78 Session Road",
+      "street_name": "Session Road",
+      "building_number": "78",
+      "city": "Baguio",
+      "state": "Benguet",
+      "postal_code": "2600",
+      "country": "Philippines",
+      "country_code": "PH",
+      "currency": "PHP"
+    },
+    {
+      "street_address": "101 Osmeña Boulevard",
+      "street_name": "Osmeña Boulevard",
+      "building_number": "101",
+      "city": "Cebu City",
+      "state": "Cebu",
+      "postal_code": "6000",
+      "country": "Philippines",
+      "country_code": "PH",
+      "currency": "PHP"
+    },
+    {
+      "street_address": "34 J.P. Laurel Avenue",
+      "street_name": "J.P. Laurel Avenue",
+      "building_number": "34",
+      "city": "Davao City",
+      "state": "Davao del Sur",
+      "postal_code": "8000",
+      "country": "Philippines",
+      "country_code": "PH",
+      "currency": "PHP"
+    }
+  ]
+}
