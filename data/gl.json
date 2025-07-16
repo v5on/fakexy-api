@@ -1,5 +1,4 @@
-{
-  "Greenland": [
+[
     {
       "street_address": "123 Aqqusinersuaq",
       "street_name": "Aqqusinersuaq",
@@ -56,4 +55,3 @@
       "currency": "DKK"
     }
   ]
-}
