@@ -1,5 +1,4 @@
-{
-  "Bhutan": [
+[
     {
       "street_address": "12 Norzin Lam",
       "street_name": "Norzin Lam",
@@ -56,4 +55,3 @@
       "currency": "BTN"
     }
   ]
-}
