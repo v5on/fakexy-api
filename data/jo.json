@@ -1,0 +1,59 @@
+{
+  "Jordan": [
+    {
+      "street_address": "123 Zahran Street",
+      "street_name": "Zahran Street",
+      "building_number": "123",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "postal_code": "11118",
+      "country": "Jordan",
+      "country_code": "JO",
+      "currency": "JOD"
+    },
+    {
+      "street_address": "45 Rainbow Street",
+      "street_name": "Rainbow Street",
+      "building_number": "45",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "postal_code": "11191",
+      "country": "Jordan",
+      "country_code": "JO",
+      "currency": "JOD"
+    },
+    {
+      "street_address": "78 King Abdullah Street",
+      "street_name": "King Abdullah Street",
+      "building_number": "78",
+      "city": "Irbid",
+      "state": "Irbid Governorate",
+      "postal_code": "21110",
+      "country": "Jordan",
+      "country_code": "JO",
+      "currency": "JOD"
+    },
+    {
+      "street_address": "101 Petra Street",
+      "street_name": "Petra Street",
+      "building_number": "101",
+      "city": "Petra",
+      "state": "Ma'an Governorate",
+      "postal_code": "71810",
+      "country": "Jordan",
+      "country_code": "JO",
+      "currency": "JOD"
+    },
+    {
+      "street_address": "34 Aqaba Port Road",
+      "street_name": "Aqaba Port Road",
+      "building_number": "34",
+      "city": "Aqaba",
+      "state": "Aqaba Governorate",
+      "postal_code": "77110",
+      "country": "Jordan",
+      "country_code": "JO",
+      "currency": "JOD"
+    }
+  ]
+}
