@@ -1,5 +1,4 @@
-{
-  "Greece": [
+[
     {
       "street_address": "123 Ermou Street",
       "street_name": "Ermou Street",
@@ -56,4 +55,3 @@
       "currency": "EUR"
     }
   ]
-}
