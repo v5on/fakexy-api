@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Rruga e Durrësit",
+    "street_name": "Rruga e Durrësit",
+    "building_number": "123",
+    "city": "Tirana",
+    "state": "Tirana County",
+    "postal_code": "1001",
+    "country": "Albania",
+    "country_code": "AL",
+    "currency": "ALL"
+  },
+  {
+    "street_address": "45 Rruga Taulantia",
+    "street_name": "Rruga Taulantia",
+    "building_number": "45",
+    "city": "Durrës",
+    "state": "Durrës County",
+    "postal_code": "2001",
+    "country": "Albania",
+    "country_code": "AL",
+    "currency": "ALL"
+  },
+  {
+    "street_address": "78 Rruga Ismail Qemali",
+    "street_name": "Rruga Ismail Qemali",
+    "building_number": "78",
+    "city": "Vlorë",
+    "state": "Vlorë County",
+    "postal_code": "9401",
+    "country": "Albania",
+    "country_code": "AL",
+    "currency": "ALL"
+  },
+  {
+    "street_address": "101 Rruga Fan Noli",
+    "street_name": "Rruga Fan Noli",
+    "building_number": "101",
+    "city": "Shkodër",
+    "state": "Shkodër County",
+    "postal_code": "4001",
+    "country": "Albania",
+    "country_code": "AL",
+    "currency": "ALL"
+  },
+  {
+    "street_address": "34 Rruga e Elbasanit",
+    "street_name": "Rruga e Elbasanit",
+    "building_number": "34",
+    "city": "Elbasan",
+    "state": "Elbasan County",
+    "postal_code": "3001",
+    "country": "Albania",
+    "country_code": "AL",
+    "currency": "ALL"
+  }
+]
