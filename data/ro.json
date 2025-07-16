@@ -1,5 +1,4 @@
-{
-  "Romania": [
+[
     {
       "street_address": "123 Bulevardul Unirii",
       "street_name": "Bulevardul Unirii",
@@ -56,4 +55,3 @@
       "currency": "RON"
     }
   ]
-}
