@@ -1,0 +1,59 @@
+{
+  "China": [
+    {
+      "street_address": "123 Nanjing West Road",
+      "street_name": "Nanjing West Road",
+      "building_number": "123",
+      "city": "Shanghai",
+      "state": "Shanghai Municipality",
+      "postal_code": "200041",
+      "country": "China",
+      "country_code": "CN",
+      "currency": "CNY"
+    },
+    {
+      "street_address": "45 Chang'an Avenue",
+      "street_name": "Chang'an Avenue",
+      "building_number": "45",
+      "city": "Beijing",
+      "state": "Beijing Municipality",
+      "postal_code": "100031",
+      "country": "China",
+      "country_code": "CN",
+      "currency": "CNY"
+    },
+    {
+      "street_address": "78 Renmin Road",
+      "street_name": "Renmin Road",
+      "building_number": "78",
+      "city": "Guangzhou",
+      "state": "Guangdong Province",
+      "postal_code": "510000",
+      "country": "China",
+      "country_code": "CN",
+      "currency": "CNY"
+    },
+    {
+      "street_address": "101 Zhongshan Road",
+      "street_name": "Zhongshan Road",
+      "building_number": "101",
+      "city": "Chengdu",
+      "state": "Sichuan Province",
+      "postal_code": "610000",
+      "country": "China",
+      "country_code": "CN",
+      "currency": "CNY"
+    },
+    {
+      "street_address": "34 Jiefang Road",
+      "street_name": "Jiefang Road",
+      "building_number": "34",
+      "city": "Shenzhen",
+      "state": "Guangdong Province",
+      "postal_code": "518000",
+      "country": "China",
+      "country_code": "CN",
+      "currency": "CNY"
+    }
+  ]
+}
