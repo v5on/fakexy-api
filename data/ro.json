@@ -1,0 +1,59 @@
+{
+  "Romania": [
+    {
+      "street_address": "123 Bulevardul Unirii",
+      "street_name": "Bulevardul Unirii",
+      "building_number": "123",
+      "city": "Bucharest",
+      "state": "Bucharest",
+      "postal_code": "030833",
+      "country": "Romania",
+      "country_code": "RO",
+      "currency": "RON"
+    },
+    {
+      "street_address": "45 Strada Horea",
+      "street_name": "Strada Horea",
+      "building_number": "45",
+      "city": "Cluj-Napoca",
+      "state": "Cluj County",
+      "postal_code": "400038",
+      "country": "Romania",
+      "country_code": "RO",
+      "currency": "RON"
+    },
+    {
+      "street_address": "78 Strada Ștefan cel Mare",
+      "street_name": "Strada Ștefan cel Mare",
+      "building_number": "78",
+      "city": "Iași",
+      "state": "Iași County",
+      "postal_code": "700063",
+      "country": "Romania",
+      "country_code": "RO",
+      "currency": "RON"
+    },
+    {
+      "street_address": "101 Calea Victoriei",
+      "street_name": "Calea Victoriei",
+      "building_number": "101",
+      "city": "Brașov",
+      "state": "Brașov County",
+      "postal_code": "500036",
+      "country": "Romania",
+      "country_code": "RO",
+      "currency": "RON"
+    },
+    {
+      "street_address": "34 Strada Republicii",
+      "street_name": "Strada Republicii",
+      "building_number": "34",
+      "city": "Timișoara",
+      "state": "Timiș County",
+      "postal_code": "300003",
+      "country": "Romania",
+      "country_code": "RO",
+      "currency": "RON"
+    }
+  ]
+}
