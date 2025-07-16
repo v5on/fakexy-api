@@ -1,74 +1,57 @@
 [
-    {
-      "city": "Singapore",
-      "state": "Singapore",
-      "street": "10 Orchard Road",
-      "country": "Singapore",
-      "postal_code": "238841"
-    },
-    {
-      "city": "Singapore",
-      "state": "Singapore",
-      "street": "45 Marina Bay Sands",
-      "country": "Singapore",
-      "postal_code": "018956"
-    },
-    {
-      "city": "Singapore",
-      "state": "Singapore",
-      "street": "789 Bugis Street",
-      "country": "Singapore",
-      "postal_code": "188025"
-    },
-    {
-      "city": "Singapore",
-      "state": "Singapore",
-      "street": "34 Clarke Quay",
-      "country": "Singapore",
-      "postal_code": "059824"
-    },
-    {
-      "city": "Singapore",
-      "state": "Singapore",
-      "street": "12 Sentosa Gateway",
-      "country": "Singapore",
-      "postal_code": "098138"
-    }
-  ],
-  "New Zealand": [
-    {
-      "city": "Auckland",
-      "state": "Auckland",
-      "street": "123 Queen Street",
-      "country": "New Zealand",
-      "postal_code": "1010"
-    },
-    {
-      "city": "Wellington",
-      "state": "Wellington",
-      "street": "456 Lambton Quay",
-      "country": "New Zealand",
-      "postal_code": "6011"
-    },
-    {
-      "city": "Christchurch",
-      "state": "Canterbury",
-      "street": "789 Colombo Street",
-      "country": "New Zealand",
-      "postal_code": "8011"
-    },
-    {
-      "city": "Dunedin",
-      "state": "Otago",
-      "street": "101 Princes Street",
-      "country": "New Zealand",
-      "postal_code": "9016"
-    },
-    {
-      "city": "Tauranga",
-      "state": "Bay of Plenty",
-      "street": "34 Devonport Road",
-      "country": "New Zealand",
-      "postal_code": "3110"
-    }
-  ]
+  {
+    "street_address": "Av. Rivadavia 1234",
+    "street_name": "Av. Rivadavia",
+    "building_number": "1234",
+    "city": "Buenos Aires",
+    "state": "Autonomous City of Buenos Aires",
+    "postal_code": "C1033AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Calle Florida 456",
+    "street_name": "Calle Florida",
+    "building_number": "456",
+    "city": "Buenos Aires",
+    "state": "Autonomous City of Buenos Aires",
+    "postal_code": "C1005AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Av. Corrientes 789",
+    "street_name": "Av. Corrientes",
+    "building_number": "789",
+    "city": "Buenos Aires",
+    "state": "Autonomous City of Buenos Aires",
+    "postal_code": "C1043AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Calle Lavalle 101",
+    "street_name": "Calle Lavalle",
+    "building_number": "101",
+    "city": "Buenos Aires",
+    "state": "Autonomous City of Buenos Aires",
+    "postal_code": "C1047AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  },
+  {
+    "street_address": "Av. Santa Fe 2345",
+    "street_name": "Av. Santa Fe",
+    "building_number": "2345",
+    "city": "Buenos Aires",
+    "state": "Autonomous City of Buenos Aires",
+    "postal_code": "C1123AAX",
+    "country": "Argentina",
+    "country_code": "AR",
+    "currency": "ARS"
+  }
+]
