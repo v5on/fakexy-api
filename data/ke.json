@@ -1,5 +1,4 @@
-{
-  "Kenya": [
+[
     {
       "street_address": "123 Moi Avenue",
       "street_name": "Moi Avenue",
@@ -56,4 +55,3 @@
       "currency": "KES"
     }
   ]
-}
