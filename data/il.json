@@ -1,5 +1,4 @@
-{
-  "Israel": [
+[
     {
       "street_address": "123 Rothschild Boulevard",
       "street_name": "Rothschild Boulevard",
@@ -56,4 +55,3 @@
       "currency": "ILS"
     }
   ]
-}
