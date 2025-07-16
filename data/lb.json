@@ -1,0 +1,59 @@
+{
+  "Lebanon": [
+    {
+      "street_address": "123 Hamra Street",
+      "street_name": "Hamra Street",
+      "building_number": "123",
+      "city": "Beirut",
+      "state": "Beirut Governorate",
+      "postal_code": "1103",
+      "country": "Lebanon",
+      "country_code": "LB",
+      "currency": "LBP"
+    },
+    {
+      "street_address": "45 Bliss Street",
+      "street_name": "Bliss Street",
+      "building_number": "45",
+      "city": "Beirut",
+      "state": "Beirut Governorate",
+      "postal_code": "1107",
+      "country": "Lebanon",
+      "country_code": "LB",
+      "currency": "LBP"
+    },
+    {
+      "street_address": "78 Jounieh Highway",
+      "street_name": "Jounieh Highway",
+      "building_number": "78",
+      "city": "Jounieh",
+      "state": "Keserwan District",
+      "postal_code": "1200",
+      "country": "Lebanon",
+      "country_code": "LB",
+      "currency": "LBP"
+    },
+    {
+      "street_address": "101 Tripoli Street",
+      "street_name": "Tripoli Street",
+      "building_number": "101",
+      "city": "Tripoli",
+      "state": "North Governorate",
+      "postal_code": "1300",
+      "country": "Lebanon",
+      "country_code": "LB",
+      "currency": "LBP"
+    },
+    {
+      "street_address": "34 Saida Corniche",
+      "street_name": "Saida Corniche",
+      "building_number": "34",
+      "city": "Sidon",
+      "state": "South Governorate",
+      "postal_code": "1600",
+      "country": "Lebanon",
+      "country_code": "LB",
+      "currency": "LBP"
+    }
+  ]
+}
