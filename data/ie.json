@@ -1,5 +1,4 @@
-{
-  "Ireland": [
+[
     {
       "street_address": "123 O'Connell Street",
       "street_name": "O'Connell Street",
@@ -56,4 +55,3 @@
       "currency": "EUR"
     }
   ]
-}
