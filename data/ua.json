@@ -1,0 +1,59 @@
+{
+  "Ukraine": [
+    {
+      "street_address": "123 Khreshchatyk Street",
+      "street_name": "Khreshchatyk Street",
+      "building_number": "123",
+      "city": "Kyiv",
+      "state": "Kyiv City",
+      "postal_code": "01001",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "currency": "UAH"
+    },
+    {
+      "street_address": "45 Deribasivska Street",
+      "street_name": "Deribasivska Street",
+      "building_number": "45",
+      "city": "Odesa",
+      "state": "Odesa Oblast",
+      "postal_code": "65000",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "currency": "UAH"
+    },
+    {
+      "street_address": "78 Svobody Avenue",
+      "street_name": "Svobody Avenue",
+      "building_number": "78",
+      "city": "Lviv",
+      "state": "Lviv Oblast",
+      "postal_code": "79000",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "currency": "UAH"
+    },
+    {
+      "street_address": "101 Sumska Street",
+      "street_name": "Sumska Street",
+      "building_number": "101",
+      "city": "Kharkiv",
+      "state": "Kharkiv Oblast",
+      "postal_code": "61000",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "currency": "UAH"
+    },
+    {
+      "street_address": "34 Haharina Avenue",
+      "street_name": "Haharina Avenue",
+      "building_number": "34",
+      "city": "Dnipro",
+      "state": "Dnipropetrovsk Oblast",
+      "postal_code": "49000",
+      "country": "Ukraine",
+      "country_code": "UA",
+      "currency": "UAH"
+    }
+  ]
+}
