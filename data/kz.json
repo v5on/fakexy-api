@@ -53,5 +53,38 @@
     "country": "Kazakhstan",
     "country_code": ["KZT", "KZ"]
     "currency": "KZT"
+  },
+  {
+    "street_address": "street x",
+    "street_name": "street x",
+    "building_number": "",
+    "city": "Astana",
+    "state": "Astana",
+    "postal_code": "020101",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "Rozybakiev Street, Bostandyk",
+    "street_name": "Rozybakiev Street",
+    "building_number": "",
+    "city": "Almaty",
+    "state": "Almaty",
+    "postal_code": "050060",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "street_address": "IND,0062",
+    "street_name": "IND",
+    "building_number": "0062",
+    "city": "Semipalatinsk",
+    "state": "Almaty",
+    "postal_code": "020101",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
   }
 ]
