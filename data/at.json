@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Mariahilfer Straße",
+    "street_name": "Mariahilfer Straße",
+    "building_number": "123",
+    "city": "Vienna",
+    "state": "Vienna",
+    "postal_code": "1060",
+    "country": "Austria",
+    "country_code": "AT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "45 Getreidegasse",
+    "street_name": "Getreidegasse",
+    "building_number": "45",
+    "city": "Salzburg",
+    "state": "Salzburg",
+    "postal_code": "5020",
+    "country": "Austria",
+    "country_code": "AT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "78 Maria-Theresien-Straße",
+    "street_name": "Maria-Theresien-Straße",
+    "building_number": "78",
+    "city": "Innsbruck",
+    "state": "Tyrol",
+    "postal_code": "6020",
+    "country": "Austria",
+    "country_code": "AT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "101 Herrengasse",
+    "street_name": "Herrengasse",
+    "building_number": "101",
+    "city": "Graz",
+    "state": "Styria",
+    "postal_code": "8010",
+    "country": "Austria",
+    "country_code": "AT",
+    "currency": "EUR"
+  },
+  {
+    "street_address": "34 Landstraße",
+    "street_name": "Landstraße",
+    "building_number": "34",
+    "city": "Linz",
+    "state": "Upper Austria",
+    "postal_code": "4020",
+    "country": "Austria",
+    "country_code": "AT",
+    "currency": "EUR"
+  }
+]
