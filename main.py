@@ -1,5 +1,3 @@
-#Copyright @ISmartCoder
-#Updates Channel https://t.me/TheSmartDev
 from flask import Flask, jsonify, request, render_template
 import json
 import random
@@ -8,8 +6,8 @@ import os
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
-def status():
-    return render_template('status.html')
+def index():
+    return render_template('index.html')
 
 @app.route('/api/address', methods=['GET'])
 def get_address():
