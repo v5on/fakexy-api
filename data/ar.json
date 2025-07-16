@@ -1,5 +1,4 @@
-
-  "Singapore": [
+[
     {
       "city": "Singapore",
       "state": "Singapore",
@@ -72,4 +71,4 @@
       "country": "New Zealand",
       "postal_code": "3110"
     }
-  ],
+  ]
