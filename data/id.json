@@ -1,5 +1,4 @@
-{
-  "Indonesia": [
+[
     {
       "street_address": "123 Jalan Thamrin",
       "street_name": "Jalan Thamrin",
@@ -56,4 +55,3 @@
       "currency": "IDR"
     }
   ]
-}
