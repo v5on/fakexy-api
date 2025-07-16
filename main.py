@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
 import os
 import json
@@ -6,9 +6,32 @@ import random
 
 app = FastAPI()
 DATA_DIR = "data"
+KEY_DIR = "key"
+
+def is_valid_api_key(provided_key: str) -> bool:
+    if not provided_key:
+        return False
+
+    if not os.path.exists(KEY_DIR):
+        return False
+
+    for filename in os.listdir(KEY_DIR):
+        if filename.endswith(".json"):
+            try:
+                with open(os.path.join(KEY_DIR, filename), "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    if data.get("api_key") == provided_key:
+                        return True
+            except:
+                continue
+    return False
 
 @app.get("/api/address/{country_code}")
-def get_random_address(country_code: str):
+def get_random_address(country_code: str, request: Request):
+    api_key = request.query_params.get("key")
+    if not is_valid_api_key(api_key):
+        raise HTTPException(status_code=401, detail="Invalid or missing API key")
+
     filename = f"{country_code.lower()}.json"
     file_path = os.path.join(DATA_DIR, filename)
 
@@ -29,7 +52,11 @@ def get_random_address(country_code: str):
         raise HTTPException(status_code=500, detail=f"Failed to load data: {str(e)}")
 
 @app.get("/api/countries")
-def list_countries():
+def list_countries(request: Request):
+    api_key = request.query_params.get("key")
+    if not is_valid_api_key(api_key):
+        raise HTTPException(status_code=401, detail="Invalid or missing API key")
+
     if not os.path.exists(DATA_DIR):
         raise HTTPException(status_code=500, detail="Data directory not found")
 
