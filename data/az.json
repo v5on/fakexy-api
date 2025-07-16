@@ -1,0 +1,59 @@
+{
+  "Azerbaijan": [
+    {
+      "street_address": "12 Neftchilar Avenue",
+      "street_name": "Neftchilar Avenue",
+      "building_number": "12",
+      "city": "Baku",
+      "state": "Absheron",
+      "postal_code": "AZ1000",
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "currency": "AZN"
+    },
+    {
+      "street_address": "45 Tbilisi Avenue",
+      "street_name": "Tbilisi Avenue",
+      "building_number": "45",
+      "city": "Baku",
+      "state": "Absheron",
+      "postal_code": "AZ1012",
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "currency": "AZN"
+    },
+    {
+      "street_address": "78 Nizami Street",
+      "street_name": "Nizami Street",
+      "building_number": "78",
+      "city": "Ganja",
+      "state": "Ganja-Gazakh",
+      "postal_code": "AZ2000",
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "currency": "AZN"
+    },
+    {
+      "street_address": "101 Heydar Aliyev Avenue",
+      "street_name": "Heydar Aliyev Avenue",
+      "building_number": "101",
+      "city": "Sumqayit",
+      "state": "Absheron",
+      "postal_code": "AZ5000",
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "currency": "AZN"
+    },
+    {
+      "street_address": "34 Khatai Avenue",
+      "street_name": "Khatai Avenue",
+      "building_number": "34",
+      "city": "Nakhchivan",
+      "state": "Nakhchivan Autonomous Republic",
+      "postal_code": "AZ7000",
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "currency": "AZN"
+    }
+  ]
+}
