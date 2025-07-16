@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SmartDev Address API</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .gradient-text {
+      background: linear-gradient(90deg, #3b82f6, #10b981);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+  </style>
+</head>
+<body class="bg-white text-gray-800">
+  <div class="max-w-6xl mx-auto p-6">
+    
+    <!-- Title -->
+    <h1 class="text-4xl font-bold text-center gradient-text mb-8">SmartDev Fake Address Generator API</h1>
+
+    <!-- API Health Section -->
+    <div class="text-center mb-8">
+      <h2 class="text-2xl font-semibold mb-2">API Health Status</h2>
+      <p id="api-health" class="text-lg text-gray-600">Checking...</p>
+    </div>
+
+    <!-- Country Selection -->
+    <div class="mb-10">
+      <h2 class="text-2xl font-semibold text-center mb-4">Select a Country to Generate Fake Address</h2>
+      <div class="flex flex-col sm:flex-row justify-center items-center gap-4 mb-6">
+        <select id="country-select" class="p-2 border rounded-md w-64">
+          <option value="" disabled selected>Select Country</option>
+        </select>
+        <button id="generate-btn" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Generate</button>
+      </div>
+      <div id="output" class="bg-gray-50 border p-4 rounded text-sm text-center text-gray-700 whitespace-pre-wrap">
+        Address output will appear here.
+      </div>
+    </div>
+
+    <!-- Available Countries -->
+    <div class="mb-12">
+      <h2 class="text-2xl font-semibold text-center mb-4">Available Countries</h2>
+      <div id="country-list" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 text-center">
+        <!-- Country tags will be inserted here -->
+      </div>
+    </div>
+
+    <!-- API Documentation -->
+    <div class="mb-12">
+      <h2 class="text-2xl font-semibold text-center mb-4">API Documentation</h2>
+      <div class="bg-gray-100 p-4 rounded">
+        <h3 class="text-xl font-semibold mb-2">GET /api/address</h3>
+        <p><strong>Query Parameter:</strong> <code>?code=XX</code> — country code (e.g. <code>US</code>, <code>BD</code>)</p>
+        <p class="mt-2"><strong>Example:</strong></p>
+        <pre class="bg-white p-2 rounded text-sm">GET /api/address?code=AR</pre>
+        <p class="mt-4"><strong>Sample Success Response:</strong></p>
+        <pre class="bg-white p-2 rounded text-sm">
+{
+  "building_number": "456",
+  "city": "Los Angeles",
+  "country": "United States",
+  "country_code": "US",
+  "currency": "USD",
+  "postal_code": "90028",
+  "state": "California",
+  "street_address": "456 Hollywood Blvd",
+  "street_name": "Hollywood Blvd",
+  "api_owner": "@ISmartCoder",
+  "api_updates": "t.me/TheSmartDev"
+}
+        </pre>
+        <p class="mt-4"><strong>Error Response:</strong></p>
+        <pre class="bg-white p-2 rounded text-sm">
+{
+  "error": "Invalid country code"
+}
+        </pre>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    async function checkAPIHealth() {
+      try {
+        const res = await fetch('/api/address?code=bd');
+        const statusText = document.getElementById('api-health');
+        if (res.ok) {
+          statusText.textContent = "✅ API is Live";
+          statusText.classList.add('text-green-600');
+        } else {
+          statusText.textContent = "❌ API is Down";
+          statusText.classList.add('text-red-600');
+        }
+      } catch {
+        document.getElementById('api-health').textContent = "❌ API is Down";
+        document.getElementById('api-health').classList.add('text-red-600');
+      }
+    }
+
+    async function loadCountries() {
+      try {
+        const res = await fetch('/api/countries');
+        const data = await res.json();
+
+        if (!data || !data.countries) return;
+
+        const select = document.getElementById('country-select');
+        const list = document.getElementById('country-list');
+
+        data.countries.forEach(c => {
+          const option = document.createElement('option');
+          option.value = c.country_code;
+          option.textContent = `${c.country} (${c.country_code})`;
+          select.appendChild(option);
+
+          const tag = document.createElement('div');
+          tag.className = "bg-white border rounded px-3 py-1 text-sm hover:bg-blue-50";
+          tag.textContent = `${c.country} (${c.country_code})`;
+          list.appendChild(tag);
+        });
+      } catch (err) {
+        console.error("Failed to load countries:", err);
+      }
+    }
+
+    async function generateAddress() {
+      const code = document.getElementById('country-select').value;
+      const output = document.getElementById('output');
+      if (!code) {
+        output.textContent = "Please select a country first.";
+        output.classList.add('text-red-600');
+        return;
+      }
+
+      try {
+        const res = await fetch(`/api/address?code=${code}`);
+        const data = await res.json();
+        output.textContent = JSON.stringify(data, null, 2);
+        output.classList.remove('text-red-600');
+        output.classList.add('text-gray-700');
+      } catch (err) {
+        output.textContent = "Error fetching address.";
+        output.classList.add('text-red-600');
+      }
+    }
+
+    document.getElementById('generate-btn').addEventListener('click', generateAddress);
+    window.onload = () => {
+      checkAPIHealth();
+      loadCountries();
+    };
+  </script>
+</body>
+</html>
