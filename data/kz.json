@@ -7,7 +7,7 @@
     "state": "Almaty City",
     "postal_code": "050000",
     "country": "Kazakhstan",
-    "country_code": ["KZT", "KZ"]
+    "country_code": "KZ",
     "currency": "KZT"
   },
   {
@@ -18,7 +18,7 @@
     "state": "Astana City",
     "postal_code": "010000",
     "country": "Kazakhstan",
-    "country_code": ["KZT", "KZ"]
+    "country_code": "KZ",
     "currency": "KZT"
   },
   {
@@ -29,7 +29,7 @@
     "state": "Shymkent City",
     "postal_code": "160000",
     "country": "Kazakhstan",
-    "country_code": ["KZT", "KZ"]
+    "country_code": "KZ",
     "currency": "KZT"
   },
   {
@@ -40,7 +40,7 @@
     "state": "Karaganda Region",
     "postal_code": "100000",
     "country": "Kazakhstan",
-    "country_code": ["KZT", "KZ"]
+    "country_code": "KZ",
     "currency": "KZT"
   },
   {
@@ -51,7 +51,7 @@
     "state": "Almaty City",
     "postal_code": "050010",
     "country": "Kazakhstan",
-    "country_code": ["KZT", "KZ"]
+    "country_code": "KZ",
     "currency": "KZT"
   },
   {
