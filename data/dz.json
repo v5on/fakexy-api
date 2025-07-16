@@ -53,5 +53,38 @@
     "country": "Algeria",
     "country_code": "DZ",
     "currency": "DZD"
-  }
+  },
+  {
+    "street_address": "3 cours de la Révolution",
+    "street_name": "cours de la Révolution",
+    "building_number": "3",
+    "city": "Annaba",
+    "state": "Annaba Province",
+    "postal_code": "23000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "400 nouvelle ville 400",
+    "street_name": "nouvelle ville",
+    "building_number": "400",
+    "city": "Constantine",
+    "state": "Constantine Province",
+    "postal_code": "23000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "street_address": "12 Rue Didouche Mourad",
+    "street_name": "Rue Didouche Mourad",
+    "building_number": "12",
+    "city": "Algiers",
+    "state": "Algiers Province",
+    "postal_code": "16000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+ }
 ]
