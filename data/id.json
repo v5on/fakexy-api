@@ -1,0 +1,59 @@
+{
+  "Indonesia": [
+    {
+      "street_address": "123 Jalan Thamrin",
+      "street_name": "Jalan Thamrin",
+      "building_number": "123",
+      "city": "Jakarta",
+      "state": "DKI Jakarta",
+      "postal_code": "10310",
+      "country": "Indonesia",
+      "country_code": "ID",
+      "currency": "IDR"
+    },
+    {
+      "street_address": "45 Jalan Malioboro",
+      "street_name": "Jalan Malioboro",
+      "building_number": "45",
+      "city": "Yogyakarta",
+      "state": "Special Region of Yogyakarta",
+      "postal_code": "55213",
+      "country": "Indonesia",
+      "country_code": "ID",
+      "currency": "IDR"
+    },
+    {
+      "street_address": "78 Jalan Asia Afrika",
+      "street_name": "Jalan Asia Afrika",
+      "building_number": "78",
+      "city": "Bandung",
+      "state": "West Java",
+      "postal_code": "40111",
+      "country": "Indonesia",
+      "country_code": "ID",
+      "currency": "IDR"
+    },
+    {
+      "street_address": "101 Jalan Pemuda",
+      "street_name": "Jalan Pemuda",
+      "building_number": "101",
+      "city": "Surabaya",
+      "state": "East Java",
+      "postal_code": "60271",
+      "country": "Indonesia",
+      "country_code": "ID",
+      "currency": "IDR"
+    },
+    {
+      "street_address": "34 Jalan Raya Uluwatu",
+      "street_name": "Jalan Raya Uluwatu",
+      "building_number": "34",
+      "city": "Denpasar",
+      "state": "Bali",
+      "postal_code": "80361",
+      "country": "Indonesia",
+      "country_code": "ID",
+      "currency": "IDR"
+    }
+  ]
+}
