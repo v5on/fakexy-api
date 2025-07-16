@@ -1,5 +1,4 @@
-{
-  "Taiwan": [
+[
     {
       "street_address": "123 Zhongxiao East Road",
       "street_name": "Zhongxiao East Road",
@@ -55,5 +54,4 @@
       "country_code": "TW",
       "currency": "TWD"
     }
-  ]
-}
+]
