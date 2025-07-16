@@ -1,0 +1,59 @@
+{
+  "Venezuela": [
+    {
+      "street_address": "123 Avenida Libertador",
+      "street_name": "Avenida Libertador",
+      "building_number": "123",
+      "city": "Caracas",
+      "state": "Distrito Capital",
+      "postal_code": "1010",
+      "country": "Venezuela",
+      "country_code": "VE",
+      "currency": "VES"
+    },
+    {
+      "street_address": "45 Calle Sucre",
+      "street_name": "Calle Sucre",
+      "building_number": "45",
+      "city": "Maracaibo",
+      "state": "Zulia",
+      "postal_code": "4001",
+      "country": "Venezuela",
+      "country_code": "VE",
+      "currency": "VES"
+    },
+    {
+      "street_address": "78 Avenida Bolivar",
+      "street_name": "Avenida Bolivar",
+      "building_number": "78",
+      "city": "Valencia",
+      "state": "Carabobo",
+      "postal_code": "2001",
+      "country": "Venezuela",
+      "country_code": "VE",
+      "currency": "VES"
+    },
+    {
+      "street_address": "101 Calle Miranda",
+      "street_name": "Calle Miranda",
+      "building_number": "101",
+      "city": "Barquisimeto",
+      "state": "Lara",
+      "postal_code": "3001",
+      "country": "Venezuela",
+      "country_code": "VE",
+      "currency": "VES"
+    },
+    {
+      "street_address": "34 Avenida Universidad",
+      "street_name": "Avenida Universidad",
+      "building_number": "34",
+      "city": "Puerto La Cruz",
+      "state": "Anzoátegui",
+      "postal_code": "6023",
+      "country": "Venezuela",
+      "country_code": "VE",
+      "currency": "VES"
+    }
+  ]
+}
