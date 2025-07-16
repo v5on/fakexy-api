@@ -1,0 +1,59 @@
+{
+  "Iceland": [
+    {
+      "street_address": "123 Laugavegur",
+      "street_name": "Laugavegur",
+      "building_number": "123",
+      "city": "Reykjavík",
+      "state": "Capital Region",
+      "postal_code": "101",
+      "country": "Iceland",
+      "country_code": "IS",
+      "currency": "ISK"
+    },
+    {
+      "street_address": "45 Hafnargata",
+      "street_name": "Hafnargata",
+      "building_number": "45",
+      "city": "Keflavík",
+      "state": "Southern Peninsula",
+      "postal_code": "230",
+      "country": "Iceland",
+      "country_code": "IS",
+      "currency": "ISK"
+    },
+    {
+      "street_address": "78 Kaupvangsstræti",
+      "street_name": "Kaupvangsstræti",
+      "building_number": "78",
+      "city": "Akureyri",
+      "state": "Northeast Region",
+      "postal_code": "600",
+      "country": "Iceland",
+      "country_code": "IS",
+      "currency": "ISK"
+    },
+    {
+      "street_address": "101 Skólavörðustígur",
+      "street_name": "Skólavörðustígur",
+      "building_number": "101",
+      "city": "Reykjavík",
+      "state": "Capital Region",
+      "postal_code": "101",
+      "country": "Iceland",
+      "country_code": "IS",
+      "currency": "ISK"
+    },
+    {
+      "street_address": "34 Austurvegur",
+      "street_name": "Austurvegur",
+      "building_number": "34",
+      "city": "Selfoss",
+      "state": "South Iceland",
+      "postal_code": "800",
+      "country": "Iceland",
+      "country_code": "IS",
+      "currency": "ISK"
+    }
+  ]
+}
