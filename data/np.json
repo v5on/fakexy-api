@@ -1,5 +1,4 @@
-{
-  "Nepal": [
+[
     {
       "street_address": "123 Durbar Marg",
       "street_name": "Durbar Marg",
@@ -56,4 +55,3 @@
       "currency": "NPR"
     }
   ]
-}
