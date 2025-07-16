@@ -1,0 +1,59 @@
+{
+  "Nigeria": [
+    {
+      "street_address": "123 Awolowo Road",
+      "street_name": "Awolowo Road",
+      "building_number": "123",
+      "city": "Lagos",
+      "state": "Lagos State",
+      "postal_code": "101233",
+      "country": "Nigeria",
+      "country_code": "NG",
+      "currency": "NGN"
+    },
+    {
+      "street_address": "45 Aminu Kano Crescent",
+      "street_name": "Aminu Kano Crescent",
+      "building_number": "45",
+      "city": "Abuja",
+      "state": "Federal Capital Territory",
+      "postal_code": "900211",
+      "country": "Nigeria",
+      "country_code": "NG",
+      "currency": "NGN"
+    },
+    {
+      "street_address": "78 Aba Road",
+      "street_name": "Aba Road",
+      "building_number": "78",
+      "city": "Port Harcourt",
+      "state": "Rivers State",
+      "postal_code": "500101",
+      "country": "Nigeria",
+      "country_code": "NG",
+      "currency": "NGN"
+    },
+    {
+      "street_address": "101 Zaria Road",
+      "street_name": "Zaria Road",
+      "building_number": "101",
+      "city": "Kano",
+      "state": "Kano State",
+      "postal_code": "700213",
+      "country": "Nigeria",
+      "country_code": "NG",
+      "currency": "NGN"
+    },
+    {
+      "street_address": "34 Enugu Road",
+      "street_name": "Enugu Road",
+      "building_number": "34",
+      "city": "Enugu",
+      "state": "Enugu State",
+      "postal_code": "400103",
+      "country": "Nigeria",
+      "country_code": "NG",
+      "currency": "NGN"
+    }
+  ]
+}
