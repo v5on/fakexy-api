@@ -1,5 +1,4 @@
-{
-  "Venezuela": [
+[
     {
       "street_address": "123 Avenida Libertador",
       "street_name": "Avenida Libertador",
@@ -56,4 +55,3 @@
       "currency": "VES"
     }
   ]
-}
