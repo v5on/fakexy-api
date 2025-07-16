@@ -1,0 +1,59 @@
+{
+  "Ireland": [
+    {
+      "street_address": "123 O'Connell Street",
+      "street_name": "O'Connell Street",
+      "building_number": "123",
+      "city": "Dublin",
+      "state": "Leinster",
+      "postal_code": "D01 F5P2",
+      "country": "Ireland",
+      "country_code": "IE",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "45 Eyre Square",
+      "street_name": "Eyre Square",
+      "building_number": "45",
+      "city": "Galway",
+      "state": "Connacht",
+      "postal_code": "H91 R3TC",
+      "country": "Ireland",
+      "country_code": "IE",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "78 Oliver Plunkett Street",
+      "street_name": "Oliver Plunkett Street",
+      "building_number": "78",
+      "city": "Cork",
+      "state": "Munster",
+      "postal_code": "T12 AKC4",
+      "country": "Ireland",
+      "country_code": "IE",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "101 Patrick Street",
+      "street_name": "Patrick Street",
+      "building_number": "101",
+      "city": "Limerick",
+      "state": "Munster",
+      "postal_code": "V94 Y42Y",
+      "country": "Ireland",
+      "country_code": "IE",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "34 Church Street",
+      "street_name": "Church Street",
+      "building_number": "34",
+      "city": "Kilkenny",
+      "state": "Leinster",
+      "postal_code": "R95 VK25",
+      "country": "Ireland",
+      "country_code": "IE",
+      "currency": "EUR"
+    }
+  ]
+}
