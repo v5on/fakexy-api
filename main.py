@@ -15,8 +15,8 @@ def get_address():
     if not country_code:
         return jsonify({
             "error": "Country code is required",
-            "api_owner": "@ISmartCoder",
-            "api_updates": "t.me/TheSmartDev"
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe"
         }), 400
     
     file_path = os.path.join('data', f"{country_code.lower()}.json")
@@ -32,21 +32,21 @@ def get_address():
             }), 404
         
         random_address = random.choice(addresses)
-        random_address["api_owner"] = "@ISmartCoder"
-        random_address["api_updates"] = "t.me/TheSmartDev"
+        random_address["api_owner"] = "Mahir Labib"
+        random_address["api_updates"] = "https://t.me/bro_bin_lagbe"
         return jsonify(random_address)
     
     except FileNotFoundError:
         return jsonify({
             "error": "Country code not found",
-            "api_owner": "@ISmartCoder",
-            "api_updates": "t.me/TheSmartDev"
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe"
         }), 404
     except Exception as e:
         return jsonify({
             "error": str(e),
-            "api_owner": "@ISmartCoder",
-            "api_updates": "t.me/TheSmartDev"
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe"
         }), 500
 
 @app.errorhandler(404)
@@ -105,14 +105,14 @@ def get_country_list():
         return jsonify({
             "total": len(country_list),
             "countries": country_list,
-            "api_owner": "@ISmartCoder",
-            "api_updates": "t.me/TheSmartDev"
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe"
         })
     except Exception as e:
         return jsonify({
             "error": str(e),
-            "api_owner": "@ISmartCoder",
-            "api_updates": "t.me/TheSmartDev"
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe"
         }), 500
 
 if __name__ == '__main__':
