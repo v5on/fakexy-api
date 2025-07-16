@@ -1,5 +1,4 @@
-{
-  "Philippines": [
+[
     {
       "street_address": "123 Ayala Avenue",
       "street_name": "Ayala Avenue",
@@ -56,4 +55,3 @@
       "currency": "PHP"
     }
   ]
-}
