@@ -1,5 +1,4 @@
-{
-  "Sudan": [
+[
     {
       "street_address": "123 Nile Avenue",
       "street_name": "Nile Avenue",
@@ -56,4 +55,3 @@
       "currency": "SDG"
     }
   ]
-}
