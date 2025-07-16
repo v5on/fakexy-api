@@ -1,5 +1,4 @@
-{
-  "Iceland": [
+[
     {
       "street_address": "123 Laugavegur",
       "street_name": "Laugavegur",
@@ -56,4 +55,3 @@
       "currency": "ISK"
     }
   ]
-}
