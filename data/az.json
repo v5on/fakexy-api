@@ -1,5 +1,4 @@
-{
-  "Azerbaijan": [
+[
     {
       "street_address": "12 Neftchilar Avenue",
       "street_name": "Neftchilar Avenue",
@@ -56,4 +55,3 @@
       "currency": "AZN"
     }
   ]
-}
