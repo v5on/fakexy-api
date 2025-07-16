@@ -1,0 +1,59 @@
+{
+  "Iraq": [
+    {
+      "street_address": "123 Karrada Street",
+      "street_name": "Karrada Street",
+      "building_number": "123",
+      "city": "Baghdad",
+      "state": "Baghdad Governorate",
+      "postal_code": "10001",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "currency": "IQD"
+    },
+    {
+      "street_address": "45 Salim Street",
+      "street_name": "Salim Street",
+      "building_number": "45",
+      "city": "Erbil",
+      "state": "Erbil Governorate",
+      "postal_code": "44001",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "currency": "IQD"
+    },
+    {
+      "street_address": "78 Al-Saadoun Street",
+      "street_name": "Al-Saadoun Street",
+      "building_number": "78",
+      "city": "Baghdad",
+      "state": "Baghdad Governorate",
+      "postal_code": "10011",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "currency": "IQD"
+    },
+    {
+      "street_address": "101 Al-Muthanna Street",
+      "street_name": "Al-Muthanna Street",
+      "building_number": "101",
+      "city": "Basra",
+      "state": "Basra Governorate",
+      "postal_code": "61001",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "currency": "IQD"
+    },
+    {
+      "street_address": "34 Al-Nasiriyah Road",
+      "street_name": "Al-Nasiriyah Road",
+      "building_number": "34",
+      "city": "Nasiriyah",
+      "state": "Dhi Qar Governorate",
+      "postal_code": "64001",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "currency": "IQD"
+    }
+  ]
+}
