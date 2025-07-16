@@ -1,5 +1,4 @@
-{
-  "Armenia": [
+[
     {
       "street_address": "12 Northern Avenue",
       "street_name": "Northern Avenue",
@@ -56,4 +55,3 @@
       "currency": "AMD"
     }
   ]
-}
