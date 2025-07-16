@@ -1,0 +1,59 @@
+{
+  "Palestine": [
+    {
+      "street_address": "123 Al-Irsal Street",
+      "street_name": "Al-Irsal Street",
+      "building_number": "123",
+      "city": "Ramallah",
+      "state": "West Bank",
+      "postal_code": "00970",
+      "country": "Palestine",
+      "country_code": "PS",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "45 Al-Manara Square",
+      "street_name": "Al-Manara Square",
+      "building_number": "45",
+      "city": "Ramallah",
+      "state": "West Bank",
+      "postal_code": "00970",
+      "country": "Palestine",
+      "country_code": "PS",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "78 Salah al-Din Street",
+      "street_name": "Salah al-Din Street",
+      "building_number": "78",
+      "city": "East Jerusalem",
+      "state": "Jerusalem",
+      "postal_code": "00972",
+      "country": "Palestine",
+      "country_code": "PS",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "101 Al-Wahda Street",
+      "street_name": "Al-Wahda Street",
+      "building_number": "101",
+      "city": "Gaza City",
+      "state": "Gaza Strip",
+      "postal_code": "P602",
+      "country": "Palestine",
+      "country_code": "PS",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "34 University Street",
+      "street_name": "University Street",
+      "building_number": "34",
+      "city": "Nablus",
+      "state": "West Bank",
+      "postal_code": "00970",
+      "country": "Palestine",
+      "country_code": "PS",
+      "currency": "ILS"
+    }
+  ]
+}
