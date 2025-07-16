@@ -1,5 +1,4 @@
-{
-  "South Africa": [
+[
     {
       "street_address": "123 Long Street",
       "street_name": "Long Street",
@@ -56,4 +55,3 @@
       "currency": "ZAR"
     }
   ]
-}
