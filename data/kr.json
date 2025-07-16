@@ -1,0 +1,59 @@
+{
+  "South Korea": [
+    {
+      "street_address": "123 Teheran-ro",
+      "street_name": "Teheran-ro",
+      "building_number": "123",
+      "city": "Seoul",
+      "state": "Seoul Special City",
+      "postal_code": "06134",
+      "country": "South Korea",
+      "country_code": "KR",
+      "currency": "KRW"
+    },
+    {
+      "street_address": "45 Gwanganhaebyeon-ro",
+      "street_name": "Gwanganhaebyeon-ro",
+      "building_number": "45",
+      "city": "Busan",
+      "state": "Busan Metropolitan City",
+      "postal_code": "48287",
+      "country": "South Korea",
+      "country_code": "KR",
+      "currency": "KRW"
+    },
+    {
+      "street_address": "78 Dunsan-daero",
+      "street_name": "Dunsan-daero",
+      "building_number": "78",
+      "city": "Daejeon",
+      "state": "Daejeon Metropolitan City",
+      "postal_code": "35241",
+      "country": "South Korea",
+      "country_code": "KR",
+      "currency": "KRW"
+    },
+    {
+      "street_address": "101 Jeju-si Jungang-ro",
+      "street_name": "Jungang-ro",
+      "building_number": "101",
+      "city": "Jeju",
+      "state": "Jeju Special Self-Governing Province",
+      "postal_code": "63122",
+      "country": "South Korea",
+      "country_code": "KR",
+      "currency": "KRW"
+    },
+    {
+      "street_address": "34 Dongseong-ro",
+      "street_name": "Dongseong-ro",
+      "building_number": "34",
+      "city": "Daegu",
+      "state": "Daegu Metropolitan City",
+      "postal_code": "41933",
+      "country": "South Korea",
+      "country_code": "KR",
+      "currency": "KRW"
+    }
+  ]
+}
