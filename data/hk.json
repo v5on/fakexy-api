@@ -1,5 +1,4 @@
-{
-  "Hong Kong": [
+[
     {
       "street_address": "123 Queen's Road Central",
       "street_name": "Queen's Road Central",
@@ -56,4 +55,3 @@
       "currency": "HKD"
     }
   ]
-}
