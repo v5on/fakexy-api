@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "123 Darulaman Road",
+    "street_name": "Darulaman Road",
+    "building_number": "123",
+    "city": "Kabul",
+    "state": "Kabul Province",
+    "postal_code": "1001",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "currency": "AFN"
+  },
+  {
+    "street_address": "45 Herat Bazaar Street",
+    "street_name": "Herat Bazaar Street",
+    "building_number": "45",
+    "city": "Herat",
+    "state": "Herat Province",
+    "postal_code": "3001",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "currency": "AFN"
+  },
+  {
+    "street_address": "78 Kandahar Ring Road",
+    "street_name": "Kandahar Ring Road",
+    "building_number": "78",
+    "city": "Kandahar",
+    "state": "Kandahar Province",
+    "postal_code": "2001",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "currency": "AFN"
+  },
+  {
+    "street_address": "101 Jalalabad Main Road",
+    "street_name": "Jalalabad Main Road",
+    "building_number": "101",
+    "city": "Jalalabad",
+    "state": "Nangarhar Province",
+    "postal_code": "2601",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "currency": "AFN"
+  },
+  {
+    "street_address": "34 Mazar-e-Sharif Central Street",
+    "street_name": "Mazar-e-Sharif Central Street",
+    "building_number": "34",
+    "city": "Mazar-e-Sharif",
+    "state": "Balkh Province",
+    "postal_code": "1701",
+    "country": "Afghanistan",
+    "country_code": "AF",
+    "currency": "AFN"
+  }
+]
