@@ -77,14 +77,14 @@
     "currency": "DZD"
   },
   {
-    "street_address": "12 Rue Didouche Mourad",
-    "street_name": "Rue Didouche Mourad",
-    "building_number": "12",
-    "city": "Algiers",
-    "state": "Algiers Province",
-    "postal_code": "16000",
-    "country": "Algeria",
-    "country_code": "DZ",
-    "currency": "DZD"
+   "street_address": "101 Rue de la Liberté",
+   "street_name": "Rue de la Liberté",
+   "building_number": "101",
+   "city": "Batna",
+   "state": "Batna Province",
+   "postal_code": "05000",
+   "country": "Algeria",
+   "country_code": "DZ",
+   "currency": "DZD"
  }
 ]
