@@ -1,5 +1,4 @@
-{
-  "Ghana": [
+[
     {
       "street_address": "123 Independence Avenue",
       "street_name": "Independence Avenue",
@@ -56,4 +55,3 @@
       "currency": "GHS"
     }
   ]
-}
