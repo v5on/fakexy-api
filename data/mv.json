@@ -1,5 +1,4 @@
-{
-  "Maldives": [
+[
     {
       "street_address": "123 Majeedhee Magu",
       "street_name": "Majeedhee Magu",
@@ -56,4 +55,3 @@
       "currency": "MVR"
     }
   ]
-}
