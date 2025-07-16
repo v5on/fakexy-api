@@ -1,0 +1,59 @@
+{
+  "Greenland": [
+    {
+      "street_address": "123 Aqqusinersuaq",
+      "street_name": "Aqqusinersuaq",
+      "building_number": "123",
+      "city": "Nuuk",
+      "state": "Sermersooq",
+      "postal_code": "3900",
+      "country": "Greenland",
+      "country_code": "GL",
+      "currency": "DKK"
+    },
+    {
+      "street_address": "45 Aqqartarfik",
+      "street_name": "Aqqartarfik",
+      "building_number": "45",
+      "city": "Sisimiut",
+      "state": "Qeqqata",
+      "postal_code": "3911",
+      "country": "Greenland",
+      "country_code": "GL",
+      "currency": "DKK"
+    },
+    {
+      "street_address": "78 Napparsimaviup Aqq.",
+      "street_name": "Napparsimaviup Aqq.",
+      "building_number": "78",
+      "city": "Ilulissat",
+      "state": "Avannaata",
+      "postal_code": "3952",
+      "country": "Greenland",
+      "country_code": "GL",
+      "currency": "DKK"
+    },
+    {
+      "street_address": "101 Kujallerpaat",
+      "street_name": "Kujallerpaat",
+      "building_number": "101",
+      "city": "Qaqortoq",
+      "state": "Kujalleq",
+      "postal_code": "3920",
+      "country": "Greenland",
+      "country_code": "GL",
+      "currency": "DKK"
+    },
+    {
+      "street_address": "34 Umiarsualivik",
+      "street_name": "Umiarsualivik",
+      "building_number": "34",
+      "city": "Maniitsoq",
+      "state": "Qeqqata",
+      "postal_code": "3912",
+      "country": "Greenland",
+      "country_code": "GL",
+      "currency": "DKK"
+    }
+  ]
+}
