@@ -1,0 +1,59 @@
+{
+  "Vietnam": [
+    {
+      "street_address": "123 Nguyễn Huệ",
+      "street_name": "Nguyễn Huệ",
+      "building_number": "123",
+      "city": "Ho Chi Minh City",
+      "state": "Ho Chi Minh",
+      "postal_code": "700000",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "currency": "VND"
+    },
+    {
+      "street_address": "45 Lý Thường Kiệt",
+      "street_name": "Lý Thường Kiệt",
+      "building_number": "45",
+      "city": "Hanoi",
+      "state": "Hanoi",
+      "postal_code": "100000",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "currency": "VND"
+    },
+    {
+      "street_address": "78 Trần Phú",
+      "street_name": "Trần Phú",
+      "building_number": "78",
+      "city": "Da Nang",
+      "state": "Da Nang",
+      "postal_code": "550000",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "currency": "VND"
+    },
+    {
+      "street_address": "101 Điện Biên Phủ",
+      "street_name": "Điện Biên Phủ",
+      "building_number": "101",
+      "city": "Hai Phong",
+      "state": "Hai Phong",
+      "postal_code": "180000",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "currency": "VND"
+    },
+    {
+      "street_address": "34 Hùng Vương",
+      "street_name": "Hùng Vương",
+      "building_number": "34",
+      "city": "Can Tho",
+      "state": "Can Tho",
+      "postal_code": "900000",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "currency": "VND"
+    }
+  ]
+}
