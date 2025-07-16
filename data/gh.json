@@ -1,0 +1,59 @@
+{
+  "Ghana": [
+    {
+      "street_address": "123 Independence Avenue",
+      "street_name": "Independence Avenue",
+      "building_number": "123",
+      "city": "Accra",
+      "state": "Greater Accra",
+      "postal_code": "GA100",
+      "country": "Ghana",
+      "country_code": "GH",
+      "currency": "GHS"
+    },
+    {
+      "street_address": "45 Liberation Road",
+      "street_name": "Liberation Road",
+      "building_number": "45",
+      "city": "Accra",
+      "state": "Greater Accra",
+      "postal_code": "GA107",
+      "country": "Ghana",
+      "country_code": "GH",
+      "currency": "GHS"
+    },
+    {
+      "street_address": "78 Bantama High Street",
+      "street_name": "Bantama High Street",
+      "building_number": "78",
+      "city": "Kumasi",
+      "state": "Ashanti Region",
+      "postal_code": "AK100",
+      "country": "Ghana",
+      "country_code": "GH",
+      "currency": "GHS"
+    },
+    {
+      "street_address": "101 Sekondi Road",
+      "street_name": "Sekondi Road",
+      "building_number": "101",
+      "city": "Takoradi",
+      "state": "Western Region",
+      "postal_code": "WR200",
+      "country": "Ghana",
+      "country_code": "GH",
+      "currency": "GHS"
+    },
+    {
+      "street_address": "34 Tamale Main Street",
+      "street_name": "Tamale Main Street",
+      "building_number": "34",
+      "city": "Tamale",
+      "state": "Northern Region",
+      "postal_code": "NR300",
+      "country": "Ghana",
+      "country_code": "GH",
+      "currency": "GHS"
+    }
+  ]
+}
