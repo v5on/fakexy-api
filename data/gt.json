@@ -1,5 +1,4 @@
-{
-  "Guatemala": [
+[
     {
       "street_address": "123 Avenida Reforma",
       "street_name": "Avenida Reforma",
@@ -56,4 +55,3 @@
       "currency": "GTQ"
     }
   ]
-}
