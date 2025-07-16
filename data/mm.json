@@ -1,0 +1,59 @@
+{
+  "Myanmar": [
+    {
+      "street_address": "123 Pyay Road",
+      "street_name": "Pyay Road",
+      "building_number": "123",
+      "city": "Yangon",
+      "state": "Yangon Region",
+      "postal_code": "11191",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "currency": "MMK"
+    },
+    {
+      "street_address": "45 University Avenue",
+      "street_name": "University Avenue",
+      "building_number": "45",
+      "city": "Yangon",
+      "state": "Yangon Region",
+      "postal_code": "11181",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "currency": "MMK"
+    },
+    {
+      "street_address": "78 Strand Road",
+      "street_name": "Strand Road",
+      "building_number": "78",
+      "city": "Mandalay",
+      "state": "Mandalay Region",
+      "postal_code": "05071",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "currency": "MMK"
+    },
+    {
+      "street_address": "101 Bogyoke Aung San Road",
+      "street_name": "Bogyoke Aung San Road",
+      "building_number": "101",
+      "city": "Naypyidaw",
+      "state": "Naypyidaw Union Territory",
+      "postal_code": "15011",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "currency": "MMK"
+    },
+    {
+      "street_address": "34 Mahabandoola Road",
+      "street_name": "Mahabandoola Road",
+      "building_number": "34",
+      "city": "Yangon",
+      "state": "Yangon Region",
+      "postal_code": "11161",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "currency": "MMK"
+    }
+  ]
+}
