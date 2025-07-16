@@ -34,7 +34,7 @@ def get_address():
         random_address = random.choice(addresses)
         random_address["api_owner"] = "Mahir Labib"
         random_address["api_updates"] = "https://t.me/bro_bin_lagbe"
-        return jsonify(ordered_address)
+        return jsonify(random_address)
 
     except FileNotFoundError:
         return jsonify({
