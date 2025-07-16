@@ -1,0 +1,59 @@
+{
+  "Chile": [
+    {
+      "street_address": "123 Avenida Providencia",
+      "street_name": "Avenida Providencia",
+      "building_number": "123",
+      "city": "Santiago",
+      "state": "Región Metropolitana",
+      "postal_code": "7500000",
+      "country": "Chile",
+      "country_code": "CL",
+      "currency": "CLP"
+    },
+    {
+      "street_address": "45 Calle Condell",
+      "street_name": "Calle Condell",
+      "building_number": "45",
+      "city": "Valparaíso",
+      "state": "Región de Valparaíso",
+      "postal_code": "2340000",
+      "country": "Chile",
+      "country_code": "CL",
+      "currency": "CLP"
+    },
+    {
+      "street_address": "78 Avenida Alemania",
+      "street_name": "Avenida Alemania",
+      "building_number": "78",
+      "city": "Temuco",
+      "state": "Región de La Araucanía",
+      "postal_code": "4810000",
+      "country": "Chile",
+      "country_code": "CL",
+      "currency": "CLP"
+    },
+    {
+      "street_address": "101 Calle Balmaceda",
+      "street_name": "Calle Balmaceda",
+      "building_number": "101",
+      "city": "Antofagasta",
+      "state": "Región de Antofagasta",
+      "postal_code": "1240000",
+      "country": "Chile",
+      "country_code": "CL",
+      "currency": "CLP"
+    },
+    {
+      "street_address": "34 Avenida España",
+      "street_name": "Avenida España",
+      "building_number": "34",
+      "city": "Concepción",
+      "state": "Región del Biobío",
+      "postal_code": "4030000",
+      "country": "Chile",
+      "country_code": "CL",
+      "currency": "CLP"
+    }
+  ]
+}
