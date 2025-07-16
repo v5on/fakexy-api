@@ -1,5 +1,4 @@
-{
-  "Nigeria": [
+[
     {
       "street_address": "123 Awolowo Road",
       "street_name": "Awolowo Road",
@@ -56,4 +55,3 @@
       "currency": "NGN"
     }
   ]
-}
