@@ -1,0 +1,59 @@
+{
+  "United Arab Emirates": [
+    {
+      "street_address": "123 Sheikh Zayed Road",
+      "street_name": "Sheikh Zayed Road",
+      "building_number": "123",
+      "city": "Dubai",
+      "state": "Dubai",
+      "postal_code": "00000",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "currency": "AED"
+    },
+    {
+      "street_address": "45 Abu Dhabi Corniche",
+      "street_name": "Abu Dhabi Corniche",
+      "building_number": "45",
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi",
+      "postal_code": "00000",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "currency": "AED"
+    },
+    {
+      "street_address": "78 Al Majaz Street",
+      "street_name": "Al Majaz Street",
+      "building_number": "78",
+      "city": "Sharjah",
+      "state": "Sharjah",
+      "postal_code": "00000",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "currency": "AED"
+    },
+    {
+      "street_address": "101 Al Qasimi Street",
+      "street_name": "Al Qasimi Street",
+      "building_number": "101",
+      "city": "Ajman",
+      "state": "Ajman",
+      "postal_code": "00000",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "currency": "AED"
+    },
+    {
+      "street_address": "34 Fujairah Street",
+      "street_name": "Fujairah Street",
+      "building_number": "34",
+      "city": "Fujairah",
+      "state": "Fujairah",
+      "postal_code": "00000",
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "currency": "AED"
+    }
+  ]
+}
