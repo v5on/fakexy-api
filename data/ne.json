@@ -1,5 +1,4 @@
-{
-  "Niger": [
+[
     {
       "street_address": "123 Rue de la Liberté",
       "street_name": "Rue de la Liberté",
@@ -56,4 +55,3 @@
       "currency": "XOF"
     }
   ]
-}
