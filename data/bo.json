@@ -1,0 +1,59 @@
+{
+  "Bolivia": [
+    {
+      "street_address": "123 Avenida Mariscal Santa Cruz",
+      "street_name": "Avenida Mariscal Santa Cruz",
+      "building_number": "123",
+      "city": "La Paz",
+      "state": "La Paz Department",
+      "postal_code": "0101",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "currency": "BOB"
+    },
+    {
+      "street_address": "45 Calle 21 de Calacoto",
+      "street_name": "Calle 21 de Calacoto",
+      "building_number": "45",
+      "city": "La Paz",
+      "state": "La Paz Department",
+      "postal_code": "0102",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "currency": "BOB"
+    },
+    {
+      "street_address": "78 Avenida Cristo Redentor",
+      "street_name": "Avenida Cristo Redentor",
+      "building_number": "78",
+      "city": "Santa Cruz de la Sierra",
+      "state": "Santa Cruz Department",
+      "postal_code": "0701",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "currency": "BOB"
+    },
+    {
+      "street_address": "101 Avenida Villazón",
+      "street_name": "Avenida Villazón",
+      "building_number": "101",
+      "city": "Cochabamba",
+      "state": "Cochabamba Department",
+      "postal_code": "0201",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "currency": "BOB"
+    },
+    {
+      "street_address": "34 Calle Bolívar",
+      "street_name": "Calle Bolívar",
+      "building_number": "34",
+      "city": "Sucre",
+      "state": "Chuquisaca Department",
+      "postal_code": "0601",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "currency": "BOB"
+    }
+  ]
+}
