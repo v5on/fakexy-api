@@ -1,0 +1,59 @@
+{
+  "Bulgaria": [
+    {
+      "street_address": "123 Tsar Osvoboditel Boulevard",
+      "street_name": "Tsar Osvoboditel Boulevard",
+      "building_number": "123",
+      "city": "Sofia",
+      "state": "Sofia City Province",
+      "postal_code": "1000",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "currency": "BGN"
+    },
+    {
+      "street_address": "45 Vasil Levski Street",
+      "street_name": "Vasil Levski Street",
+      "building_number": "45",
+      "city": "Plovdiv",
+      "state": "Plovdiv Province",
+      "postal_code": "4000",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "currency": "BGN"
+    },
+    {
+      "street_address": "78 Slivnitsa Boulevard",
+      "street_name": "Slivnitsa Boulevard",
+      "building_number": "78",
+      "city": "Varna",
+      "state": "Varna Province",
+      "postal_code": "9000",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "currency": "BGN"
+    },
+    {
+      "street_address": "101 Aleksandrovska Street",
+      "street_name": "Aleksandrovska Street",
+      "building_number": "101",
+      "city": "Burgas",
+      "state": "Burgas Province",
+      "postal_code": "8000",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "currency": "BGN"
+    },
+    {
+      "street_address": "34 Hristo Botev Boulevard",
+      "street_name": "Hristo Botev Boulevard",
+      "building_number": "34",
+      "city": "Ruse",
+      "state": "Ruse Province",
+      "postal_code": "7000",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "currency": "BGN"
+    }
+  ]
+}
