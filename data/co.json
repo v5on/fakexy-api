@@ -1,1 +1,57 @@
-x
+[
+  {
+    "street_address": "123 Carrera 7",
+    "street_name": "Carrera 7",
+    "building_number": "123",
+    "city": "Bogotá",
+    "state": "Bogotá",
+    "postal_code": "110111",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "456 Calle 10",
+    "street_name": "Calle 10",
+    "building_number": "456",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "postal_code": "050021",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "789 Avenida 4",
+    "street_name": "Avenida 4",
+    "building_number": "789",
+    "city": "Cali",
+    "state": "Valle del Cauca",
+    "postal_code": "760001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "101 Carrera 15",
+    "street_name": "Carrera 15",
+    "building_number": "101",
+    "city": "Barranquilla",
+    "state": "Atlántico",
+    "postal_code": "080001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "street_address": "34 Calle 5",
+    "street_name": "Calle 5",
+    "building_number": "34",
+    "city": "Cartagena",
+    "state": "Bolívar",
+    "postal_code": "130001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  }
+]
