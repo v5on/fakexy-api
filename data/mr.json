@@ -1,5 +1,4 @@
-{
-  "Mauritania": [
+[
     {
       "street_address": "123 Avenue Gamal Abdel Nasser",
       "street_name": "Avenue Gamal Abdel Nasser",
@@ -56,4 +55,3 @@
       "currency": "MRU"
     }
   ]
-}
