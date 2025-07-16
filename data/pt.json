@@ -1,0 +1,59 @@
+{
+  "Portugal": [
+    {
+      "street_address": "123 Avenida da Liberdade",
+      "street_name": "Avenida da Liberdade",
+      "building_number": "123",
+      "city": "Lisbon",
+      "state": "Lisbon District",
+      "postal_code": "1250-140",
+      "country": "Portugal",
+      "country_code": "PT",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "45 Rua de Santa Catarina",
+      "street_name": "Rua de Santa Catarina",
+      "building_number": "45",
+      "city": "Porto",
+      "state": "Porto District",
+      "postal_code": "4000-447",
+      "country": "Portugal",
+      "country_code": "PT",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "78 Avenida Central",
+      "street_name": "Avenida Central",
+      "building_number": "78",
+      "city": "Braga",
+      "state": "Braga District",
+      "postal_code": "4710-229",
+      "country": "Portugal",
+      "country_code": "PT",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "101 Rua 5 de Outubro",
+      "street_name": "Rua 5 de Outubro",
+      "building_number": "101",
+      "city": "Coimbra",
+      "state": "Coimbra District",
+      "postal_code": "3000-056",
+      "country": "Portugal",
+      "country_code": "PT",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "34 Rua da Restauração",
+      "street_name": "Rua da Restauração",
+      "building_number": "34",
+      "city": "Funchal",
+      "state": "Madeira",
+      "postal_code": "9000-060",
+      "country": "Portugal",
+      "country_code": "PT",
+      "currency": "EUR"
+    }
+  ]
+}
