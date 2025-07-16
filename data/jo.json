@@ -1,5 +1,4 @@
-{
-  "Jordan": [
+[
     {
       "street_address": "123 Zahran Street",
       "street_name": "Zahran Street",
@@ -56,4 +55,3 @@
       "currency": "JOD"
     }
   ]
-}
