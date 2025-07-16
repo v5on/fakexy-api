@@ -1,5 +1,4 @@
-{
-  "China": [
+[
     {
       "street_address": "123 Nanjing West Road",
       "street_name": "Nanjing West Road",
@@ -56,4 +55,3 @@
       "currency": "CNY"
     }
   ]
-}
