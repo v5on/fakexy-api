@@ -1,0 +1,59 @@
+{
+  "Norway": [
+    {
+      "street_address": "123 Karl Johans Gate",
+      "street_name": "Karl Johans Gate",
+      "building_number": "123",
+      "city": "Oslo",
+      "state": "Oslo County",
+      "postal_code": "0154",
+      "country": "Norway",
+      "country_code": "NO",
+      "currency": "NOK"
+    },
+    {
+      "street_address": "45 Bryggen",
+      "street_name": "Bryggen",
+      "building_number": "45",
+      "city": "Bergen",
+      "state": "Vestland",
+      "postal_code": "5003",
+      "country": "Norway",
+      "country_code": "NO",
+      "currency": "NOK"
+    },
+    {
+      "street_address": "78 Storgata",
+      "street_name": "Storgata",
+      "building_number": "78",
+      "city": "Tromsø",
+      "state": "Troms og Finnmark",
+      "postal_code": "9008",
+      "country": "Norway",
+      "country_code": "NO",
+      "currency": "NOK"
+    },
+    {
+      "street_address": "101 Prinsens Gate",
+      "street_name": "Prinsens Gate",
+      "building_number": "101",
+      "city": "Trondheim",
+      "state": "Trøndelag",
+      "postal_code": "7011",
+      "country": "Norway",
+      "country_code": "NO",
+      "currency": "NOK"
+    },
+    {
+      "street_address": "34 Torget",
+      "street_name": "Torget",
+      "building_number": "34",
+      "city": "Stavanger",
+      "state": "Rogaland",
+      "postal_code": "4006",
+      "country": "Norway",
+      "country_code": "NO",
+      "currency": "NOK"
+    }
+  ]
+}
