@@ -1,0 +1,59 @@
+{
+  "Guatemala": [
+    {
+      "street_address": "123 Avenida Reforma",
+      "street_name": "Avenida Reforma",
+      "building_number": "123",
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "postal_code": "01010",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "currency": "GTQ"
+    },
+    {
+      "street_address": "45 Calzada Roosevelt",
+      "street_name": "Calzada Roosevelt",
+      "building_number": "45",
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "postal_code": "01009",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "currency": "GTQ"
+    },
+    {
+      "street_address": "78 Calle del Arco",
+      "street_name": "Calle del Arco",
+      "building_number": "78",
+      "city": "Antigua Guatemala",
+      "state": "Sacatepéquez",
+      "postal_code": "03001",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "currency": "GTQ"
+    },
+    {
+      "street_address": "101 Avenida Las Américas",
+      "street_name": "Avenida Las Américas",
+      "building_number": "101",
+      "city": "Quetzaltenango",
+      "state": "Quetzaltenango",
+      "postal_code": "09001",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "currency": "GTQ"
+    },
+    {
+      "street_address": "34 Boulevard Los Próceres",
+      "street_name": "Boulevard Los Próceres",
+      "building_number": "34",
+      "city": "Guatemala City",
+      "state": "Guatemala Department",
+      "postal_code": "01017",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "currency": "GTQ"
+    }
+  ]
+}
