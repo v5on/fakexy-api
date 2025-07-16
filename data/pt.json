@@ -1,5 +1,4 @@
-{
-  "Portugal": [
+[
     {
       "street_address": "123 Avenida da Liberdade",
       "street_name": "Avenida da Liberdade",
@@ -56,4 +55,3 @@
       "currency": "EUR"
     }
   ]
-}
