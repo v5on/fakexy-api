@@ -1,0 +1,59 @@
+{
+  "Bhutan": [
+    {
+      "street_address": "12 Norzin Lam",
+      "street_name": "Norzin Lam",
+      "building_number": "12",
+      "city": "Thimphu",
+      "state": "Thimphu District",
+      "postal_code": "11001",
+      "country": "Bhutan",
+      "country_code": "BT",
+      "currency": "BTN"
+    },
+    {
+      "street_address": "45 Chang Lam",
+      "street_name": "Chang Lam",
+      "building_number": "45",
+      "city": "Thimphu",
+      "state": "Thimphu District",
+      "postal_code": "11002",
+      "country": "Bhutan",
+      "country_code": "BT",
+      "currency": "BTN"
+    },
+    {
+      "street_address": "78 Phuntsholing-Gedu Road",
+      "street_name": "Phuntsholing-Gedu Road",
+      "building_number": "78",
+      "city": "Phuntsholing",
+      "state": "Chukha District",
+      "postal_code": "21001",
+      "country": "Bhutan",
+      "country_code": "BT",
+      "currency": "BTN"
+    },
+    {
+      "street_address": "101 Bajo Town",
+      "street_name": "Bajo Town",
+      "building_number": "101",
+      "city": "Wangdue Phodrang",
+      "state": "Wangdue Phodrang District",
+      "postal_code": "13001",
+      "country": "Bhutan",
+      "country_code": "BT",
+      "currency": "BTN"
+    },
+    {
+      "street_address": "34 Trashigang Highway",
+      "street_name": "Trashigang Highway",
+      "building_number": "34",
+      "city": "Trashigang",
+      "state": "Trashigang District",
+      "postal_code": "42001",
+      "country": "Bhutan",
+      "country_code": "BT",
+      "currency": "BTN"
+    }
+  ]
+}
