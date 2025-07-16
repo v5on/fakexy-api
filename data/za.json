@@ -1,0 +1,59 @@
+{
+  "South Africa": [
+    {
+      "street_address": "123 Long Street",
+      "street_name": "Long Street",
+      "building_number": "123",
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "postal_code": "8001",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR"
+    },
+    {
+      "street_address": "45 Commissioner Street",
+      "street_name": "Commissioner Street",
+      "building_number": "45",
+      "city": "Johannesburg",
+      "state": "Gauteng",
+      "postal_code": "2001",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR"
+    },
+    {
+      "street_address": "78 Florida Road",
+      "street_name": "Florida Road",
+      "building_number": "78",
+      "city": "Durban",
+      "state": "KwaZulu-Natal",
+      "postal_code": "4001",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR"
+    },
+    {
+      "street_address": "101 Church Street",
+      "street_name": "Church Street",
+      "building_number": "101",
+      "city": "Pretoria",
+      "state": "Gauteng",
+      "postal_code": "0002",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR"
+    },
+    {
+      "street_address": "34 Marine Drive",
+      "street_name": "Marine Drive",
+      "building_number": "34",
+      "city": "Port Elizabeth",
+      "state": "Eastern Cape",
+      "postal_code": "6001",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "currency": "ZAR"
+    }
+  ]
+}
