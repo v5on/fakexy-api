@@ -1,0 +1,59 @@
+{
+  "Greece": [
+    {
+      "street_address": "123 Ermou Street",
+      "street_name": "Ermou Street",
+      "building_number": "123",
+      "city": "Athens",
+      "state": "Attica",
+      "postal_code": "10563",
+      "country": "Greece",
+      "country_code": "GR",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "45 Tsimiski Street",
+      "street_name": "Tsimiski Street",
+      "building_number": "45",
+      "city": "Thessaloniki",
+      "state": "Central Macedonia",
+      "postal_code": "54623",
+      "country": "Greece",
+      "country_code": "GR",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "78 Papandreou Avenue",
+      "street_name": "Papandreou Avenue",
+      "building_number": "78",
+      "city": "Heraklion",
+      "state": "Crete",
+      "postal_code": "71306",
+      "country": "Greece",
+      "country_code": "GR",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "101 Solonos Street",
+      "street_name": "Solonos Street",
+      "building_number": "101",
+      "city": "Patras",
+      "state": "Western Greece",
+      "postal_code": "26223",
+      "country": "Greece",
+      "country_code": "GR",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "34 Venizelou Street",
+      "street_name": "Venizelou Street",
+      "building_number": "34",
+      "city": "Larissa",
+      "state": "Thessaly",
+      "postal_code": "41221",
+      "country": "Greece",
+      "country_code": "GR",
+      "currency": "EUR"
+    }
+  ]
+}
