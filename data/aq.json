@@ -1,5 +1,4 @@
-{
-  "Antarctica": [
+[
     {
       "street_address": "1 Amundsen-Scott Station",
       "street_name": "Amundsen-Scott South Pole Station",
@@ -56,4 +55,3 @@
       "currency": "None"
     }
   ]
-}
