@@ -1,5 +1,4 @@
-{
-  "Bermuda": [
+[
     {
       "street_address": "12 Front Street",
       "street_name": "Front Street",
@@ -56,4 +55,3 @@
       "currency": "BMD"
     }
   ]
-}
