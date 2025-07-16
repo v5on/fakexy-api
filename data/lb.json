@@ -1,5 +1,4 @@
-{
-  "Lebanon": [
+[
     {
       "street_address": "123 Hamra Street",
       "street_name": "Hamra Street",
@@ -56,4 +55,3 @@
       "currency": "LBP"
     }
   ]
-}
