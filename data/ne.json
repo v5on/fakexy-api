@@ -1,0 +1,59 @@
+{
+  "Niger": [
+    {
+      "street_address": "123 Rue de la Liberté",
+      "street_name": "Rue de la Liberté",
+      "building_number": "123",
+      "city": "Niamey",
+      "state": "Niamey Urban Community",
+      "postal_code": "8001",
+      "country": "Niger",
+      "country_code": "NE",
+      "currency": "XOF"
+    },
+    {
+      "street_address": "45 Boulevard Mali Béro",
+      "street_name": "Boulevard Mali Béro",
+      "building_number": "45",
+      "city": "Niamey",
+      "state": "Niamey Urban Community",
+      "postal_code": "8002",
+      "country": "Niger",
+      "country_code": "NE",
+      "currency": "XOF"
+    },
+    {
+      "street_address": "78 Avenue du Général de Gaulle",
+      "street_name": "Avenue du Général de Gaulle",
+      "building_number": "78",
+      "city": "Maradi",
+      "state": "Maradi Region",
+      "postal_code": "6101",
+      "country": "Niger",
+      "country_code": "NE",
+      "currency": "XOF"
+    },
+    {
+      "street_address": "101 Rue de Zinder",
+      "street_name": "Rue de Zinder",
+      "building_number": "101",
+      "city": "Zinder",
+      "state": "Zinder Region",
+      "postal_code": "7000",
+      "country": "Niger",
+      "country_code": "NE",
+      "currency": "XOF"
+    },
+    {
+      "street_address": "34 Rue de Tahoua",
+      "street_name": "Rue de Tahoua",
+      "building_number": "34",
+      "city": "Tahoua",
+      "state": "Tahoua Region",
+      "postal_code": "5000",
+      "country": "Niger",
+      "country_code": "NE",
+      "currency": "XOF"
+    }
+  ]
+}
