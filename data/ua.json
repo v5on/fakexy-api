@@ -1,5 +1,4 @@
-{
-  "Ukraine": [
+[
     {
       "street_address": "123 Khreshchatyk Street",
       "street_name": "Khreshchatyk Street",
@@ -56,4 +55,3 @@
       "currency": "UAH"
     }
   ]
-}
