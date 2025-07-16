@@ -1,5 +1,4 @@
-{
-  "Vietnam": [
+[
     {
       "street_address": "123 Nguyễn Huệ",
       "street_name": "Nguyễn Huệ",
@@ -56,4 +55,3 @@
       "currency": "VND"
     }
   ]
-}
