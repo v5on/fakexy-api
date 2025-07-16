@@ -18,24 +18,38 @@ def get_address():
             "api_owner": "Mahir Labib",
             "api_updates": "https://t.me/bro_bin_lagbe"
         }), 400
-    
+
     file_path = os.path.join('data', f"{country_code.lower()}.json")
     try:
         with open(file_path, 'r') as file:
             addresses = json.load(file)
-        
+
         if not addresses:
             return jsonify({
                 "error": "No addresses found for this country code",
-                "api_owner": "@ISmartCoder",
-                "api_updates": "t.me/TheSmartDev"
+                "api_owner": "Mahir Labib",
+                "api_updates": "https://t.me/bro_bin_lagbe"
             }), 404
-        
-        random_address = random.choice(addresses)
-        random_address["api_owner"] = "Mahir Labib"
-        random_address["api_updates"] = "https://t.me/bro_bin_lagbe"
-        return jsonify(random_address)
-    
+
+        raw = random.choice(addresses)
+
+        ordered_address = {
+            "api_owner": "Mahir Labib",
+            "api_updates": "https://t.me/bro_bin_lagbe",
+
+            "street_address": raw.get("street_address", ""),
+            "street_name": raw.get("street_name", ""),
+            "building_number": raw.get("building_number", ""),
+            "state": raw.get("state", ""),
+            "city": raw.get("city", ""),
+            "postal_code": raw.get("postal_code", ""),
+            "country": raw.get("country", ""),
+            "country_code": raw.get("country_code", ""),
+            "currency": raw.get("currency", "")
+        }
+
+        return jsonify(ordered_address)
+
     except FileNotFoundError:
         return jsonify({
             "error": "Country code not found",
