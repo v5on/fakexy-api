@@ -1,0 +1,59 @@
+{
+  "Mauritania": [
+    {
+      "street_address": "123 Avenue Gamal Abdel Nasser",
+      "street_name": "Avenue Gamal Abdel Nasser",
+      "building_number": "123",
+      "city": "Nouakchott",
+      "state": "Nouakchott Region",
+      "postal_code": "M001",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "currency": "MRU"
+    },
+    {
+      "street_address": "45 Rue du Commerce",
+      "street_name": "Rue du Commerce",
+      "building_number": "45",
+      "city": "Nouadhibou",
+      "state": "Dakhlet Nouadhibou Region",
+      "postal_code": "M500",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "currency": "MRU"
+    },
+    {
+      "street_address": "78 Route de l’Oasis",
+      "street_name": "Route de l’Oasis",
+      "building_number": "78",
+      "city": "Kiffa",
+      "state": "Assaba Region",
+      "postal_code": "M900",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "currency": "MRU"
+    },
+    {
+      "street_address": "101 Boulevard de la République",
+      "street_name": "Boulevard de la République",
+      "building_number": "101",
+      "city": "Rosso",
+      "state": "Trarza Region",
+      "postal_code": "M900",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "currency": "MRU"
+    },
+    {
+      "street_address": "34 Avenue du Peuple",
+      "street_name": "Avenue du Peuple",
+      "building_number": "34",
+      "city": "Zouérat",
+      "state": "Tiris Zemmour Region",
+      "postal_code": "M300",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "currency": "MRU"
+    }
+  ]
+}
