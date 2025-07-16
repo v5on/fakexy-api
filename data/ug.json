@@ -1,5 +1,4 @@
-{
-  "Uganda": [
+[
     {
       "street_address": "123 Kampala Road",
       "street_name": "Kampala Road",
@@ -56,4 +55,3 @@
       "currency": "UGX"
     }
   ]
-}
