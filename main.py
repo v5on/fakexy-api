@@ -17,7 +17,7 @@ def index():
 @app.route('/api/address', methods=['GET'])
 def get_address():
     country_code = request.args.get('code', '').upper()
-    
+
     if not country_code:
         return jsonify({
             "error": "Country code is required",
@@ -29,7 +29,7 @@ def get_address():
 
     try:
         with open(file_path, 'r') as file:
-            addresses = json.load(file)
+            addresses = json.load(file, object_pairs_hook=OrderedDict)  # 👈 এখানেই ম্যাজিক
 
         if not addresses:
             return jsonify({
@@ -40,14 +40,15 @@ def get_address():
 
         raw = random.choice(addresses)
 
-        # Maintain original dataset key order using OrderedDict
-        ordered_address = OrderedDict()
-        ordered_address["api_owner"] = API_OWNER
-        ordered_address["api_updates"] = API_UPDATES
-        for key in raw:
-            ordered_address[key] = raw[key]
+        # Add owner info at the top
+        response_data = OrderedDict()
+        response_data["api_owner"] = API_OWNER
+        response_data["api_updates"] = API_UPDATES
 
-        return jsonify(ordered_address)
+        for key, value in raw.items():
+            response_data[key] = value  # 😎 Preserve exact order
+
+        return jsonify(response_data)
 
     except FileNotFoundError:
         return jsonify({
