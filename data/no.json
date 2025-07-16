@@ -1,5 +1,4 @@
-{
-  "Norway": [
+[
     {
       "street_address": "123 Karl Johans Gate",
       "street_name": "Karl Johans Gate",
@@ -56,4 +55,3 @@
       "currency": "NOK"
     }
   ]
-}
