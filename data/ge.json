@@ -1,5 +1,4 @@
-{
-  "Czechia": [
+[
     {
       "street_address": "123 Václavské náměstí",
       "street_name": "Václavské náměstí",
@@ -56,4 +55,3 @@
       "currency": "CZK"
     }
   ]
-}
