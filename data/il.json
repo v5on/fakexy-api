@@ -1,0 +1,59 @@
+{
+  "Israel": [
+    {
+      "street_address": "123 Rothschild Boulevard",
+      "street_name": "Rothschild Boulevard",
+      "building_number": "123",
+      "city": "Tel Aviv",
+      "state": "Tel Aviv District",
+      "postal_code": "6688104",
+      "country": "Israel",
+      "country_code": "IL",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "45 Jaffa Road",
+      "street_name": "Jaffa Road",
+      "building_number": "45",
+      "city": "Jerusalem",
+      "state": "Jerusalem District",
+      "postal_code": "9434125",
+      "country": "Israel",
+      "country_code": "IL",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "78 Ben Yehuda Street",
+      "street_name": "Ben Yehuda Street",
+      "building_number": "78",
+      "city": "Haifa",
+      "state": "Haifa District",
+      "postal_code": "3307224",
+      "country": "Israel",
+      "country_code": "IL",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "101 Herzl Street",
+      "street_name": "Herzl Street",
+      "building_number": "101",
+      "city": "Beer Sheva",
+      "state": "Southern District",
+      "postal_code": "8421201",
+      "country": "Israel",
+      "country_code": "IL",
+      "currency": "ILS"
+    },
+    {
+      "street_address": "34 Emek Refaim Street",
+      "street_name": "Emek Refaim Street",
+      "building_number": "34",
+      "city": "Jerusalem",
+      "state": "Jerusalem District",
+      "postal_code": "9310502",
+      "country": "Israel",
+      "country_code": "IL",
+      "currency": "ILS"
+    }
+  ]
+}
