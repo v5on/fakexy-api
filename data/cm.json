@@ -1,0 +1,59 @@
+{
+  "Cameroon": [
+    {
+      "street_address": "123 Rue Koloko",
+      "street_name": "Rue Koloko",
+      "building_number": "123",
+      "city": "Yaoundé",
+      "state": "Centre Region",
+      "postal_code": "237001",
+      "country": "Cameroon",
+      "country_code": "CM",
+      "currency": "XAF"
+    },
+    {
+      "street_address": "45 Avenue du Général de Gaulle",
+      "street_name": "Avenue du Général de Gaulle",
+      "building_number": "45",
+      "city": "Douala",
+      "state": "Littoral Region",
+      "postal_code": "237002",
+      "country": "Cameroon",
+      "country_code": "CM",
+      "currency": "XAF"
+    },
+    {
+      "street_address": "78 Rue de la Liberté",
+      "street_name": "Rue de la Liberté",
+      "building_number": "78",
+      "city": "Garoua",
+      "state": "North Region",
+      "postal_code": "237003",
+      "country": "Cameroon",
+      "country_code": "CM",
+      "currency": "XAF"
+    },
+    {
+      "street_address": "101 Boulevard Ahmadou Ahidjo",
+      "street_name": "Boulevard Ahmadou Ahidjo",
+      "building_number": "101",
+      "city": "Bamenda",
+      "state": "Northwest Region",
+      "postal_code": "237004",
+      "country": "Cameroon",
+      "country_code": "CM",
+      "currency": "XAF"
+    },
+    {
+      "street_address": "34 Rue des Palmiers",
+      "street_name": "Rue des Palmiers",
+      "building_number": "34",
+      "city": "Buea",
+      "state": "Southwest Region",
+      "postal_code": "237005",
+      "country": "Cameroon",
+      "country_code": "CM",
+      "currency": "XAF"
+    }
+  ]
+}
