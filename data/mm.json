@@ -1,5 +1,4 @@
-{
-  "Myanmar": [
+[
     {
       "street_address": "123 Pyay Road",
       "street_name": "Pyay Road",
@@ -56,4 +55,3 @@
       "currency": "MMK"
     }
   ]
-}
