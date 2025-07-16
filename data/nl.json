@@ -1,0 +1,59 @@
+{
+  "Netherlands": [
+    {
+      "street_address": "123 Damrak",
+      "street_name": "Damrak",
+      "building_number": "123",
+      "city": "Amsterdam",
+      "state": "North Holland",
+      "postal_code": "1012 LP",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "45 Coolsingel",
+      "street_name": "Coolsingel",
+      "building_number": "45",
+      "city": "Rotterdam",
+      "state": "South Holland",
+      "postal_code": "3012 AD",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "78 Grote Marktstraat",
+      "street_name": "Grote Marktstraat",
+      "building_number": "78",
+      "city": "The Hague",
+      "state": "South Holland",
+      "postal_code": "2511 BJ",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "101 Oudegracht",
+      "street_name": "Oudegracht",
+      "building_number": "101",
+      "city": "Utrecht",
+      "state": "Utrecht",
+      "postal_code": "3511 AL",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "currency": "EUR"
+    },
+    {
+      "street_address": "34 Vrijthof",
+      "street_name": "Vrijthof",
+      "building_number": "34",
+      "city": "Maastricht",
+      "state": "Limburg",
+      "postal_code": "6211 LE",
+      "country": "Netherlands",
+      "country_code": "NL",
+      "currency": "EUR"
+    }
+  ]
+}
