@@ -1,5 +1,4 @@
-{
-  "Tanzania": [
+[
     {
       "street_address": "123 Samora Avenue",
       "street_name": "Samora Avenue",
@@ -56,4 +55,3 @@
       "currency": "TZS"
     }
   ]
-}
