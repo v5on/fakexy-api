@@ -1,5 +1,4 @@
-{
-  "Cameroon": [
+[
     {
       "street_address": "123 Rue Koloko",
       "street_name": "Rue Koloko",
@@ -56,4 +55,3 @@
       "currency": "XAF"
     }
   ]
-}
