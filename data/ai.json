@@ -1,5 +1,4 @@
-{
-  "Anguilla": [
+[
     {
       "street_address": "12 Shoal Bay East",
       "street_name": "Shoal Bay East",
@@ -56,4 +55,3 @@
       "currency": "XCD"
     }
   ]
-}
