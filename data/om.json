@@ -1,5 +1,4 @@
-{
-  "Oman": [
+[
     {
       "street_address": "123 Sultan Qaboos Street",
       "street_name": "Sultan Qaboos Street",
@@ -56,4 +55,3 @@
       "currency": "OMR"
     }
   ]
-}
