@@ -1,0 +1,59 @@
+{
+  "Hong Kong": [
+    {
+      "street_address": "123 Queen's Road Central",
+      "street_name": "Queen's Road Central",
+      "building_number": "123",
+      "city": "Central",
+      "state": "Hong Kong Island",
+      "postal_code": "",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "currency": "HKD"
+    },
+    {
+      "street_address": "45 Nathan Road",
+      "street_name": "Nathan Road",
+      "building_number": "45",
+      "city": "Tsim Sha Tsui",
+      "state": "Kowloon",
+      "postal_code": "",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "currency": "HKD"
+    },
+    {
+      "street_address": "78 Hennessy Road",
+      "street_name": "Hennessy Road",
+      "building_number": "78",
+      "city": "Wan Chai",
+      "state": "Hong Kong Island",
+      "postal_code": "",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "currency": "HKD"
+    },
+    {
+      "street_address": "101 Des Voeux Road West",
+      "street_name": "Des Voeux Road West",
+      "building_number": "101",
+      "city": "Sai Ying Pun",
+      "state": "Hong Kong Island",
+      "postal_code": "",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "currency": "HKD"
+    },
+    {
+      "street_address": "34 Castle Peak Road",
+      "street_name": "Castle Peak Road",
+      "building_number": "34",
+      "city": "Tsuen Wan",
+      "state": "New Territories",
+      "postal_code": "",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "currency": "HKD"
+    }
+  ]
+}
