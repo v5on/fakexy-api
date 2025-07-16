@@ -1,0 +1,59 @@
+{
+  "Kenya": [
+    {
+      "street_address": "123 Moi Avenue",
+      "street_name": "Moi Avenue",
+      "building_number": "123",
+      "city": "Nairobi",
+      "state": "Nairobi County",
+      "postal_code": "00100",
+      "country": "Kenya",
+      "country_code": "KE",
+      "currency": "KES"
+    },
+    {
+      "street_address": "45 Kenyatta Avenue",
+      "street_name": "Kenyatta Avenue",
+      "building_number": "45",
+      "city": "Nairobi",
+      "state": "Nairobi County",
+      "postal_code": "00200",
+      "country": "Kenya",
+      "country_code": "KE",
+      "currency": "KES"
+    },
+    {
+      "street_address": "78 Nkrumah Road",
+      "street_name": "Nkrumah Road",
+      "building_number": "78",
+      "city": "Mombasa",
+      "state": "Mombasa County",
+      "postal_code": "80100",
+      "country": "Kenya",
+      "country_code": "KE",
+      "currency": "KES"
+    },
+    {
+      "street_address": "101 Kisumu Road",
+      "street_name": "Kisumu Road",
+      "building_number": "101",
+      "city": "Kisumu",
+      "state": "Kisumu County",
+      "postal_code": "40100",
+      "country": "Kenya",
+      "country_code": "KE",
+      "currency": "KES"
+    },
+    {
+      "street_address": "34 Eldoret-Kaptagat Road",
+      "street_name": "Eldoret-Kaptagat Road",
+      "building_number": "34",
+      "city": "Eldoret",
+      "state": "Uasin Gishu County",
+      "postal_code": "30100",
+      "country": "Kenya",
+      "country_code": "KE",
+      "currency": "KES"
+    }
+  ]
+}
