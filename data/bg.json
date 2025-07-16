@@ -1,5 +1,4 @@
-{
-  "Bulgaria": [
+[
     {
       "street_address": "123 Tsar Osvoboditel Boulevard",
       "street_name": "Tsar Osvoboditel Boulevard",
@@ -56,4 +55,3 @@
       "currency": "BGN"
     }
   ]
-}
