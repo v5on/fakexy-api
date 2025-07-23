@@ -1,5 +1,8 @@
 [
   {
+    "name": "Juan Rodríguez",
+    "gender": "Male",
+    "phone_number": "+57 301 123 4567",
     "street_address": "123 Carrera 7",
     "street_name": "Carrera 7",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "COP"
   },
   {
+    "name": "María Gómez",
+    "gender": "Female",
+    "phone_number": "+57 312 234 5678",
     "street_address": "456 Calle 10",
     "street_name": "Calle 10",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "COP"
   },
   {
+    "name": "Andrés Martínez",
+    "gender": "Male",
+    "phone_number": "+57 300 345 6789",
     "street_address": "789 Avenida 4",
     "street_name": "Avenida 4",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "COP"
   },
   {
+    "name": "Laura Torres",
+    "gender": "Female",
+    "phone_number": "+57 321 456 7890",
     "street_address": "101 Carrera 15",
     "street_name": "Carrera 15",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "COP"
   },
   {
+    "name": "Felipe Ríos",
+    "gender": "Male",
+    "phone_number": "+57 318 567 8901",
     "street_address": "34 Calle 5",
     "street_name": "Calle 5",
     "building_number": "34",
     "city": "Cartagena",
     "state": "Bolívar",
     "postal_code": "130001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "name": "Diana Paredes",
+    "gender": "Female",
+    "phone_number": "+57 322 678 9012",
+    "street_address": "67 Calle 26",
+    "street_name": "Calle 26",
+    "building_number": "67",
+    "city": "Bogotá",
+    "state": "Bogotá",
+    "postal_code": "111321",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "name": "Camilo Salazar",
+    "gender": "Male",
+    "phone_number": "+57 314 789 0123",
+    "street_address": "89 Carrera 70",
+    "street_name": "Carrera 70",
+    "building_number": "89",
+    "city": "Medellín",
+    "state": "Antioquia",
+    "postal_code": "050034",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "name": "Valentina Restrepo",
+    "gender": "Female",
+    "phone_number": "+57 305 890 1234",
+    "street_address": "22 Calle 45",
+    "street_name": "Calle 45",
+    "building_number": "22",
+    "city": "Cali",
+    "state": "Valle del Cauca",
+    "postal_code": "760045",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "name": "Esteban Herrera",
+    "gender": "Male",
+    "phone_number": "+57 316 901 2345",
+    "street_address": "77 Carrera 50",
+    "street_name": "Carrera 50",
+    "building_number": "77",
+    "city": "Bucaramanga",
+    "state": "Santander",
+    "postal_code": "680001",
+    "country": "Colombia",
+    "country_code": "CO",
+    "currency": "COP"
+  },
+  {
+    "name": "Natalia Ruiz",
+    "gender": "Female",
+    "phone_number": "+57 319 012 3456",
+    "street_address": "55 Calle 9",
+    "street_name": "Calle 9",
+    "building_number": "55",
+    "city": "Pereira",
+    "state": "Risaralda",
+    "postal_code": "660001",
     "country": "Colombia",
     "country_code": "CO",
     "currency": "COP"
