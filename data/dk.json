@@ -1,5 +1,8 @@
 [
   {
+    "name": "Frederik Andersen",
+    "gender": "Male",
+    "phone_number": "+45 31 20 45 67",
     "street_address": "123 Strøget",
     "street_name": "Strøget",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "DKK"
   },
   {
+    "name": "Emma Nielsen",
+    "gender": "Female",
+    "phone_number": "+45 42 33 56 78",
     "street_address": "456 Nyhavn",
     "street_name": "Nyhavn",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "DKK"
   },
   {
+    "name": "Mads Kristensen",
+    "gender": "Male",
+    "phone_number": "+45 51 64 78 90",
     "street_address": "789 Åboulevard",
     "street_name": "Åboulevard",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "DKK"
   },
   {
+    "name": "Ida Rasmussen",
+    "gender": "Female",
+    "phone_number": "+45 22 88 99 00",
     "street_address": "101 Vestergade",
     "street_name": "Vestergade",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "DKK"
   },
   {
+    "name": "Anders Møller",
+    "gender": "Male",
+    "phone_number": "+45 61 55 73 84",
     "street_address": "34 Nørregade",
     "street_name": "Nørregade",
     "building_number": "34",
