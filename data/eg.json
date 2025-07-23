@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ahmed El Sayed",
+    "gender": "Male",
+    "phone_number": "+20 100 123 4567",
     "street_address": "123 Nile Corniche",
     "street_name": "Nile Corniche",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "EGP"
   },
   {
+    "name": "Fatma Hassan",
+    "gender": "Female",
+    "phone_number": "+20 101 234 5678",
     "street_address": "456 Pyramids Road",
     "street_name": "Pyramids Road",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "EGP"
   },
   {
+    "name": "Mohamed Tarek",
+    "gender": "Male",
+    "phone_number": "+20 102 345 6789",
     "street_address": "789 Alexandria Street",
     "street_name": "Alexandria Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "EGP"
   },
   {
+    "name": "Salma Nabil",
+    "gender": "Female",
+    "phone_number": "+20 103 456 7890",
     "street_address": "101 Luxor Avenue",
     "street_name": "Luxor Avenue",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "EGP"
   },
   {
+    "name": "Omar Mahmoud",
+    "gender": "Male",
+    "phone_number": "+20 104 567 8901",
     "street_address": "34 Suez Canal Road",
     "street_name": "Suez Canal Road",
     "building_number": "34",
