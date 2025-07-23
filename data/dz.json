@@ -110,5 +110,33 @@
     "country": "Algeria",
     "country_code": "DZ",
     "currency": "DZD"
+  },
+  {
+    "name": "Mohamed Amrani",
+    "gender": "Male",
+    "phone_number": "+213 671 23 45 89",
+    "street_address": "90 Rue Emir Abdelkader",
+    "street_name": "Rue Emir Abdelkader",
+    "building_number": "90",
+    "city": "Tlemcen",
+    "state": "Tlemcen Province",
+    "postal_code": "13000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
+  },
+  {
+    "name": "Samira Djouadi",
+    "gender": "Female",
+    "phone_number": "+213 688 76 55 44",
+    "street_address": "55 Rue Mohamed Belouizdad",
+    "street_name": "Rue Mohamed Belouizdad",
+    "building_number": "55",
+    "city": "Algiers",
+    "state": "Algiers Province",
+    "postal_code": "16000",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "currency": "DZD"
   }
 ]
