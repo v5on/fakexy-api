@@ -1,5 +1,8 @@
 [
   {
+    "name": "Luca Moretti",
+    "gender": "Male",
+    "phone_number": "+39 345 123 4567",
     "street_address": "Via del Corso 12",
     "street_name": "Via del Corso",
     "building_number": "12",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Giulia Rossi",
+    "gender": "Female",
+    "phone_number": "+39 347 234 5678",
     "street_address": "Piazza del Duomo 45",
     "street_name": "Piazza del Duomo",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Marco Bianchi",
+    "gender": "Male",
+    "phone_number": "+39 348 345 6789",
     "street_address": "Via Tornabuoni 78",
     "street_name": "Via Tornabuoni",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Sara Conti",
+    "gender": "Female",
+    "phone_number": "+39 349 456 7890",
     "street_address": "Calle Larga 101",
     "street_name": "Calle Larga",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "EUR"
   },
   {
+    "name": "Francesco Romano",
+    "gender": "Male",
+    "phone_number": "+39 350 567 8901",
     "street_address": "Via Partenope 234",
     "street_name": "Via Partenope",
     "building_number": "234",
     "city": "Naples",
     "state": "Campania",
     "postal_code": "80121",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "name": "Chiara De Luca",
+    "gender": "Female",
+    "phone_number": "+39 351 678 9012",
+    "street_address": "Via Roma 15",
+    "street_name": "Via Roma",
+    "building_number": "15",
+    "city": "Turin",
+    "state": "Piedmont",
+    "postal_code": "10121",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "name": "Alessandro Gallo",
+    "gender": "Male",
+    "phone_number": "+39 352 789 0123",
+    "street_address": "Viale Dante 67",
+    "street_name": "Viale Dante",
+    "building_number": "67",
+    "city": "Parma",
+    "state": "Emilia-Romagna",
+    "postal_code": "43121",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "name": "Martina Ferri",
+    "gender": "Female",
+    "phone_number": "+39 353 890 1234",
+    "street_address": "Corso Vittorio Emanuele 89",
+    "street_name": "Corso Vittorio Emanuele",
+    "building_number": "89",
+    "city": "Bari",
+    "state": "Apulia",
+    "postal_code": "70121",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "name": "Giorgio Esposito",
+    "gender": "Male",
+    "phone_number": "+39 354 901 2345",
+    "street_address": "Via Etnea 100",
+    "street_name": "Via Etnea",
+    "building_number": "100",
+    "city": "Catania",
+    "state": "Sicily",
+    "postal_code": "95131",
+    "country": "Italy",
+    "country_code": "IT",
+    "currency": "EUR"
+  },
+  {
+    "name": "Valentina Greco",
+    "gender": "Female",
+    "phone_number": "+39 355 012 3456",
+    "street_address": "Via Mazzini 22",
+    "street_name": "Via Mazzini",
+    "building_number": "22",
+    "city": "Verona",
+    "state": "Veneto",
+    "postal_code": "37121",
     "country": "Italy",
     "country_code": "IT",
     "currency": "EUR"
