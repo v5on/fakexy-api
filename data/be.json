@@ -1,5 +1,8 @@
 [
   {
+    "name": "Lucas Dupont",
+    "gender": "Male",
+    "phone_number": "+32 470 12 34 56",
     "street_address": "123 Rue de la Loi",
     "street_name": "Rue de la Loi",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Emma Lambert",
+    "gender": "Female",
+    "phone_number": "+32 478 23 45 67",
     "street_address": "456 Grand Place",
     "street_name": "Grand Place",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Thomas Vermeulen",
+    "gender": "Male",
+    "phone_number": "+32 475 34 56 78",
     "street_address": "789 Meir Street",
     "street_name": "Meir Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Laura Peeters",
+    "gender": "Female",
+    "phone_number": "+32 495 45 67 89",
     "street_address": "101 Naamsestraat",
     "street_name": "Naamsestraat",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "EUR"
   },
   {
+    "name": "Noah Willems",
+    "gender": "Male",
+    "phone_number": "+32 465 56 78 90",
     "street_address": "34 Veldstraat",
     "street_name": "Veldstraat",
     "building_number": "34",
     "city": "Ghent",
     "state": "East Flanders",
     "postal_code": "9000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Julie Claes",
+    "gender": "Female",
+    "phone_number": "+32 493 67 89 01",
+    "street_address": "12 Avenue Louise",
+    "street_name": "Avenue Louise",
+    "building_number": "12",
+    "city": "Brussels",
+    "state": "Brussels-Capital",
+    "postal_code": "1050",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Mathis Dewaele",
+    "gender": "Male",
+    "phone_number": "+32 488 78 90 12",
+    "street_address": "55 Kammenstraat",
+    "street_name": "Kammenstraat",
+    "building_number": "55",
+    "city": "Antwerp",
+    "state": "Antwerp",
+    "postal_code": "2000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Elise Maes",
+    "gender": "Female",
+    "phone_number": "+32 486 89 01 23",
+    "street_address": "67 Hoogpoort",
+    "street_name": "Hoogpoort",
+    "building_number": "67",
+    "city": "Ghent",
+    "state": "East Flanders",
+    "postal_code": "9000",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Victor De Smet",
+    "gender": "Male",
+    "phone_number": "+32 499 90 12 34",
+    "street_address": "23 Martelarenlaan",
+    "street_name": "Martelarenlaan",
+    "building_number": "23",
+    "city": "Leuven",
+    "state": "Flemish Brabant",
+    "postal_code": "3010",
+    "country": "Belgium",
+    "country_code": "BE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Manon Janssens",
+    "gender": "Female",
+    "phone_number": "+32 487 12 23 34",
+    "street_address": "88 Chaussée de Haecht",
+    "street_name": "Chaussée de Haecht",
+    "building_number": "88",
+    "city": "Brussels",
+    "state": "Brussels-Capital",
+    "postal_code": "1030",
     "country": "Belgium",
     "country_code": "BE",
     "currency": "EUR"
