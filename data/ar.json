@@ -1,5 +1,8 @@
 [
   {
+    "name": "Martín Gómez",
+    "gender": "Male",
+    "phone_number": "+54 9 11 2345 6789",
     "street_address": "Av. Rivadavia 1234",
     "street_name": "Av. Rivadavia",
     "building_number": "1234",
@@ -11,6 +14,9 @@
     "currency": "ARS"
   },
   {
+    "name": "Lucía Fernández",
+    "gender": "Female",
+    "phone_number": "+54 9 11 3456 7890",
     "street_address": "Calle Florida 456",
     "street_name": "Calle Florida",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "ARS"
   },
   {
+    "name": "Diego Martínez",
+    "gender": "Male",
+    "phone_number": "+54 9 11 4567 8901",
     "street_address": "Av. Corrientes 789",
     "street_name": "Av. Corrientes",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "ARS"
   },
   {
+    "name": "Camila Ruiz",
+    "gender": "Female",
+    "phone_number": "+54 9 11 5678 9012",
     "street_address": "Calle Lavalle 101",
     "street_name": "Calle Lavalle",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "ARS"
   },
   {
+    "name": "Julián Torres",
+    "gender": "Male",
+    "phone_number": "+54 9 11 6789 0123",
     "street_address": "Av. Santa Fe 2345",
     "street_name": "Av. Santa Fe",
     "building_number": "2345",
