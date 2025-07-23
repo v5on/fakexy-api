@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ayan Zhumabayev",
+    "gender": "Male",
+    "phone_number": "+7 701 123 4567",
     "street_address": "Abay Ave 12",
     "street_name": "Abay Ave",
     "building_number": "12",
@@ -11,6 +14,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Aruzhan Sadykova",
+    "gender": "Female",
+    "phone_number": "+7 702 234 5678",
     "street_address": "Kabanbay Batyr 45",
     "street_name": "Kabanbay Batyr",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Nurlan Tursynov",
+    "gender": "Male",
+    "phone_number": "+7 705 345 6789",
     "street_address": "Gogol Street 78",
     "street_name": "Gogol Street",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Zhanel Omarova",
+    "gender": "Female",
+    "phone_number": "+7 707 456 7890",
     "street_address": "Furmanov Street 9",
     "street_name": "Furmanov Street",
     "building_number": "9",
@@ -44,6 +56,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Yerbolat Serik",
+    "gender": "Male",
+    "phone_number": "+7 708 567 8901",
     "street_address": "Dostyk Avenue 56",
     "street_name": "Dostyk Avenue",
     "building_number": "56",
@@ -55,6 +70,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Dana Kassenova",
+    "gender": "Female",
+    "phone_number": "+7 771 234 5678",
     "street_address": "street x",
     "street_name": "street x",
     "building_number": "",
@@ -66,6 +84,9 @@
     "currency": "KZT"
   },
   {
+    "name": "Dias Nurmagambetov",
+    "gender": "Male",
+    "phone_number": "+7 776 789 1234",
     "street_address": "Rozybakiev Street, Bostandyk",
     "street_name": "Rozybakiev Street",
     "building_number": "",
@@ -77,12 +98,43 @@
     "currency": "KZT"
   },
   {
+    "name": "Mira Temirbek",
+    "gender": "Female",
+    "phone_number": "+7 775 890 2345",
     "street_address": "IND,0062",
     "street_name": "IND",
     "building_number": "0062",
     "city": "Semipalatinsk",
     "state": "Almaty",
     "postal_code": "020101",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "name": "Timur Abzalov",
+    "gender": "Male",
+    "phone_number": "+7 770 543 2198",
+    "street_address": "99 Satpayev Street",
+    "street_name": "Satpayev Street",
+    "building_number": "99",
+    "city": "Pavlodar",
+    "state": "Pavlodar Region",
+    "postal_code": "140000",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "currency": "KZT"
+  },
+  {
+    "name": "Aliya Tuleuova",
+    "gender": "Female",
+    "phone_number": "+7 774 678 9012",
+    "street_address": "17 Kunaev Street",
+    "street_name": "Kunaev Street",
+    "building_number": "17",
+    "city": "Aktobe",
+    "state": "Aktobe Region",
+    "postal_code": "030000",
     "country": "Kazakhstan",
     "country_code": "KZ",
     "currency": "KZT"
