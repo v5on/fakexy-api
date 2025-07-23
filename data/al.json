@@ -1,5 +1,8 @@
 [
   {
+    "name": "Erion Hoxha",
+    "gender": "Male",
+    "phone_number": "+355 68 123 4567",
     "street_address": "123 Rruga e Durrësit",
     "street_name": "Rruga e Durrësit",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "ALL"
   },
   {
+    "name": "Ardita Dervishi",
+    "gender": "Female",
+    "phone_number": "+355 69 234 5678",
     "street_address": "45 Rruga Taulantia",
     "street_name": "Rruga Taulantia",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "ALL"
   },
   {
+    "name": "Besnik Rama",
+    "gender": "Male",
+    "phone_number": "+355 67 345 6789",
     "street_address": "78 Rruga Ismail Qemali",
     "street_name": "Rruga Ismail Qemali",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "ALL"
   },
   {
+    "name": "Elira Shkreli",
+    "gender": "Female",
+    "phone_number": "+355 66 456 7890",
     "street_address": "101 Rruga Fan Noli",
     "street_name": "Rruga Fan Noli",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "ALL"
   },
   {
+    "name": "Klejdi Berisha",
+    "gender": "Male",
+    "phone_number": "+355 69 567 8901",
     "street_address": "34 Rruga e Elbasanit",
     "street_name": "Rruga e Elbasanit",
     "building_number": "34",
