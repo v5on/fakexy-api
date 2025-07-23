@@ -1,57 +1,72 @@
 [
-    {
-      "street_address": "12 Shoal Bay East",
-      "street_name": "Shoal Bay East",
-      "building_number": "12",
-      "city": "The Valley",
-      "state": "Anguilla",
-      "postal_code": "AI-2640",
-      "country": "Anguilla",
-      "country_code": "AI",
-      "currency": "XCD"
-    },
-    {
-      "street_address": "34 Sandy Ground Road",
-      "street_name": "Sandy Ground Road",
-      "building_number": "34",
-      "city": "Sandy Ground",
-      "state": "Anguilla",
-      "postal_code": "AI-2640",
-      "country": "Anguilla",
-      "country_code": "AI",
-      "currency": "XCD"
-    },
-    {
-      "street_address": "56 West End Bay Drive",
-      "street_name": "West End Bay Drive",
-      "building_number": "56",
-      "city": "West End Village",
-      "state": "Anguilla",
-      "postal_code": "AI-2640",
-      "country": "Anguilla",
-      "country_code": "AI",
-      "currency": "XCD"
-    },
-    {
-      "street_address": "78 Rendezvous Bay Street",
-      "street_name": "Rendezvous Bay Street",
-      "building_number": "78",
-      "city": "Rendezvous",
-      "state": "Anguilla",
-      "postal_code": "AI-2640",
-      "country": "Anguilla",
-      "country_code": "AI",
-      "currency": "XCD"
-    },
-    {
-      "street_address": "90 Meads Bay Road",
-      "street_name": "Meads Bay Road",
-      "building_number": "90",
-      "city": "Meads Bay",
-      "state": "Anguilla",
-      "postal_code": "AI-2640",
-      "country": "Anguilla",
-      "country_code": "AI",
-      "currency": "XCD"
-    }
-  ]
+  {
+    "name": "Liam Brooks",
+    "gender": "Male",
+    "phone_number": "+1 264 235 1234",
+    "street_address": "12 Shoal Bay East",
+    "street_name": "Shoal Bay East",
+    "building_number": "12",
+    "city": "The Valley",
+    "state": "Anguilla",
+    "postal_code": "AI-2640",
+    "country": "Anguilla",
+    "country_code": "AI",
+    "currency": "XCD"
+  },
+  {
+    "name": "Isla Harrigan",
+    "gender": "Female",
+    "phone_number": "+1 264 772 4567",
+    "street_address": "34 Sandy Ground Road",
+    "street_name": "Sandy Ground Road",
+    "building_number": "34",
+    "city": "Sandy Ground",
+    "state": "Anguilla",
+    "postal_code": "AI-2640",
+    "country": "Anguilla",
+    "country_code": "AI",
+    "currency": "XCD"
+  },
+  {
+    "name": "Noah Richardson",
+    "gender": "Male",
+    "phone_number": "+1 264 498 7890",
+    "street_address": "56 West End Bay Drive",
+    "street_name": "West End Bay Drive",
+    "building_number": "56",
+    "city": "West End Village",
+    "state": "Anguilla",
+    "postal_code": "AI-2640",
+    "country": "Anguilla",
+    "country_code": "AI",
+    "currency": "XCD"
+  },
+  {
+    "name": "Olivia Lake",
+    "gender": "Female",
+    "phone_number": "+1 264 581 3456",
+    "street_address": "78 Rendezvous Bay Street",
+    "street_name": "Rendezvous Bay Street",
+    "building_number": "78",
+    "city": "Rendezvous",
+    "state": "Anguilla",
+    "postal_code": "AI-2640",
+    "country": "Anguilla",
+    "country_code": "AI",
+    "currency": "XCD"
+  },
+  {
+    "name": "Ethan Gumbs",
+    "gender": "Male",
+    "phone_number": "+1 264 729 9876",
+    "street_address": "90 Meads Bay Road",
+    "street_name": "Meads Bay Road",
+    "building_number": "90",
+    "city": "Meads Bay",
+    "state": "Anguilla",
+    "postal_code": "AI-2640",
+    "country": "Anguilla",
+    "country_code": "AI",
+    "currency": "XCD"
+  }
+]
