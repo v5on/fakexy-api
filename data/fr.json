@@ -1,5 +1,8 @@
 [
   {
+    "name": "Louis Dubois",
+    "gender": "Male",
+    "phone_number": "+33 6 12 34 56 78",
     "street_address": "12 Rue de Rivoli",
     "street_name": "Rue de Rivoli",
     "building_number": "12",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Camille Lefevre",
+    "gender": "Female",
+    "phone_number": "+33 7 23 45 67 89",
     "street_address": "45 Avenue des Champs-Élysées",
     "street_name": "Avenue des Champs-Élysées",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Julien Martin",
+    "gender": "Male",
+    "phone_number": "+33 6 98 76 54 32",
     "street_address": "789 Boulevard de la Croisette",
     "street_name": "Boulevard de la Croisette",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Élise Bernard",
+    "gender": "Female",
+    "phone_number": "+33 7 65 43 21 00",
     "street_address": "34 Rue de la République",
     "street_name": "Rue de la République",
     "building_number": "34",
@@ -44,6 +56,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Thomas Moreau",
+    "gender": "Male",
+    "phone_number": "+33 6 55 44 33 22",
     "street_address": "12 Promenade des Anglais",
     "street_name": "Promenade des Anglais",
     "building_number": "12",
