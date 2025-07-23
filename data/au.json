@@ -1,5 +1,8 @@
 [
   {
+    "name": "Jack Thompson",
+    "gender": "Male",
+    "phone_number": "+61 412 345 678",
     "street_address": "123 George Street",
     "street_name": "George Street",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "AUD"
   },
   {
+    "name": "Olivia Harris",
+    "gender": "Female",
+    "phone_number": "+61 438 765 432",
     "street_address": "456 Collins Street",
     "street_name": "Collins Street",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "AUD"
   },
   {
+    "name": "Liam Wright",
+    "gender": "Male",
+    "phone_number": "+61 400 123 456",
     "street_address": "789 Adelaide Street",
     "street_name": "Adelaide Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "AUD"
   },
   {
+    "name": "Charlotte Mitchell",
+    "gender": "Female",
+    "phone_number": "+61 450 654 321",
     "street_address": "101 North Terrace",
     "street_name": "North Terrace",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "AUD"
   },
   {
+    "name": "Ethan Russell",
+    "gender": "Male",
+    "phone_number": "+61 422 789 012",
     "street_address": "34 St Georges Terrace",
     "street_name": "St Georges Terrace",
     "building_number": "34",
