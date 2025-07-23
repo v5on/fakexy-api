@@ -1,57 +1,72 @@
 [
-    {
-      "street_address": "1 Amundsen-Scott Station",
-      "street_name": "Amundsen-Scott South Pole Station",
-      "building_number": "1",
-      "city": "South Pole",
-      "state": "Antarctica",
-      "postal_code": "96598",
-      "country": "Antarctica",
-      "country_code": "AQ",
-      "currency": "None"
-    },
-    {
-      "street_address": "12 McMurdo Base Road",
-      "street_name": "McMurdo Station",
-      "building_number": "12",
-      "city": "McMurdo",
-      "state": "Ross Island",
-      "postal_code": "96599",
-      "country": "Antarctica",
-      "country_code": "AQ",
-      "currency": "None"
-    },
-    {
-      "street_address": "34 Rothera Point",
-      "street_name": "Rothera Research Station",
-      "building_number": "34",
-      "city": "Rothera",
-      "state": "Adelaide Island",
-      "postal_code": "N/A",
-      "country": "Antarctica",
-      "country_code": "AQ",
-      "currency": "None"
-    },
-    {
-      "street_address": "56 Esperanza Base",
-      "street_name": "Esperanza Station Road",
-      "building_number": "56",
-      "city": "Hope Bay",
-      "state": "Trinity Peninsula",
-      "postal_code": "N/A",
-      "country": "Antarctica",
-      "country_code": "AQ",
-      "currency": "None"
-    },
-    {
-      "street_address": "78 Zhongshan Base",
-      "street_name": "Zhongshan Station Road",
-      "building_number": "78",
-      "city": "Larsemann Hills",
-      "state": "Princess Elizabeth Land",
-      "postal_code": "N/A",
-      "country": "Antarctica",
-      "country_code": "AQ",
-      "currency": "None"
-    }
-  ]
+  {
+    "name": "Dr. Alex Morgan",
+    "gender": "Male",
+    "phone_number": "+672 11 0001",
+    "street_address": "1 Amundsen-Scott Station",
+    "street_name": "Amundsen-Scott South Pole Station",
+    "building_number": "1",
+    "city": "South Pole",
+    "state": "Antarctica",
+    "postal_code": "96598",
+    "country": "Antarctica",
+    "country_code": "AQ",
+    "currency": "None"
+  },
+  {
+    "name": "Dr. Sofia Lindström",
+    "gender": "Female",
+    "phone_number": "+672 11 0002",
+    "street_address": "12 McMurdo Base Road",
+    "street_name": "McMurdo Station",
+    "building_number": "12",
+    "city": "McMurdo",
+    "state": "Ross Island",
+    "postal_code": "96599",
+    "country": "Antarctica",
+    "country_code": "AQ",
+    "currency": "None"
+  },
+  {
+    "name": "Dr. Carlos Alvarez",
+    "gender": "Male",
+    "phone_number": "+672 11 0003",
+    "street_address": "34 Rothera Point",
+    "street_name": "Rothera Research Station",
+    "building_number": "34",
+    "city": "Rothera",
+    "state": "Adelaide Island",
+    "postal_code": "N/A",
+    "country": "Antarctica",
+    "country_code": "AQ",
+    "currency": "None"
+  },
+  {
+    "name": "Dr. Elena Petrova",
+    "gender": "Female",
+    "phone_number": "+672 11 0004",
+    "street_address": "56 Esperanza Base",
+    "street_name": "Esperanza Station Road",
+    "building_number": "56",
+    "city": "Hope Bay",
+    "state": "Trinity Peninsula",
+    "postal_code": "N/A",
+    "country": "Antarctica",
+    "country_code": "AQ",
+    "currency": "None"
+  },
+  {
+    "name": "Dr. Ming Zhao",
+    "gender": "Male",
+    "phone_number": "+672 11 0005",
+    "street_address": "78 Zhongshan Base",
+    "street_name": "Zhongshan Station Road",
+    "building_number": "78",
+    "city": "Larsemann Hills",
+    "state": "Princess Elizabeth Land",
+    "postal_code": "N/A",
+    "country": "Antarctica",
+    "country_code": "AQ",
+    "currency": "None"
+  }
+]
