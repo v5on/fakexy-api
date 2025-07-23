@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ahmad Zahir",
+    "gender": "Male",
+    "phone_number": "+93 70 123 4567",
     "street_address": "123 Darulaman Road",
     "street_name": "Darulaman Road",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "AFN"
   },
   {
+    "name": "Laila Noori",
+    "gender": "Female",
+    "phone_number": "+93 78 234 5678",
     "street_address": "45 Herat Bazaar Street",
     "street_name": "Herat Bazaar Street",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "AFN"
   },
   {
+    "name": "Mohammad Farid",
+    "gender": "Male",
+    "phone_number": "+93 77 345 6789",
     "street_address": "78 Kandahar Ring Road",
     "street_name": "Kandahar Ring Road",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "AFN"
   },
   {
+    "name": "Nadia Rahmani",
+    "gender": "Female",
+    "phone_number": "+93 75 456 7890",
     "street_address": "101 Jalalabad Main Road",
     "street_name": "Jalalabad Main Road",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "AFN"
   },
   {
+    "name": "Hamidullah Waziri",
+    "gender": "Male",
+    "phone_number": "+93 72 567 8901",
     "street_address": "34 Mazar-e-Sharif Central Street",
     "street_name": "Mazar-e-Sharif Central Street",
     "building_number": "34",
