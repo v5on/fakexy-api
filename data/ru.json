@@ -1,0 +1,57 @@
+[
+  {
+    "street_address": "Ulitsa Arbat 12",
+    "street_name": "Ulitsa Arbat",
+    "building_number": "12",
+    "city": "Moscow",
+    "state": "Moscow Oblast",
+    "postal_code": "119019",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "street_address": "Nevsky Prospekt 56",
+    "street_name": "Nevsky Prospekt",
+    "building_number": "56",
+    "city": "Saint Petersburg",
+    "state": "Leningrad Oblast",
+    "postal_code": "191011",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "street_address": "Lenina Street 23A",
+    "street_name": "Lenina Street",
+    "building_number": "23A",
+    "city": "Novosibirsk",
+    "state": "Novosibirsk Oblast",
+    "postal_code": "630099",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "street_address": "Prospekt Mira 78",
+    "street_name": "Prospekt Mira",
+    "building_number": "78",
+    "city": "Yekaterinburg",
+    "state": "Sverdlovsk Oblast",
+    "postal_code": "620075",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "street_address": "Kirova Street 11B",
+    "street_name": "Kirova Street",
+    "building_number": "11B",
+    "city": "Kazan",
+    "state": "Tatarstan",
+    "postal_code": "420111",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  }
+]
