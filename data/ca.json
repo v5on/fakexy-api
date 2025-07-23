@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ethan Walker",
+    "gender": "Male",
+    "phone_number": "+1 613-555-0123",
     "street_address": "24 Sussex Drive",
     "street_name": "Sussex Drive",
     "building_number": "24",
@@ -11,6 +14,9 @@
     "currency": "CAD"
   },
   {
+    "name": "Sophie Clarke",
+    "gender": "Female",
+    "phone_number": "+1 416-555-4567",
     "street_address": "100 Queen Street",
     "street_name": "Queen Street",
     "building_number": "100",
@@ -22,6 +28,9 @@
     "currency": "CAD"
   },
   {
+    "name": "Liam Bennett",
+    "gender": "Male",
+    "phone_number": "+1 604-555-7890",
     "street_address": "789 Robson Street",
     "street_name": "Robson Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "CAD"
   },
   {
+    "name": "Ava Dubois",
+    "gender": "Female",
+    "phone_number": "+1 514-555-2345",
     "street_address": "101 Saint Catherine Street",
     "street_name": "Saint Catherine Street",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "CAD"
   },
   {
+    "name": "Noah Sinclair",
+    "gender": "Male",
+    "phone_number": "+1 780-555-3456",
     "street_address": "234 Jasper Avenue",
     "street_name": "Jasper Avenue",
     "building_number": "234",
     "city": "Edmonton",
     "state": "Alberta",
     "postal_code": "T5J 1Y6",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "name": "Mia Thompson",
+    "gender": "Female",
+    "phone_number": "+1 902-555-6789",
+    "street_address": "98 Spring Garden Road",
+    "street_name": "Spring Garden Road",
+    "building_number": "98",
+    "city": "Halifax",
+    "state": "Nova Scotia",
+    "postal_code": "B3J 3R7",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "name": "Jackson Reid",
+    "gender": "Male",
+    "phone_number": "+1 403-555-1122",
+    "street_address": "12 Stephen Avenue",
+    "street_name": "Stephen Avenue",
+    "building_number": "12",
+    "city": "Calgary",
+    "state": "Alberta",
+    "postal_code": "T2P 3N4",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "name": "Isabella Roy",
+    "gender": "Female",
+    "phone_number": "+1 819-555-3344",
+    "street_address": "77 Laurier Street",
+    "street_name": "Laurier Street",
+    "building_number": "77",
+    "city": "Gatineau",
+    "state": "Quebec",
+    "postal_code": "J8X 3W1",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "name": "Benjamin Lee",
+    "gender": "Male",
+    "phone_number": "+1 204-555-5566",
+    "street_address": "56 Portage Avenue",
+    "street_name": "Portage Avenue",
+    "building_number": "56",
+    "city": "Winnipeg",
+    "state": "Manitoba",
+    "postal_code": "R3B 2E9",
+    "country": "Canada",
+    "country_code": "CA",
+    "currency": "CAD"
+  },
+  {
+    "name": "Charlotte Martin",
+    "gender": "Female",
+    "phone_number": "+1 306-555-7788",
+    "street_address": "33 Broadway Avenue",
+    "street_name": "Broadway Avenue",
+    "building_number": "33",
+    "city": "Regina",
+    "state": "Saskatchewan",
+    "postal_code": "S4P 1X8",
     "country": "Canada",
     "country_code": "CA",
     "currency": "CAD"
