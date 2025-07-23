@@ -1,5 +1,8 @@
 [
   {
+    "name": "Sok Rithy",
+    "gender": "Male",
+    "phone_number": "+855 12 345 678",
     "street_address": "123 Preah Norodom Boulevard",
     "street_name": "Preah Norodom Boulevard",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "KHR"
   },
   {
+    "name": "Chan Monyna",
+    "gender": "Female",
+    "phone_number": "+855 97 234 5678",
     "street_address": "456 Street 240",
     "street_name": "Street 240",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "KHR"
   },
   {
+    "name": "Piseth Sokha",
+    "gender": "Male",
+    "phone_number": "+855 16 123 456",
     "street_address": "789 Sisowath Quay",
     "street_name": "Sisowath Quay",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "KHR"
   },
   {
+    "name": "Sreyna Touch",
+    "gender": "Female",
+    "phone_number": "+855 11 456 789",
     "street_address": "101 Monivong Boulevard",
     "street_name": "Monivong Boulevard",
     "building_number": "101",
@@ -44,9 +56,82 @@
     "currency": "KHR"
   },
   {
+    "name": "Rithika Chenda",
+    "gender": "Female",
+    "phone_number": "+855 92 765 432",
     "street_address": "34 Russian Boulevard",
     "street_name": "Russian Boulevard",
     "building_number": "34",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "name": "Vannak Meas",
+    "gender": "Male",
+    "phone_number": "+855 10 987 654",
+    "street_address": "88 Kampuchea Krom Blvd",
+    "street_name": "Kampuchea Krom Blvd",
+    "building_number": "88",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "name": "Thida Chum",
+    "gender": "Female",
+    "phone_number": "+855 93 112 233",
+    "street_address": "77 Mao Tse Toung Blvd",
+    "street_name": "Mao Tse Toung Blvd",
+    "building_number": "77",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "name": "Chea Dara",
+    "gender": "Male",
+    "phone_number": "+855 15 321 654",
+    "street_address": "65 Street 63",
+    "street_name": "Street 63",
+    "building_number": "65",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "name": "Neary Sam",
+    "gender": "Female",
+    "phone_number": "+855 13 444 555",
+    "street_address": "92 Street 178",
+    "street_name": "Street 178",
+    "building_number": "92",
+    "city": "Phnom Penh",
+    "state": "Phnom Penh",
+    "postal_code": "12000",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "currency": "KHR"
+  },
+  {
+    "name": "Kosal Leng",
+    "gender": "Male",
+    "phone_number": "+855 98 666 777",
+    "street_address": "150 Norodom Blvd",
+    "street_name": "Norodom Blvd",
+    "building_number": "150",
     "city": "Phnom Penh",
     "state": "Phnom Penh",
     "postal_code": "12000",
