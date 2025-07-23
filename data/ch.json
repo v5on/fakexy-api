@@ -1,5 +1,8 @@
 [
   {
+    "name": "Luca Meier",
+    "gender": "Male",
+    "phone_number": "+41 79 123 4567",
     "street_address": "123 Bahnhofstrasse",
     "street_name": "Bahnhofstrasse",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "CHF"
   },
   {
+    "name": "Sophie Dupont",
+    "gender": "Female",
+    "phone_number": "+41 78 234 5678",
     "street_address": "456 Rue du Rhône",
     "street_name": "Rue du Rhône",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "CHF"
   },
   {
+    "name": "Noah Keller",
+    "gender": "Male",
+    "phone_number": "+41 76 345 6789",
     "street_address": "789 Bundesplatz",
     "street_name": "Bundesplatz",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "CHF"
   },
   {
+    "name": "Elena Rossi",
+    "gender": "Female",
+    "phone_number": "+41 77 456 7890",
     "street_address": "101 Via Nassa",
     "street_name": "Via Nassa",
     "building_number": "101",
@@ -44,9 +56,82 @@
     "currency": "CHF"
   },
   {
+    "name": "Tim Müller",
+    "gender": "Male",
+    "phone_number": "+41 79 567 8901",
     "street_address": "34 Rue du Mont-Blanc",
     "street_name": "Rue du Mont-Blanc",
     "building_number": "34",
+    "city": "Geneva",
+    "state": "Geneva",
+    "postal_code": "1201",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "name": "Anna Baumann",
+    "gender": "Female",
+    "phone_number": "+41 76 987 6543",
+    "street_address": "65 Limmatquai",
+    "street_name": "Limmatquai",
+    "building_number": "65",
+    "city": "Zurich",
+    "state": "Zurich",
+    "postal_code": "8001",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "name": "Jonas Weber",
+    "gender": "Male",
+    "phone_number": "+41 78 654 3210",
+    "street_address": "22 Marktgasse",
+    "street_name": "Marktgasse",
+    "building_number": "22",
+    "city": "Bern",
+    "state": "Bern",
+    "postal_code": "3011",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "name": "Claire Moreau",
+    "gender": "Female",
+    "phone_number": "+41 77 321 0987",
+    "street_address": "18 Place du Bourg-de-Four",
+    "street_name": "Place du Bourg-de-Four",
+    "building_number": "18",
+    "city": "Geneva",
+    "state": "Geneva",
+    "postal_code": "1204",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "name": "Leon Fischer",
+    "gender": "Male",
+    "phone_number": "+41 76 210 9876",
+    "street_address": "75 Seefeldstrasse",
+    "street_name": "Seefeldstrasse",
+    "building_number": "75",
+    "city": "Zurich",
+    "state": "Zurich",
+    "postal_code": "8008",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "currency": "CHF"
+  },
+  {
+    "name": "Nina Keller",
+    "gender": "Female",
+    "phone_number": "+41 79 876 5432",
+    "street_address": "50 Quai du Mont-Blanc",
+    "street_name": "Quai du Mont-Blanc",
+    "building_number": "50",
     "city": "Geneva",
     "state": "Geneva",
     "postal_code": "1201",
