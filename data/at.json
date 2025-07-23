@@ -1,5 +1,8 @@
 [
   {
+    "name": "Lukas Gruber",
+    "gender": "Male",
+    "phone_number": "+43 660 1234567",
     "street_address": "123 Mariahilfer Straße",
     "street_name": "Mariahilfer Straße",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Anna Hofer",
+    "gender": "Female",
+    "phone_number": "+43 676 2345678",
     "street_address": "45 Getreidegasse",
     "street_name": "Getreidegasse",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Maximilian Steiner",
+    "gender": "Male",
+    "phone_number": "+43 664 3456789",
     "street_address": "78 Maria-Theresien-Straße",
     "street_name": "Maria-Theresien-Straße",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Katharina Leitner",
+    "gender": "Female",
+    "phone_number": "+43 681 4567890",
     "street_address": "101 Herrengasse",
     "street_name": "Herrengasse",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Tobias Wagner",
+    "gender": "Male",
+    "phone_number": "+43 699 5678901",
     "street_address": "34 Landstraße",
     "street_name": "Landstraße",
     "building_number": "34",
