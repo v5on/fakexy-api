@@ -1,5 +1,8 @@
 [
   {
+    "name": "Carlos Martín",
+    "gender": "Male",
+    "phone_number": "+34 612 345 678",
     "street_address": "123 La Rambla",
     "street_name": "La Rambla",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Lucía Romero",
+    "gender": "Female",
+    "phone_number": "+34 634 987 654",
     "street_address": "456 Gran Vía",
     "street_name": "Gran Vía",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Javier Torres",
+    "gender": "Male",
+    "phone_number": "+34 622 789 012",
     "street_address": "789 Paseo de Gracia",
     "street_name": "Paseo de Gracia",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Elena Navarro",
+    "gender": "Female",
+    "phone_number": "+34 644 321 890",
     "street_address": "101 Calle de Serrano",
     "street_name": "Calle de Serrano",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Miguel Álvarez",
+    "gender": "Male",
+    "phone_number": "+34 688 210 345",
     "street_address": "34 Calle Larios",
     "street_name": "Calle Larios",
     "building_number": "34",
