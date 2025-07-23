@@ -1,5 +1,8 @@
 [
   {
+    "name": "Omar Al Farsi",
+    "gender": "Male",
+    "phone_number": "+971 50 123 4567",
     "street_address": "123 Sheikh Zayed Road",
     "street_name": "Sheikh Zayed Road",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "AED"
   },
   {
+    "name": "Aisha Al Mansoori",
+    "gender": "Female",
+    "phone_number": "+971 52 987 6543",
     "street_address": "45 Abu Dhabi Corniche",
     "street_name": "Abu Dhabi Corniche",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "AED"
   },
   {
+    "name": "Salim Al Rashed",
+    "gender": "Male",
+    "phone_number": "+971 55 765 4321",
     "street_address": "78 Al Majaz Street",
     "street_name": "Al Majaz Street",
     "building_number": "78",
@@ -33,6 +42,9 @@
     "currency": "AED"
   },
   {
+    "name": "Noora Al Suwaidi",
+    "gender": "Female",
+    "phone_number": "+971 56 345 6789",
     "street_address": "101 Al Qasimi Street",
     "street_name": "Al Qasimi Street",
     "building_number": "101",
@@ -44,6 +56,9 @@
     "currency": "AED"
   },
   {
+    "name": "Mohammed Al Marri",
+    "gender": "Male",
+    "phone_number": "+971 58 210 3344",
     "street_address": "34 Fujairah Street",
     "street_name": "Fujairah Street",
     "building_number": "34",
