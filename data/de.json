@@ -1,5 +1,8 @@
 [
   {
+    "name": "Max Müller",
+    "gender": "Male",
+    "phone_number": "+49 151 12345678",
     "street_address": "123 Kurfürstendamm",
     "street_name": "Kurfürstendamm",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Anna Schmidt",
+    "gender": "Female",
+    "phone_number": "+49 160 23456789",
     "street_address": "456 Marienplatz",
     "street_name": "Marienplatz",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Lukas Fischer",
+    "gender": "Male",
+    "phone_number": "+49 170 34567890",
     "street_address": "789 Königstraße",
     "street_name": "Königstraße",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "EUR"
   },
   {
+    "name": "Sophie Wagner",
+    "gender": "Female",
+    "phone_number": "+49 152 45678901",
     "street_address": "101 Zeil",
     "street_name": "Zeil",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "EUR"
   },
   {
+    "name": "Tim Becker",
+    "gender": "Male",
+    "phone_number": "+49 176 56789012",
     "street_address": "34 Schildergasse",
     "street_name": "Schildergasse",
     "building_number": "34",
     "city": "Cologne",
     "state": "North Rhine-Westphalia",
     "postal_code": "50667",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Laura Neumann",
+    "gender": "Female",
+    "phone_number": "+49 157 67890123",
+    "street_address": "78 Hauptstraße",
+    "street_name": "Hauptstraße",
+    "building_number": "78",
+    "city": "Dresden",
+    "state": "Saxony",
+    "postal_code": "01067",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Felix Hoffmann",
+    "gender": "Male",
+    "phone_number": "+49 155 78901234",
+    "street_address": "90 Friedrichstraße",
+    "street_name": "Friedrichstraße",
+    "building_number": "90",
+    "city": "Berlin",
+    "state": "Berlin",
+    "postal_code": "10117",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Mia Schäfer",
+    "gender": "Female",
+    "phone_number": "+49 159 89012345",
+    "street_address": "56 Leipziger Straße",
+    "street_name": "Leipziger Straße",
+    "building_number": "56",
+    "city": "Leipzig",
+    "state": "Saxony",
+    "postal_code": "04109",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Jonas Braun",
+    "gender": "Male",
+    "phone_number": "+49 162 90123456",
+    "street_address": "67 Marktstraße",
+    "street_name": "Marktstraße",
+    "building_number": "67",
+    "city": "Hannover",
+    "state": "Lower Saxony",
+    "postal_code": "30159",
+    "country": "Germany",
+    "country_code": "DE",
+    "currency": "EUR"
+  },
+  {
+    "name": "Nina Keller",
+    "gender": "Female",
+    "phone_number": "+49 163 01234567",
+    "street_address": "34 Bahnhofstraße",
+    "street_name": "Bahnhofstraße",
+    "building_number": "34",
+    "city": "Bremen",
+    "state": "Bremen",
+    "postal_code": "28195",
     "country": "Germany",
     "country_code": "DE",
     "currency": "EUR"
