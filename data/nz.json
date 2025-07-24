@@ -1,5 +1,8 @@
 [
   {
+    "name": "Oliver Smith",
+    "gender": "Male",
+    "phone_number": "+64 21 123 4567",
     "street_address": "123 Queen Street",
     "street_name": "Queen Street",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "NZD"
   },
   {
+    "name": "Emily Johnson",
+    "gender": "Female",
+    "phone_number": "+64 22 987 6543",
     "street_address": "456 Lambton Quay",
     "street_name": "Lambton Quay",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "NZD"
   },
   {
+    "name": "James Wilson",
+    "gender": "Male",
+    "phone_number": "+64 27 111 2233",
     "street_address": "789 Colombo Street",
     "street_name": "Colombo Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "NZD"
   },
   {
+    "name": "Sophie Davis",
+    "gender": "Female",
+    "phone_number": "+64 21 222 3344",
     "street_address": "101 Princes Street",
     "street_name": "Princes Street",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "NZD"
   },
   {
+    "name": "Liam Martin",
+    "gender": "Male",
+    "phone_number": "+64 29 555 6677",
     "street_address": "34 Devonport Road",
     "street_name": "Devonport Road",
     "building_number": "34",
     "city": "Tauranga",
     "state": "Bay of Plenty",
     "postal_code": "3110",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "name": "Ava Walker",
+    "gender": "Female",
+    "phone_number": "+64 20 888 9999",
+    "street_address": "77 Marine Parade",
+    "street_name": "Marine Parade",
+    "building_number": "77",
+    "city": "Napier",
+    "state": "Hawke's Bay",
+    "postal_code": "4110",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "name": "Noah Thompson",
+    "gender": "Male",
+    "phone_number": "+64 27 333 2211",
+    "street_address": "89 Victoria Avenue",
+    "street_name": "Victoria Avenue",
+    "building_number": "89",
+    "city": "Whanganui",
+    "state": "Manawatu-Whanganui",
+    "postal_code": "4500",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "name": "Isabella Moore",
+    "gender": "Female",
+    "phone_number": "+64 22 456 7890",
+    "street_address": "22 Esk Street",
+    "street_name": "Esk Street",
+    "building_number": "22",
+    "city": "Invercargill",
+    "state": "Southland",
+    "postal_code": "9810",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "name": "Ethan Brown",
+    "gender": "Male",
+    "phone_number": "+64 21 666 7777",
+    "street_address": "12 Victoria Street",
+    "street_name": "Victoria Street",
+    "building_number": "12",
+    "city": "Hamilton",
+    "state": "Waikato",
+    "postal_code": "3204",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "currency": "NZD"
+  },
+  {
+    "name": "Charlotte Taylor",
+    "gender": "Female",
+    "phone_number": "+64 29 111 8888",
+    "street_address": "66 Cameron Road",
+    "street_name": "Cameron Road",
+    "building_number": "66",
+    "city": "Tauranga",
+    "state": "Bay of Plenty",
+    "postal_code": "3112",
     "country": "New Zealand",
     "country_code": "NZ",
     "currency": "NZD"
