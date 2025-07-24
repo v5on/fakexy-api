@@ -1,5 +1,8 @@
 [
   {
+    "name": "Emma Johnson",
+    "gender": "Female",
+    "phone_number": "+1 212-555-0101",
     "street_address": "123 Main Street",
     "street_name": "Main Street",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "USD"
   },
   {
+    "name": "Liam Smith",
+    "gender": "Male",
+    "phone_number": "+1 323-555-0102",
     "street_address": "456 Hollywood Boulevard",
     "street_name": "Hollywood Boulevard",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "USD"
   },
   {
+    "name": "Olivia Brown",
+    "gender": "Female",
+    "phone_number": "+1 312-555-0103",
     "street_address": "789 Michigan Avenue",
     "street_name": "Michigan Avenue",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "USD"
   },
   {
+    "name": "Noah Davis",
+    "gender": "Male",
+    "phone_number": "+1 404-555-0104",
     "street_address": "101 Peachtree Street",
     "street_name": "Peachtree Street",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "USD"
   },
   {
+    "name": "Ava Wilson",
+    "gender": "Female",
+    "phone_number": "+1 504-555-0105",
     "street_address": "34 Bourbon Street",
     "street_name": "Bourbon Street",
     "building_number": "34",
     "city": "New Orleans",
     "state": "Louisiana",
     "postal_code": "70116",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "name": "Ethan Martinez",
+    "gender": "Male",
+    "phone_number": "+1 617-555-0106",
+    "street_address": "78 Beacon Street",
+    "street_name": "Beacon Street",
+    "building_number": "78",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "postal_code": "02108",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "name": "Sophia Anderson",
+    "gender": "Female",
+    "phone_number": "+1 206-555-0107",
+    "street_address": "90 Pike Street",
+    "street_name": "Pike Street",
+    "building_number": "90",
+    "city": "Seattle",
+    "state": "Washington",
+    "postal_code": "98101",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "name": "Mason Taylor",
+    "gender": "Male",
+    "phone_number": "+1 512-555-0108",
+    "street_address": "150 Congress Avenue",
+    "street_name": "Congress Avenue",
+    "building_number": "150",
+    "city": "Austin",
+    "state": "Texas",
+    "postal_code": "78701",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "name": "Isabella Moore",
+    "gender": "Female",
+    "phone_number": "+1 215-555-0109",
+    "street_address": "200 Market Street",
+    "street_name": "Market Street",
+    "building_number": "200",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "postal_code": "19106",
+    "country": "United States",
+    "country_code": "US",
+    "currency": "USD"
+  },
+  {
+    "name": "Logan Thomas",
+    "gender": "Male",
+    "phone_number": "+1 303-555-0110",
+    "street_address": "65 Broadway",
+    "street_name": "Broadway",
+    "building_number": "65",
+    "city": "Denver",
+    "state": "Colorado",
+    "postal_code": "80203",
     "country": "United States",
     "country_code": "US",
     "currency": "USD"
