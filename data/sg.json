@@ -1,5 +1,8 @@
 [
   {
+    "name": "Daniel Tan",
+    "gender": "Male",
+    "phone_number": "+65 9123 4567",
     "street_address": "10 Orchard Road",
     "street_name": "Orchard Road",
     "building_number": "10",
@@ -11,6 +14,9 @@
     "currency": "SGD"
   },
   {
+    "name": "Amanda Lim",
+    "gender": "Female",
+    "phone_number": "+65 9234 5678",
     "street_address": "45 Marina Bay Sands",
     "street_name": "Marina Bay Sands",
     "building_number": "45",
@@ -22,6 +28,9 @@
     "currency": "SGD"
   },
   {
+    "name": "Marcus Lee",
+    "gender": "Male",
+    "phone_number": "+65 9345 6789",
     "street_address": "789 Bugis Street",
     "street_name": "Bugis Street",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "SGD"
   },
   {
+    "name": "Cheryl Ng",
+    "gender": "Female",
+    "phone_number": "+65 9456 7890",
     "street_address": "34 Clarke Quay",
     "street_name": "Clarke Quay",
     "building_number": "34",
@@ -44,12 +56,85 @@
     "currency": "SGD"
   },
   {
+    "name": "Kelvin Goh",
+    "gender": "Male",
+    "phone_number": "+65 9567 8901",
     "street_address": "12 Sentosa Gateway",
     "street_name": "Sentosa Gateway",
     "building_number": "12",
     "city": "Singapore",
     "state": "Singapore",
     "postal_code": "098138",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "name": "Rachel Yeo",
+    "gender": "Female",
+    "phone_number": "+65 9678 9012",
+    "street_address": "56 Raffles Place",
+    "street_name": "Raffles Place",
+    "building_number": "56",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "048623",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "name": "Benjamin Koh",
+    "gender": "Male",
+    "phone_number": "+65 9789 0123",
+    "street_address": "101 Serangoon Road",
+    "street_name": "Serangoon Road",
+    "building_number": "101",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "218000",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "name": "Joanne Teo",
+    "gender": "Female",
+    "phone_number": "+65 9890 1234",
+    "street_address": "88 Tiong Bahru Road",
+    "street_name": "Tiong Bahru Road",
+    "building_number": "88",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "168819",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "name": "Darren Chua",
+    "gender": "Male",
+    "phone_number": "+65 9001 2345",
+    "street_address": "77 Tampines Avenue",
+    "street_name": "Tampines Avenue",
+    "building_number": "77",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "529644",
+    "country": "Singapore",
+    "country_code": "SG",
+    "currency": "SGD"
+  },
+  {
+    "name": "Melissa Tan",
+    "gender": "Female",
+    "phone_number": "+65 9112 3456",
+    "street_address": "32 Bukit Timah Road",
+    "street_name": "Bukit Timah Road",
+    "building_number": "32",
+    "city": "Singapore",
+    "state": "Singapore",
+    "postal_code": "229837",
     "country": "Singapore",
     "country_code": "SG",
     "currency": "SGD"
