@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ahmet Demir",
+    "gender": "Male",
+    "phone_number": "+90 532 123 4567",
     "street_address": "123 Istiklal Caddesi",
     "street_name": "Istiklal Caddesi",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "TRY"
   },
   {
+    "name": "Elif Yıldız",
+    "gender": "Female",
+    "phone_number": "+90 533 234 5678",
     "street_address": "456 Ataturk Bulvari",
     "street_name": "Ataturk Bulvari",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "TRY"
   },
   {
+    "name": "Mehmet Kaya",
+    "gender": "Male",
+    "phone_number": "+90 534 345 6789",
     "street_address": "789 Kordon Boyu",
     "street_name": "Kordon Boyu",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "TRY"
   },
   {
+    "name": "Zeynep Acar",
+    "gender": "Female",
+    "phone_number": "+90 535 456 7890",
     "street_address": "101 Cumhuriyet Caddesi",
     "street_name": "Cumhuriyet Caddesi",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "TRY"
   },
   {
+    "name": "Emre Şahin",
+    "gender": "Male",
+    "phone_number": "+90 536 567 8901",
     "street_address": "34 Sahil Yolu",
     "street_name": "Sahil Yolu",
     "building_number": "34",
     "city": "Bodrum",
     "state": "Mugla",
     "postal_code": "48400",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "name": "Aylin Karaca",
+    "gender": "Female",
+    "phone_number": "+90 537 678 9012",
+    "street_address": "88 Barış Manço Caddesi",
+    "street_name": "Barış Manço Caddesi",
+    "building_number": "88",
+    "city": "Bursa",
+    "state": "Bursa",
+    "postal_code": "16050",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "name": "Burak Gül",
+    "gender": "Male",
+    "phone_number": "+90 538 789 0123",
+    "street_address": "55 Mevlana Caddesi",
+    "street_name": "Mevlana Caddesi",
+    "building_number": "55",
+    "city": "Konya",
+    "state": "Konya",
+    "postal_code": "42030",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "name": "Derya Özdemir",
+    "gender": "Female",
+    "phone_number": "+90 539 890 1234",
+    "street_address": "21 Karagöz Sk.",
+    "street_name": "Karagöz Sk.",
+    "building_number": "21",
+    "city": "Gaziantep",
+    "state": "Gaziantep",
+    "postal_code": "27010",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "name": "Yusuf Erdem",
+    "gender": "Male",
+    "phone_number": "+90 540 901 2345",
+    "street_address": "77 İstasyon Caddesi",
+    "street_name": "İstasyon Caddesi",
+    "building_number": "77",
+    "city": "Eskişehir",
+    "state": "Eskişehir",
+    "postal_code": "26010",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "currency": "TRY"
+  },
+  {
+    "name": "Selin Arslan",
+    "gender": "Female",
+    "phone_number": "+90 541 012 3456",
+    "street_address": "90 Gazi Mustafa Kemal Bulvarı",
+    "street_name": "Gazi Mustafa Kemal Bulvarı",
+    "building_number": "90",
+    "city": "Mersin",
+    "state": "Mersin",
+    "postal_code": "33010",
     "country": "Turkiye",
     "country_code": "TR",
     "currency": "TRY"
