@@ -1,5 +1,8 @@
 [
   {
+    "name": "Ivan Petrov",
+    "gender": "Male",
+    "phone_number": "+7 495 123-45-67",
     "street_address": "Ulitsa Arbat 12",
     "street_name": "Ulitsa Arbat",
     "building_number": "12",
@@ -11,6 +14,9 @@
     "currency": "RUB"
   },
   {
+    "name": "Anna Ivanova",
+    "gender": "Female",
+    "phone_number": "+7 812 234-56-78",
     "street_address": "Nevsky Prospekt 56",
     "street_name": "Nevsky Prospekt",
     "building_number": "56",
@@ -22,6 +28,9 @@
     "currency": "RUB"
   },
   {
+    "name": "Dmitry Sokolov",
+    "gender": "Male",
+    "phone_number": "+7 383 345-67-89",
     "street_address": "Lenina Street 23A",
     "street_name": "Lenina Street",
     "building_number": "23A",
@@ -33,6 +42,9 @@
     "currency": "RUB"
   },
   {
+    "name": "Elena Smirnova",
+    "gender": "Female",
+    "phone_number": "+7 343 456-78-90",
     "street_address": "Prospekt Mira 78",
     "street_name": "Prospekt Mira",
     "building_number": "78",
@@ -44,12 +56,85 @@
     "currency": "RUB"
   },
   {
+    "name": "Sergey Volkov",
+    "gender": "Male",
+    "phone_number": "+7 843 567-89-01",
     "street_address": "Kirova Street 11B",
     "street_name": "Kirova Street",
     "building_number": "11B",
     "city": "Kazan",
     "state": "Tatarstan",
     "postal_code": "420111",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "name": "Nina Morozova",
+    "gender": "Female",
+    "phone_number": "+7 861 678-90-12",
+    "street_address": "123 Krasnaya Street",
+    "street_name": "Krasnaya Street",
+    "building_number": "123",
+    "city": "Krasnodar",
+    "state": "Krasnodar Krai",
+    "postal_code": "350000",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "name": "Alexey Egorov",
+    "gender": "Male",
+    "phone_number": "+7 3952 789-01-23",
+    "street_address": "45 Baikalskaya Street",
+    "street_name": "Baikalskaya Street",
+    "building_number": "45",
+    "city": "Irkutsk",
+    "state": "Irkutsk Oblast",
+    "postal_code": "664000",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "name": "Maria Kuznetsova",
+    "gender": "Female",
+    "phone_number": "+7 4012 890-12-34",
+    "street_address": "78 Leninskaya Street",
+    "street_name": "Leninskaya Street",
+    "building_number": "78",
+    "city": "Kaliningrad",
+    "state": "Kaliningrad Oblast",
+    "postal_code": "236000",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "name": "Vladimir Morozov",
+    "gender": "Male",
+    "phone_number": "+7 812 901-23-45",
+    "street_address": "101 Pushkinskaya Street",
+    "street_name": "Pushkinskaya Street",
+    "building_number": "101",
+    "city": "Saint Petersburg",
+    "state": "Leningrad Oblast",
+    "postal_code": "191123",
+    "country": "Russia",
+    "country_code": "RU",
+    "currency": "RUB"
+  },
+  {
+    "name": "Irina Vlasova",
+    "gender": "Female",
+    "phone_number": "+7 343 012-34-56",
+    "street_address": "34 Sovetskaya Street",
+    "street_name": "Sovetskaya Street",
+    "building_number": "34",
+    "city": "Yekaterinburg",
+    "state": "Sverdlovsk Oblast",
+    "postal_code": "620144",
     "country": "Russia",
     "country_code": "RU",
     "currency": "RUB"
