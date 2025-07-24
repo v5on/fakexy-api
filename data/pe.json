@@ -1,5 +1,8 @@
 [
   {
+    "name": "Luis García",
+    "gender": "Male",
+    "phone_number": "+51 912 345 678",
     "street_address": "123 Avenida Arequipa",
     "street_name": "Avenida Arequipa",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "PEN"
   },
   {
+    "name": "María López",
+    "gender": "Female",
+    "phone_number": "+51 987 654 321",
     "street_address": "456 Jirón de la Unión",
     "street_name": "Jirón de la Unión",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "PEN"
   },
   {
+    "name": "Carlos Fernández",
+    "gender": "Male",
+    "phone_number": "+51 911 223 344",
     "street_address": "789 Avenida Javier Prado",
     "street_name": "Avenida Javier Prado",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "PEN"
   },
   {
+    "name": "Ana Morales",
+    "gender": "Female",
+    "phone_number": "+51 944 556 677",
     "street_address": "101 Avenida Larco",
     "street_name": "Avenida Larco",
     "building_number": "101",
@@ -44,9 +56,82 @@
     "currency": "PEN"
   },
   {
+    "name": "Jorge Ramírez",
+    "gender": "Male",
+    "phone_number": "+51 955 667 788",
     "street_address": "34 Calle Los Pinos",
     "street_name": "Calle Los Pinos",
     "building_number": "34",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "name": "Lucía Herrera",
+    "gender": "Female",
+    "phone_number": "+51 922 889 001",
+    "street_address": "222 Avenida Venezuela",
+    "street_name": "Avenida Venezuela",
+    "building_number": "222",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "name": "José Rojas",
+    "gender": "Male",
+    "phone_number": "+51 977 001 234",
+    "street_address": "303 Jirón Cusco",
+    "street_name": "Jirón Cusco",
+    "building_number": "303",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "name": "Sofía Castro",
+    "gender": "Female",
+    "phone_number": "+51 933 220 110",
+    "street_address": "55 Calle Lima",
+    "street_name": "Calle Lima",
+    "building_number": "55",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "name": "Andrés Torres",
+    "gender": "Male",
+    "phone_number": "+51 988 331 122",
+    "street_address": "66 Avenida Benavides",
+    "street_name": "Avenida Benavides",
+    "building_number": "66",
+    "city": "Lima",
+    "state": "Lima",
+    "postal_code": "15001",
+    "country": "Peru",
+    "country_code": "PE",
+    "currency": "PEN"
+  },
+  {
+    "name": "Elena Vargas",
+    "gender": "Female",
+    "phone_number": "+51 900 556 799",
+    "street_address": "77 Calle Los Sauces",
+    "street_name": "Calle Los Sauces",
+    "building_number": "77",
     "city": "Lima",
     "state": "Lima",
     "postal_code": "15001",
