@@ -1,5 +1,8 @@
 [
   {
+    "name": "Carlos Rodríguez",
+    "gender": "Male",
+    "phone_number": "+507 6123 4567",
     "street_address": "123 Via España",
     "street_name": "Via España",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "PAB"
   },
   {
+    "name": "Ana González",
+    "gender": "Female",
+    "phone_number": "+507 6987 4321",
     "street_address": "456 Avenida Balboa",
     "street_name": "Avenida Balboa",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "PAB"
   },
   {
+    "name": "Luis Martínez",
+    "gender": "Male",
+    "phone_number": "+507 6111 8899",
     "street_address": "789 Calle 50",
     "street_name": "Calle 50",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "PAB"
   },
   {
+    "name": "Gabriela Moreno",
+    "gender": "Female",
+    "phone_number": "+507 6777 3456",
     "street_address": "101 Avenida Central",
     "street_name": "Avenida Central",
     "building_number": "101",
@@ -44,9 +56,82 @@
     "currency": "PAB"
   },
   {
+    "name": "Roberto Díaz",
+    "gender": "Male",
+    "phone_number": "+507 6345 2233",
     "street_address": "34 Calle Uruguay",
     "street_name": "Calle Uruguay",
     "building_number": "34",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "name": "Paola Sánchez",
+    "gender": "Female",
+    "phone_number": "+507 6555 4433",
+    "street_address": "67 Vía Ricardo J. Alfaro",
+    "street_name": "Vía Ricardo J. Alfaro",
+    "building_number": "67",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "name": "Miguel Herrera",
+    "gender": "Male",
+    "phone_number": "+507 6444 5566",
+    "street_address": "89 Calle 12 Este",
+    "street_name": "Calle 12 Este",
+    "building_number": "89",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "name": "Laura Jiménez",
+    "gender": "Female",
+    "phone_number": "+507 6234 7788",
+    "street_address": "23 Avenida Justo Arosemena",
+    "street_name": "Avenida Justo Arosemena",
+    "building_number": "23",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "name": "Javier Castillo",
+    "gender": "Male",
+    "phone_number": "+507 6888 9900",
+    "street_address": "77 Calle Elvira Méndez",
+    "street_name": "Calle Elvira Méndez",
+    "building_number": "77",
+    "city": "Panama City",
+    "state": "Panama",
+    "postal_code": "0801",
+    "country": "Panama",
+    "country_code": "PA",
+    "currency": "PAB"
+  },
+  {
+    "name": "María Torres",
+    "gender": "Female",
+    "phone_number": "+507 6999 8877",
+    "street_address": "58 Avenida Cuba",
+    "street_name": "Avenida Cuba",
+    "building_number": "58",
     "city": "Panama City",
     "state": "Panama",
     "postal_code": "0801",
