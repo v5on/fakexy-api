@@ -1,5 +1,8 @@
 [
   {
+    "name": "Emily Clarke",
+    "gender": "Female",
+    "phone_number": "+44 7700 900001",
     "street_address": "10 Downing Street",
     "street_name": "Downing Street",
     "building_number": "10",
@@ -7,10 +10,13 @@
     "state": "England",
     "postal_code": "SW1A 2AA",
     "country": "United Kingdom",
-    "country_code": ["GB", "UK"],
+    "country_code": "UK",
     "currency": "GBP"
   },
   {
+    "name": "James Watson",
+    "gender": "Male",
+    "phone_number": "+44 7700 900002",
     "street_address": "221B Baker Street",
     "street_name": "Baker Street",
     "building_number": "221B",
@@ -18,10 +24,13 @@
     "state": "England",
     "postal_code": "NW1 6XE",
     "country": "United Kingdom",
-    "country_code": ["GB", "UK"],
+    "country_code": "UK",
     "currency": "GBP"
   },
   {
+    "name": "Sophie Hughes",
+    "gender": "Female",
+    "phone_number": "+44 7700 900003",
     "street_address": "45 Oxford Street",
     "street_name": "Oxford Street",
     "building_number": "45",
@@ -29,10 +38,13 @@
     "state": "England",
     "postal_code": "W1D 1BS",
     "country": "United Kingdom",
-    "country_code": ["GB", "UK"],
+    "country_code": "UK",
     "currency": "GBP"
   },
   {
+    "name": "Daniel Thompson",
+    "gender": "Male",
+    "phone_number": "+44 7700 900004",
     "street_address": "78 Princess Street",
     "street_name": "Princess Street",
     "building_number": "78",
@@ -40,10 +52,13 @@
     "state": "England",
     "postal_code": "M1 6EN",
     "country": "United Kingdom",
-    "country_code": ["GB", "UK"],
+    "country_code": "UK",
     "currency": "GBP"
   },
   {
+    "name": "Fiona MacDonald",
+    "gender": "Female",
+    "phone_number": "+44 7700 900005",
     "street_address": "12 Royal Mile",
     "street_name": "Royal Mile",
     "building_number": "12",
@@ -51,7 +66,77 @@
     "state": "Scotland",
     "postal_code": "EH1 1QS",
     "country": "United Kingdom",
-    "country_code": ["GB", "UK"],
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "name": "Oliver Brown",
+    "gender": "Male",
+    "phone_number": "+44 7700 900006",
+    "street_address": "101 King Street",
+    "street_name": "King Street",
+    "building_number": "101",
+    "city": "Bristol",
+    "state": "England",
+    "postal_code": "BS1 4EQ",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "name": "Chloe Green",
+    "gender": "Female",
+    "phone_number": "+44 7700 900007",
+    "street_address": "88 Queen Street",
+    "street_name": "Queen Street",
+    "building_number": "88",
+    "city": "Glasgow",
+    "state": "Scotland",
+    "postal_code": "G1 3DN",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "name": "Liam Edwards",
+    "gender": "Male",
+    "phone_number": "+44 7700 900008",
+    "street_address": "56 Castle Road",
+    "street_name": "Castle Road",
+    "building_number": "56",
+    "city": "Cardiff",
+    "state": "Wales",
+    "postal_code": "CF10 1AA",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "name": "Isla Davies",
+    "gender": "Female",
+    "phone_number": "+44 7700 900009",
+    "street_address": "30 Prince Street",
+    "street_name": "Prince Street",
+    "building_number": "30",
+    "city": "Belfast",
+    "state": "Northern Ireland",
+    "postal_code": "BT1 4GF",
+    "country": "United Kingdom",
+    "country_code": "UK",
+    "currency": "GBP"
+  },
+  {
+    "name": "Benjamin Hall",
+    "gender": "Male",
+    "phone_number": "+44 7700 900010",
+    "street_address": "77 Victoria Road",
+    "street_name": "Victoria Road",
+    "building_number": "77",
+    "city": "Leeds",
+    "state": "England",
+    "postal_code": "LS1 6AZ",
+    "country": "United Kingdom",
+    "country_code": "UK",
     "currency": "GBP"
   }
 ]
