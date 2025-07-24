@@ -1,5 +1,8 @@
 [
   {
+    "name": "Youssef El Mansouri",
+    "gender": "Male",
+    "phone_number": "+212 612 345 678",
     "street_address": "123 Avenue Mohammed V",
     "street_name": "Avenue Mohammed V",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "MAD"
   },
   {
+    "name": "Salma Idrissi",
+    "gender": "Female",
+    "phone_number": "+212 633 987 654",
     "street_address": "456 Boulevard Mohamed VI",
     "street_name": "Boulevard Mohamed VI",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "MAD"
   },
   {
+    "name": "Karim Bennis",
+    "gender": "Male",
+    "phone_number": "+212 655 789 012",
     "street_address": "789 Rue de la Liberté",
     "street_name": "Rue de la Liberté",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "MAD"
   },
   {
+    "name": "Nadia Othmani",
+    "gender": "Female",
+    "phone_number": "+212 677 321 890",
     "street_address": "101 Avenue Hassan II",
     "street_name": "Avenue Hassan II",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "MAD"
   },
   {
+    "name": "Amine Berrada",
+    "gender": "Male",
+    "phone_number": "+212 688 210 345",
     "street_address": "34 Rue de la Résistance",
     "street_name": "Rue de la Résistance",
     "building_number": "34",
     "city": "Tangier",
     "state": "Tanger-Tétouan-Al Hoceïma",
     "postal_code": "90000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "name": "Imane Sebti",
+    "gender": "Female",
+    "phone_number": "+212 661 223 344",
+    "street_address": "200 Rue Zerktouni",
+    "street_name": "Rue Zerktouni",
+    "building_number": "200",
+    "city": "Agadir",
+    "state": "Souss-Massa",
+    "postal_code": "80000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "name": "Rachid Amrani",
+    "gender": "Male",
+    "phone_number": "+212 612 998 877",
+    "street_address": "89 Boulevard Anfa",
+    "street_name": "Boulevard Anfa",
+    "building_number": "89",
+    "city": "Casablanca",
+    "state": "Casablanca-Settat",
+    "postal_code": "20050",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "name": "Zineb Hakam",
+    "gender": "Female",
+    "phone_number": "+212 644 889 776",
+    "street_address": "56 Avenue Allal El Fassi",
+    "street_name": "Avenue Allal El Fassi",
+    "building_number": "56",
+    "city": "Oujda",
+    "state": "Oriental",
+    "postal_code": "60000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "name": "Ayoub Meziane",
+    "gender": "Male",
+    "phone_number": "+212 655 443 322",
+    "street_address": "67 Rue Al Qods",
+    "street_name": "Rue Al Qods",
+    "building_number": "67",
+    "city": "Tétouan",
+    "state": "Tanger-Tétouan-Al Hoceïma",
+    "postal_code": "93000",
+    "country": "Morocco",
+    "country_code": "MA",
+    "currency": "MAD"
+  },
+  {
+    "name": "Hajar El Fassi",
+    "gender": "Female",
+    "phone_number": "+212 677 332 211",
+    "street_address": "98 Avenue des FAR",
+    "street_name": "Avenue des FAR",
+    "building_number": "98",
+    "city": "Kenitra",
+    "state": "Rabat-Salé-Kénitra",
+    "postal_code": "14000",
     "country": "Morocco",
     "country_code": "MA",
     "currency": "MAD"
