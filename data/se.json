@@ -1,5 +1,8 @@
 [
   {
+    "name": "Erik Lindström",
+    "gender": "Male",
+    "phone_number": "+46 70 123 45 67",
     "street_address": "123 Drottninggatan",
     "street_name": "Drottninggatan",
     "building_number": "123",
@@ -11,6 +14,9 @@
     "currency": "SEK"
   },
   {
+    "name": "Anna Svensson",
+    "gender": "Female",
+    "phone_number": "+46 73 234 56 78",
     "street_address": "456 Kungsportsavenyn",
     "street_name": "Kungsportsavenyn",
     "building_number": "456",
@@ -22,6 +28,9 @@
     "currency": "SEK"
   },
   {
+    "name": "Johan Karlsson",
+    "gender": "Male",
+    "phone_number": "+46 72 345 67 89",
     "street_address": "789 Stora Nygatan",
     "street_name": "Stora Nygatan",
     "building_number": "789",
@@ -33,6 +42,9 @@
     "currency": "SEK"
   },
   {
+    "name": "Emelie Andersson",
+    "gender": "Female",
+    "phone_number": "+46 76 456 78 90",
     "street_address": "101 Storgatan",
     "street_name": "Storgatan",
     "building_number": "101",
@@ -44,12 +56,85 @@
     "currency": "SEK"
   },
   {
+    "name": "Lars Nilsson",
+    "gender": "Male",
+    "phone_number": "+46 74 567 89 01",
     "street_address": "34 Norra Vallgatan",
     "street_name": "Norra Vallgatan",
     "building_number": "34",
     "city": "Lund",
     "state": "Skåne",
     "postal_code": "222 22",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "name": "Sara Berg",
+    "gender": "Female",
+    "phone_number": "+46 79 678 90 12",
+    "street_address": "12 Kungsgatan",
+    "street_name": "Kungsgatan",
+    "building_number": "12",
+    "city": "Stockholm",
+    "state": "Stockholm",
+    "postal_code": "111 22",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "name": "Anders Ek",
+    "gender": "Male",
+    "phone_number": "+46 75 789 01 23",
+    "street_address": "88 Vasagatan",
+    "street_name": "Vasagatan",
+    "building_number": "88",
+    "city": "Göteborg",
+    "state": "Västra Götaland",
+    "postal_code": "411 37",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "name": "Maria Holm",
+    "gender": "Female",
+    "phone_number": "+46 71 890 12 34",
+    "street_address": "55 Lilla Torg",
+    "street_name": "Lilla Torg",
+    "building_number": "55",
+    "city": "Malmö",
+    "state": "Skåne",
+    "postal_code": "211 38",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "name": "Fredrik Nyström",
+    "gender": "Male",
+    "phone_number": "+46 78 901 23 45",
+    "street_address": "66 Drottninggatan",
+    "street_name": "Drottninggatan",
+    "building_number": "66",
+    "city": "Uppsala",
+    "state": "Uppsala",
+    "postal_code": "753 32",
+    "country": "Sweden",
+    "country_code": "SE",
+    "currency": "SEK"
+  },
+  {
+    "name": "Carolina Åkesson",
+    "gender": "Female",
+    "phone_number": "+46 70 012 34 56",
+    "street_address": "99 Södra Esplanaden",
+    "street_name": "Södra Esplanaden",
+    "building_number": "99",
+    "city": "Lund",
+    "state": "Skåne",
+    "postal_code": "222 23",
     "country": "Sweden",
     "country_code": "SE",
     "currency": "SEK"
